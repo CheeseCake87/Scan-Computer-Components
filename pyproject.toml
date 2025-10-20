@@ -11,9 +11,4 @@ dependencies = [
 ]
 
 [tool.pyqwe]
-flask = "*:flask --app app.wsgi run --debug"
-huey = "*:huey_consumer.py app.scheduler.huey"
-prod = [
-    "*:gunicorn",
-#    "*:huey_consumer.py app.scheduler.huey"
-]
+fetch = "*:python3 -m fetcher"
