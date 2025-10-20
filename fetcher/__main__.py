@@ -19,6 +19,10 @@ def process_urls():
     if not pricing_data_file.exists():
         pricing_data_file.touch()
 
+    # Delete all html files in the html folder
+    for html_file in html_path.iterdir():
+        html_file.unlink()
+
     list_of_dict = [
         AMD_MOBO_URLS,
         AMD_CPU_URLS,
