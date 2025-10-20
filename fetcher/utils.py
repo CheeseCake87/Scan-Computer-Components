@@ -18,8 +18,6 @@ def fetch_html(url: str, html_file: Path) -> str:
         headers=HEADERS,
     )
 
-    print(html_doc.status_code)
-
     if html_doc.status_code != 200:
         raise Exception("Failed to fetch HTML content")
 
