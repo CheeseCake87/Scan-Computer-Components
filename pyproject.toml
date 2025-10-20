@@ -1,0 +1,19 @@
+[project]
+name = "scan-crawler"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "pyqwe>=3.1.1",
+    "requests>=2.32.5",
+    "ruff>=0.13.3",
+]
+
+[tool.pyqwe]
+flask = "*:flask --app app.wsgi run --debug"
+huey = "*:huey_consumer.py app.scheduler.huey"
+prod = [
+    "*:gunicorn",
+#    "*:huey_consumer.py app.scheduler.huey"
+]

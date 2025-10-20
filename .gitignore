@@ -1,0 +1,6 @@
+.idea/
+.venv/
+instance/
+instance_/
+pricing/html/
+.env
