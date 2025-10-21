@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [tool.pyqwe]
-fetch = "*:python3 -m fetcher"
+run = "*:python3 -m fetcher"
