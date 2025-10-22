@@ -53,5 +53,5 @@ def process_urls():
     pricing_data_file.write_text(json.dumps(pricing_data, indent=4))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     process_urls()
