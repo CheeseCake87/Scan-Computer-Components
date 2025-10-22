@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-10-22T12:35:17.777275",
+    "__fetched__": "2025-10-22T12:46:20.397816",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -982,22 +982,6 @@
             "availability": "In Stock"
         }
     },
-    "cpu-am5-ryzen-7-5000": {
-        "LN125002": {
-            "ln_number": "LN125002",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 7 5700X, AM4, Zen 3, 8 Core, 16 Thread, 3.4GHz, 4.6GHz Turbo, 36MB Cache, PCIe 4.0, 65W, CPU",
-            "price": 13699,
-            "availability": "In Stock"
-        },
-        "LN111442": {
-            "ln_number": "LN111442",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 7 5800X, AM4, Zen 3, 8 Core, 16 Thread, 3.8GHz, 4.7GHz Turbo, 36MB Cache, PCIe 4.0, 105W, CPU Retail",
-            "price": 13999,
-            "availability": "In Stock"
-        }
-    },
     "cpu-am5-ryzen-5-9000": {
         "LN149413": {
             "ln_number": "LN149413",
@@ -1059,6 +1043,22 @@
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 8700G, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.1GHz Turbo, 24MB Cache, PCIe 4.0, 65W, CPU, Retail",
             "price": 25999,
+            "availability": "In Stock"
+        }
+    },
+    "cpu-am4-ryzen-7-5000": {
+        "LN125002": {
+            "ln_number": "LN125002",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 7 5700X, AM4, Zen 3, 8 Core, 16 Thread, 3.4GHz, 4.6GHz Turbo, 36MB Cache, PCIe 4.0, 65W, CPU",
+            "price": 13699,
+            "availability": "In Stock"
+        },
+        "LN111442": {
+            "ln_number": "LN111442",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 7 5800X, AM4, Zen 3, 8 Core, 16 Thread, 3.8GHz, 4.7GHz Turbo, 36MB Cache, PCIe 4.0, 105W, CPU Retail",
+            "price": 13999,
             "availability": "In Stock"
         }
     },
@@ -1443,13 +1443,6 @@
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, EXPOXMP",
             "price": 30398,
-            "availability": "In Stock"
-        },
-        "LN126477": {
-            "ln_number": "LN126477",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 31699,
             "availability": "In Stock"
         },
         "LN126806": {
