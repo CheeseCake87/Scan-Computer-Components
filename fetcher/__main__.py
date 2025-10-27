@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from datetime import datetime
 from .data import *
-from .utils import mix_soup, process_products, filter_new_in_stock, fetch_html
+from .utils import mix_soup, process_products, apply_filter, fetch_html
 
 CWD = Path.cwd()
 
@@ -38,6 +38,7 @@ def process_urls():
     }
 
     for d in list_of_dict:
+
         for k, v in d.items():
             file = html_path / f"{k}.html"
 
@@ -48,7 +49,8 @@ def process_urls():
 
             soup = mix_soup(file_data)
             products = process_products(soup)
-            pricing_data[k] = filter_new_in_stock(products)
+            # pass key in to apply filter based on category
+            pricing_data[k] = apply_filter(k, products)
 
     pricing_data_file.write_text(json.dumps(pricing_data, indent=4))
 

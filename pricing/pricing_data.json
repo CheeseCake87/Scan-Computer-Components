@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-10-27T19:16:32.310730",
+    "__fetched__": "2025-10-27T19:31:16.841996",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1128,48 +1128,6 @@
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 9600, AM5, Zen 5, 6 Core, 12 Thread, 3.8GHz, 5.2GHz Turbo, 32MB Cache, PCIe 5.0, 65W, CPU",
             "price": 20699,
-            "availability": "In Stock"
-        },
-        "LN165219": {
-            "ln_number": "LN165219",
-            "manufacturer": "ASRock",
-            "description": "ASRock A620AM-X, AMD A620A, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5G LAN, USB 3.2 Gen1, AMD EXPO, mATX",
-            "price": 7999,
-            "availability": "In Stock"
-        },
-        "LN165217": {
-            "ln_number": "LN165217",
-            "manufacturer": "ASRock",
-            "description": "ASRock A620AM Pro-A, AMD A620A, AM5, DDR5, PCIe 4.0, 3x M.2, 2.5G LAN, USB 3.2 Gen1, AMD EXPO, mATX",
-            "price": 8699,
-            "availability": "In Stock"
-        },
-        "LN165215": {
-            "ln_number": "LN165215",
-            "manufacturer": "ASRock",
-            "description": "ASRock A620AM Pro RS, AMD A620A, AM5, DDR5, PCIe 4.0, 3x M.2, 2.5G LAN, USB 3.2 Gen1, AMD EXPO, mATX",
-            "price": 9299,
-            "availability": "In Stock"
-        },
-        "LN165218": {
-            "ln_number": "LN165218",
-            "manufacturer": "ASRock",
-            "description": "ASRock A620AM-X WIFI, AMD A620A, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5G LAN, USB 3.2 Gen1, Wi-Fi 5, AMD EXPO, mATX",
-            "price": 9299,
-            "availability": "In Stock"
-        },
-        "LN165216": {
-            "ln_number": "LN165216",
-            "manufacturer": "ASRock",
-            "description": "ASRock A620AM Pro-A WIFI, AMD A620A, AM5, DDR5, PCIe 4.0, 3x M.2, 2.5G LAN, Wi-Fi 6E, USB 3.2 Gen1, AMD EXPO, mATX",
-            "price": 9698,
-            "availability": "In Stock"
-        },
-        "LN165214": {
-            "ln_number": "LN165214",
-            "manufacturer": "ASRock",
-            "description": "ASRock A620AM Pro RS WIFI, AMD A620A, AM5, DDR5, PCIe 4.0, 3x M.2, 2.5G LAN, Wi-Fi 6E, USB 3.2 Gen1, AMD EXPO, mATX",
-            "price": 10399,
             "availability": "In Stock"
         }
     },

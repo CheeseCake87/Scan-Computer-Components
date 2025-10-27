@@ -74,21 +74,35 @@ def process_products(products: list):
     return col
 
 
-def filter_new_in_stock(collection: dict) -> dict:
+def apply_filter(parent_key: str, collection: dict) -> dict:
     processed: dict = {}
 
     for key, value in collection.items():
+        lower_desc = value["description"].lower()
+
         if value["availability"] != "In Stock":
             continue
 
         if value["manufacturer"] in ["klevv", "Club 3D"]:
             continue
 
-        if "Refurbished" in value["description"]:
+        if "refurbished" in lower_desc:
             continue
 
-        if "Bundle" in value["description"]:
+        if "bundle" in lower_desc:
             continue
+
+        if "cpu" in parent_key:
+            if " matx" in lower_desc:
+                continue
+            if " atx" in lower_desc:
+                continue
+            if " e-atx" in lower_desc:
+                continue
+            if " mitx" in lower_desc:
+                continue
+            if " mini-itx" in lower_desc:
+                continue
 
         processed[key] = value
 
