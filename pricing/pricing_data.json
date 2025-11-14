@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-11-06T10:42:17.299031",
+    "__fetched__": "2025-11-14T10:31:02.050386",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -12,7 +12,7 @@
             "ln_number": "LN154199",
             "manufacturer": "MSI",
             "description": "MSI MAG X870E TOMAHAWK WiFi, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, 5GWiFi7, USB 4.0, AMD EXPO, ATX",
-            "price": 28998,
+            "price": 30998,
             "availability": "In Stock"
         },
         "LN151426": {
@@ -26,7 +26,14 @@
             "ln_number": "LN160849",
             "manufacturer": "MSI",
             "description": "MSI PRO X870E-P WiFi, AMD X870E, AM5, DDR5, PCIe 5.0, 3x M.2, 5GWiFi7, USB 4.0, USB 3.2 Gen2x2, AMD EXPO, ATX",
-            "price": 23899,
+            "price": 20999,
+            "availability": "In Stock"
+        },
+        "LN160848": {
+            "ln_number": "LN160848",
+            "manufacturer": "MSI",
+            "description": "MSI X870E GAMING PLUS WIFI, AMD X870E, AM5, DDR5, PCIe 5.0, 3x M.2, 5GWiFi7, USB 4.0, USB 3.2 Gen2x2, AMD EXPO, ATX",
+            "price": 23999,
             "availability": "In Stock"
         },
         "LN152094": {
@@ -47,13 +54,6 @@
             "ln_number": "LN162721",
             "manufacturer": "ASUS",
             "description": "ASUS ROG Strix X870E-H Gaming WIFI7, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, 5GbE, WiFi 7, USB4, AMD EXPO, ATX",
-            "price": 30998,
-            "availability": "In Stock"
-        },
-        "LN152089": {
-            "ln_number": "LN152089",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte X870E AORUS PRO ICE, AMD X870E, S AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GbE, WiFi7, USB 4.0, AMD EXPO, ATX",
             "price": 30998,
             "availability": "In Stock"
         },
@@ -113,13 +113,6 @@
             "price": 45998,
             "availability": "In Stock"
         },
-        "LN151427": {
-            "ln_number": "LN151427",
-            "manufacturer": "ASUS",
-            "description": "ASUS ProArt X870E-CREATOR, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5G10GWiFi7, USB 4.0, AMD EXPO, ATX",
-            "price": 49999,
-            "availability": "In Stock"
-        },
         "LN151425": {
             "ln_number": "LN151425",
             "manufacturer": "ASUS",
@@ -160,13 +153,6 @@
             "manufacturer": "MSI",
             "description": "MSI MEG X870E Godlike, AMD X870E, AM5, DDR5, PCIe 5.0, 7x M.2, 5GWiFi7, TB4, AMD EXPO, Dynamic Dashboard III, EATX",
             "price": 119999,
-            "availability": "In Stock"
-        },
-        "LN151051": {
-            "ln_number": "LN151051",
-            "manufacturer": "MSI",
-            "description": "MSI MAG X870 Tomahawk WiFi, AMD X870, AM5, DDR5, PCIe 5.0, 4x M.2, 5GWiFi7, USB 4.0, USB 3.2 A+C, AMD EXPO, ATX",
-            "price": 25999,
             "availability": "In Stock"
         },
         "LN152090": {
@@ -274,6 +260,13 @@
             "price": 27998,
             "availability": "In Stock"
         },
+        "LN165212": {
+            "ln_number": "LN165212",
+            "manufacturer": "ASRock",
+            "description": "ASRock X870 Nova WiFi, AMD X870, AM5, DDR5, PCIe 5.0, 5x M.2, USB 4.0, 5GWiFi 7, AMD EXPO, ATX",
+            "price": 28799,
+            "availability": "In Stock"
+        },
         "LN158652": {
             "ln_number": "LN158652",
             "manufacturer": "ASUS",
@@ -286,13 +279,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS X870 MAX GAMING WIFI 7, AMD X870, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GbE, USB4, AMD EXPO, ATX",
             "price": 28999,
-            "availability": "In Stock"
-        },
-        "LN162926": {
-            "ln_number": "LN162926",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte X870 AORUS STEALTH ICE, AMD X870, AM5, Reverse Connector, DDR5, PCIe 5.0, 4x M.2, WiFi75 GbE, USB 4.0, ATX",
-            "price": 31999,
             "availability": "In Stock"
         },
         "LN151429": {
@@ -327,7 +313,7 @@
             "ln_number": "LN135242",
             "manufacturer": "MSI",
             "description": "MSI MAG X670E TOMAHAWK WIFI, AMD X670, S AM5, DDR5, SATA3, PCIe 5.0, 4x M.2, 2.5GbE, USB 3.2 Gen2x2, ATX",
-            "price": 22999,
+            "price": 21998,
             "availability": "In Stock"
         },
         "LN128288": {
@@ -353,6 +339,13 @@
         }
     },
     "mobo-am5-performance": {
+        "LN162222": {
+            "ln_number": "LN162222",
+            "manufacturer": "MSI",
+            "description": "MSI PRO B850-S WIFI6E, AMD B850, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GWiFi6E, USB 3.2, AMD EXPO, ATX",
+            "price": 14498,
+            "availability": "In Stock"
+        },
         "LN154815": {
             "ln_number": "LN154815",
             "manufacturer": "Gigabyte",
@@ -367,18 +360,18 @@
             "price": 15998,
             "availability": "In Stock"
         },
+        "LN158659": {
+            "ln_number": "LN158659",
+            "manufacturer": "ASUS",
+            "description": "ASUS PRIME B850-PLUS-CSM, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GbE, USB 4, AMD EXPO, ATX",
+            "price": 15998,
+            "availability": "In Stock"
+        },
         "LN154834": {
             "ln_number": "LN154834",
             "manufacturer": "ASRock",
             "description": "ASRock B850 Pro RS WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GWiFi 6E, USB 3.2 Gen2, AMD EXPO, ATX",
-            "price": 16999,
-            "availability": "In Stock"
-        },
-        "LN160517": {
-            "ln_number": "LN160517",
-            "manufacturer": "ASUS",
-            "description": "ASUS PRIME B850-PLUS WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi6E, USB 3.2 Gen2, AMD EXPO, ATX",
-            "price": 16999,
+            "price": 16699,
             "availability": "In Stock"
         },
         "LN154202": {
@@ -388,24 +381,24 @@
             "price": 16999,
             "availability": "In Stock"
         },
-        "LN158660": {
-            "ln_number": "LN158660",
-            "manufacturer": "ASUS",
-            "description": "ASUS TUF GAMING B850-E WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 20Gbps, AMD EXPO, ATX",
-            "price": 17999,
-            "availability": "In Stock"
-        },
-        "LN154813": {
-            "ln_number": "LN154813",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte B850 AORUS ELITE Wi-Fi 7, AMD B850, S AM5, DDR5, PCIe 5.0, 3 x M.2, 2.5GbE, WiFi7, USB 10Gbps, AMD EXPO, ATX",
-            "price": 17999,
-            "availability": "In Stock"
-        },
         "LN154203": {
             "ln_number": "LN154203",
             "manufacturer": "MSI",
             "description": "MSI PRO B850-P WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 5GWiFi7, USB 3.2 A+C, AMD EXPO, ATX",
+            "price": 17498,
+            "availability": "In Stock"
+        },
+        "LN160517": {
+            "ln_number": "LN160517",
+            "manufacturer": "ASUS",
+            "description": "ASUS PRIME B850-PLUS WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi6E, USB 3.2 Gen2, AMD EXPO, ATX",
+            "price": 17599,
+            "availability": "In Stock"
+        },
+        "LN158660": {
+            "ln_number": "LN158660",
+            "manufacturer": "ASUS",
+            "description": "ASUS TUF GAMING B850-E WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 20Gbps, AMD EXPO, ATX",
             "price": 17999,
             "availability": "In Stock"
         },
@@ -423,11 +416,18 @@
             "price": 18998,
             "availability": "In Stock"
         },
+        "LN154813": {
+            "ln_number": "LN154813",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte B850 AORUS ELITE Wi-Fi 7, AMD B850, S AM5, DDR5, PCIe 5.0, 3 x M.2, 2.5GbE, WiFi7, USB 10Gbps, AMD EXPO, ATX",
+            "price": 18998,
+            "availability": "In Stock"
+        },
         "LN154816": {
             "ln_number": "LN154816",
             "manufacturer": "Gigabyte",
             "description": "Gigabyte B850 GAMING X Wi-Fi 6E, AMD B850, S AM5, DDR5, PCIe 5.0, 3 x M.2, 2.5GbE, WiFi6E, USB 10Gbps, AMD EXPO, ATX",
-            "price": 19499,
+            "price": 19298,
             "availability": "In Stock"
         },
         "LN158658": {
@@ -451,11 +451,11 @@
             "price": 19999,
             "availability": "In Stock"
         },
-        "LN154201": {
-            "ln_number": "LN154201",
+        "LN162221": {
+            "ln_number": "LN162221",
             "manufacturer": "MSI",
-            "description": "MSI MAG B850 TOMAHAWK MAX WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 5GWiFi7, USB 3.2 A+C, AMD EXPO, ATX",
-            "price": 22999,
+            "description": "MSI B850 GAMING PLUS WiFi PZ, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 5GWiFi7, USB 3.2, AMD EXPO, ATX",
+            "price": 21998,
             "availability": "In Stock"
         },
         "LN162715": {
@@ -463,6 +463,13 @@
             "manufacturer": "ASUS",
             "description": "ASUS ROG STRIX B850-G GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4 x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, mATX",
             "price": 23198,
+            "availability": "In Stock"
+        },
+        "LN154201": {
+            "ln_number": "LN154201",
+            "manufacturer": "MSI",
+            "description": "MSI MAG B850 TOMAHAWK MAX WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 5GWiFi7, USB 3.2 A+C, AMD EXPO, ATX",
+            "price": 23549,
             "availability": "In Stock"
         },
         "LN154668": {
@@ -514,11 +521,18 @@
             "price": 36899,
             "availability": "In Stock"
         },
+        "LN165542": {
+            "ln_number": "LN165542",
+            "manufacturer": "ASUS",
+            "description": "Open Box ASUS ROG STRIX B850-F GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, ATX",
+            "price": 26498,
+            "availability": "In Stock"
+        },
         "LN154827": {
             "ln_number": "LN154827",
             "manufacturer": "ASRock",
             "description": "ASRock B850M Pro-A, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5G LAN, USB 3.2 Gen2, AMD EXPO, mATX",
-            "price": 12499,
+            "price": 12349,
             "availability": "In Stock"
         },
         "LN154821": {
@@ -577,17 +591,17 @@
             "price": 14999,
             "availability": "In Stock"
         },
-        "LN162225": {
-            "ln_number": "LN162225",
-            "manufacturer": "MSI",
-            "description": "MSI B850M GAMING PLUS WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 2x M.2, 5GWiFi7, USB 3.2 A+C, AMD EXPO, MicroATX",
-            "price": 15499,
-            "availability": "In Stock"
-        },
         "LN158654": {
             "ln_number": "LN158654",
             "manufacturer": "ASUS",
             "description": "ASUS B850M-A WIFI, AMD B850, S AM5, DDR5, PCIe 5.0, 3 x M.2, 2.5GbE, Wi-Fi 6E, USB 10Gbps, AMD EXPO, mATX",
+            "price": 15998,
+            "availability": "In Stock"
+        },
+        "LN162225": {
+            "ln_number": "LN162225",
+            "manufacturer": "MSI",
+            "description": "MSI B850M GAMING PLUS WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 2x M.2, 5GWiFi7, USB 3.2 A+C, AMD EXPO, MicroATX",
             "price": 15998,
             "availability": "In Stock"
         },
@@ -640,20 +654,6 @@
             "price": 19999,
             "availability": "In Stock"
         },
-        "LN163182": {
-            "ln_number": "LN163182",
-            "manufacturer": "ASRock",
-            "description": "Open Box ASRock B850M Pro-A, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5G LAN, USB 3.2 Gen2, AMD EXPO, mATX",
-            "price": 11498,
-            "availability": "In Stock"
-        },
-        "LN162516": {
-            "ln_number": "LN162516",
-            "manufacturer": "ASUS",
-            "description": "Open Box ASUS TUF GAMING B850M-PLUS WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi6E, USB 3.2 Gen2x2, AMD EXPO",
-            "price": 19199,
-            "availability": "In Stock"
-        },
         "LN160847": {
             "ln_number": "LN160847",
             "manufacturer": "MSI",
@@ -675,18 +675,18 @@
             "price": 25499,
             "availability": "In Stock"
         },
+        "LN154667": {
+            "ln_number": "LN154667",
+            "manufacturer": "ASUS",
+            "description": "ASUS ROG STRIX B850-I GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 2 x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, mITX",
+            "price": 31999,
+            "availability": "In Stock"
+        },
         "LN154852": {
             "ln_number": "LN154852",
             "manufacturer": "MSI",
             "description": "MSI PRO B840-P WiFi, AMD B840, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GWiFi7, USB 3.2 A+C, AMD EXPO, ATX",
-            "price": 12499,
-            "availability": "In Stock"
-        },
-        "LN154851": {
-            "ln_number": "LN154851",
-            "manufacturer": "MSI",
-            "description": "MSI B840 GAMING PLUS WiFi, AMD B840, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GWiFi7, USB 3.2 A+C, AMD EXPO, ATX",
-            "price": 12998,
+            "price": 13999,
             "availability": "In Stock"
         },
         "LN154671": {
@@ -707,7 +707,7 @@
             "ln_number": "LN165204",
             "manufacturer": "MSI",
             "description": "MSI B840M GAMING PLUS WiFi, AMD B840, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GbE, Wi-Fi 6E, USB 3.2 Gen2, AMD EXPO, mATX",
-            "price": 14399,
+            "price": 11999,
             "availability": "In Stock"
         },
         "LN165205": {
@@ -735,7 +735,7 @@
             "ln_number": "LN129788",
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B650-PLUS WIFI, AMD B650, AM5, DDR5, PCIe 4.0, 3x M.2 PCIe5(1), 2.5GbE, ax WiFiBT, AMD EXPO, ATX",
-            "price": 14999,
+            "price": 15998,
             "availability": "In Stock"
         },
         "LN129786": {
@@ -752,11 +752,18 @@
             "price": 17999,
             "availability": "In Stock"
         },
-        "LN139899": {
-            "ln_number": "LN139899",
-            "manufacturer": "MSI",
-            "description": "MSI PRO B650-S WIFI, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 2x M.2, 2.5GbEax WiFi 6E, USB 3.2 Gen2x2, ATX",
-            "price": 11999,
+        "LN145349": {
+            "ln_number": "LN145349",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte B650 EAGLE AX, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 3x M.2, GbE, USB 3.2 Gen2, ATX",
+            "price": 12998,
+            "availability": "In Stock"
+        },
+        "LN160516": {
+            "ln_number": "LN160516",
+            "manufacturer": "ASUS",
+            "description": "ASUS PRIME B650-PLUS WIFI, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 2x M.2, 2.5GWiFi 6E, AMD EXPO, ATX",
+            "price": 13499,
             "availability": "In Stock"
         },
         "LN136641": {
@@ -766,25 +773,11 @@
             "price": 13499,
             "availability": "In Stock"
         },
-        "LN145349": {
-            "ln_number": "LN145349",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte B650 EAGLE AX, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 3x M.2, GbE, USB 3.2 Gen2, ATX",
-            "price": 13699,
-            "availability": "In Stock"
-        },
         "LN146651": {
             "ln_number": "LN146651",
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B650-E WIFI, AMD B650, AM5, DDR5, PCIe 4.0, 3x M.2, WIFI 6E2.5GbE, USB Type-C, AMD EXPO, ATX",
             "price": 13999,
-            "availability": "In Stock"
-        },
-        "LN129792": {
-            "ln_number": "LN129792",
-            "manufacturer": "ASUS",
-            "description": "ASUS PRIME B650-PLUS, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 2x M.2, 2.5GbE, AMD EXPO, ATX",
-            "price": 14399,
             "availability": "In Stock"
         },
         "LN129789": {
@@ -822,13 +815,6 @@
             "price": 19999,
             "availability": "In Stock"
         },
-        "LN136070": {
-            "ln_number": "LN136070",
-            "manufacturer": "MSI",
-            "description": "Open Box MSI MAG B650 TOMAHAWK WIFI, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 3x M.2, 2.5GbE, AMD EXPO, ATX",
-            "price": 16999,
-            "availability": "In Stock"
-        },
         "LN159401": {
             "ln_number": "LN159401",
             "manufacturer": "ASRock",
@@ -847,7 +833,7 @@
             "ln_number": "LN136017",
             "manufacturer": "ASRock",
             "description": "ASROCK B650M-HDVM.2, AMD B650, S AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GbE, AMD EXPO, USB 3.2 Gen2, MicroATX",
-            "price": 10249,
+            "price": 9998,
             "availability": "In Stock"
         },
         "LN143703": {
@@ -871,18 +857,18 @@
             "price": 11498,
             "availability": "In Stock"
         },
-        "LN133363": {
-            "ln_number": "LN133363",
-            "manufacturer": "ASUS",
-            "description": "ASUS PRIME B650M-A WIFI II, AMD B650, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GbE, AMD EXPO, MicroATX",
-            "price": 12199,
-            "availability": "In Stock"
-        },
         "LN136016": {
             "ln_number": "LN136016",
             "manufacturer": "ASRock",
             "description": "ASRock AMD B650M PRO RS, AMD B650, S AM5, DDR5, PCIe 4.0, 3x M.2, 2.5GbE, AMD EXPO, mATX",
-            "price": 12799,
+            "price": 12599,
+            "availability": "In Stock"
+        },
+        "LN144743": {
+            "ln_number": "LN144743",
+            "manufacturer": "MSI",
+            "description": "MSI MAG B650M GAMING PLUS WIFI, AMD B650, S AM5, DDR5, SATA3, PCIe 4.0, 2x M.2, 2.5GbE, AMD EXPO, MicroATX",
+            "price": 12998,
             "availability": "In Stock"
         },
         "LN141189": {
@@ -890,13 +876,6 @@
             "manufacturer": "ASUS",
             "description": "Open Box ASUS TUF GAMING B650M-PLUS WIFI, AMD B650, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GbEWiFi 6, AMD EXPO, MicroATX",
             "price": 14999,
-            "availability": "In Stock"
-        },
-        "LN138433": {
-            "ln_number": "LN138433",
-            "manufacturer": "ASRock",
-            "description": "ASRock B650D4U, AMD B650, S AM5, DDR5, SATA3, PCIe 5.0, 2x M.2, GbE, USB 3.2 Gen1, Micro-ATX",
-            "price": 37999,
             "availability": "In Stock"
         },
         "LN143676": {
@@ -915,6 +894,13 @@
             "price": 6998,
             "availability": "In Stock"
         },
+        "LN165203": {
+            "ln_number": "LN165203",
+            "manufacturer": "MSI",
+            "description": "MSI PRO A620M-B, AMD A620, AM5, DDR5, PCIe 4.0, 1x M.2, 2.5GbE, USB 3.2 Gen1, AMD EXPO, mATX",
+            "price": 7799,
+            "availability": "In Stock"
+        },
         "LN165219": {
             "ln_number": "LN165219",
             "manufacturer": "ASRock",
@@ -926,13 +912,6 @@
             "ln_number": "LN139981",
             "manufacturer": "ASUS",
             "description": "ASUS PRIME A620M-K, AMD A620, s AM5, DDR5, SATA3, M.2, Realtek GbE, USB 3.2 Gen1, MicroATX",
-            "price": 7999,
-            "availability": "In Stock"
-        },
-        "LN165203": {
-            "ln_number": "LN165203",
-            "manufacturer": "MSI",
-            "description": "MSI PRO A620M-B, AMD A620, AM5, DDR5, PCIe 4.0, 1x M.2, 2.5GbE, USB 3.2 Gen1, AMD EXPO, mATX",
             "price": 7999,
             "availability": "In Stock"
         },
@@ -991,7 +970,7 @@
             "ln_number": "LN108116",
             "manufacturer": "MSI",
             "description": "MSI B550-A PRO, AMD B550, S AM4, DDR4, SATA3, PCIe 4.0, Dual M.2, CrossFire, GbE, USB 3.2 Gen2, ATX",
-            "price": 8999,
+            "price": 9998,
             "availability": "In Stock"
         },
         "LN127966": {
@@ -1008,11 +987,18 @@
             "price": 23999,
             "availability": "In Stock"
         },
+        "LN136652": {
+            "ln_number": "LN136652",
+            "manufacturer": "ASUS",
+            "description": "ASUS TUF GAMING B550M-PLUS WiFi II, AMD B550, AM4, DDR4, PCIe 4.0, SATA3, Dual M.2, USB 3.2 Gen2 A+C, mATX",
+            "price": 12548,
+            "availability": "In Stock"
+        },
         "LN108120": {
             "ln_number": "LN108120",
             "manufacturer": "MSI",
             "description": "MSI B550M PRO-VDH WIFI, AMD B550, S AM4, DDR4, SATA3, PCIe 4.0, GbE, ac WiFiBT 4.2, USB 3.2 Gen1 A+C, Micro-ATX",
-            "price": 8999,
+            "price": 9998,
             "availability": "In Stock"
         },
         "LN125439": {
@@ -1024,13 +1010,6 @@
         }
     },
     "mobo-am4-value": {
-        "LN110279": {
-            "ln_number": "LN110279",
-            "manufacturer": "ASRock",
-            "description": "AsRock A520M HVS, AMD A520, s AM4, DDR4, SATA3, M.2, Realtek GbE, USB 3.2 Gen1, MicroATX",
-            "price": 4699,
-            "availability": "In Stock"
-        },
         "LN110284": {
             "ln_number": "LN110284",
             "manufacturer": "MSI",
@@ -1067,14 +1046,14 @@
             "ln_number": "LN148069",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 8700F, AM5, Zen 4, 8 Core, 16 Thread, 4.1GHz, 5.0GHz Turbo, 24MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 22199,
+            "price": 22799,
             "availability": "In Stock"
         },
         "LN143900": {
             "ln_number": "LN143900",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 8700G, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.1GHz Turbo, 24MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 25999,
+            "price": 24199,
             "availability": "In Stock"
         }
     },
@@ -1083,7 +1062,7 @@
             "ln_number": "LN128865",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7700X, AM5, Zen 4, 8 Core, 16 Thread, 4.5GHz, 5.4GHz Turbo, 32MB Cache, PCIe 5.0, 105W, CPU",
-            "price": 25999,
+            "price": 26399,
             "availability": "In Stock"
         },
         "LN133834": {
@@ -1097,7 +1076,7 @@
             "ln_number": "LN131631",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7700, AM5, Zen 4, 8 Core, 16 Thread, 3.8GHz, 5.3GHz Turbo, 32MB Cache, PCIe 5.0, 65W, CPU",
-            "price": 27599,
+            "price": 26999,
             "availability": "In Stock"
         }
     },
@@ -1129,7 +1108,7 @@
             "ln_number": "LN143902",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 8500G, AM5, Zen 4, 6 Core, 12 Thread, 3.7GHz, 5.0GHz Turbo, 22MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 13298,
+            "price": 12899,
             "availability": "In Stock"
         },
         "LN143901": {
@@ -1148,6 +1127,20 @@
             "price": 17999,
             "availability": "In Stock"
         },
+        "LN163914": {
+            "ln_number": "LN163914",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 5 7400, AM5, Zen 4, 6 Core, 12 Thread, 3.3GHz, 4.3GHz Turbo, 16MB Cache, PCIe 5.0, 65W, CPU",
+            "price": 12899,
+            "availability": "In Stock"
+        },
+        "LN164629": {
+            "ln_number": "LN164629",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 5 7500X3D, AM5, Zen 4, 6 Core, 12 Thread, 4.0GHz, 4.5GHz Turbo, 96MB Cache, PCIe 5.0, 65W, CPU",
+            "price": 23999,
+            "availability": "In Stock"
+        },
         "LN133834": {
             "ln_number": "LN133834",
             "manufacturer": "AMD",
@@ -1161,7 +1154,7 @@
             "ln_number": "LN143902",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 8500G, AM5, Zen 4, 6 Core, 12 Thread, 3.7GHz, 5.0GHz Turbo, 22MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 13298,
+            "price": 12899,
             "availability": "In Stock"
         },
         "LN143901": {
@@ -1175,7 +1168,7 @@
             "ln_number": "LN143900",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 8700G, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.1GHz Turbo, 24MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 25999,
+            "price": 24199,
             "availability": "In Stock"
         }
     },
@@ -1193,28 +1186,14 @@
             "description": "AMD Ryzen 7 5700X, AM4, Zen 3, 8 Core, 16 Thread, 3.4GHz, 4.6GHz Turbo, 36MB Cache, PCIe 4.0, 65W, CPU",
             "price": 16199,
             "availability": "In Stock"
-        },
-        "LN149415": {
-            "ln_number": "LN149415",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 7 5800XT, AM4, Zen 3, 8 Core, 16 Thread, 3.8GHz, 4.8GHz Turbo, 32MB Cache, PCIe 4.0, 105W, CPU",
-            "price": 19799,
-            "availability": "In Stock"
         }
     },
     "cpu-am4-ryzen-5-5000": {
-        "LN129252": {
-            "ln_number": "LN129252",
-            "manufacturer": "AMD",
-            "description": "Open box AMD Ryzen 5 5500, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.2GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU",
-            "price": 7499,
-            "availability": "In Stock"
-        },
         "LN153271": {
             "ln_number": "LN153271",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5600T, AM4, Zen 3, 6 Core, 12 Thread, 3.7GHz, 4.5GHz Turbo, 35MB Cache, PCIe 4.0, 65W, CPU",
-            "price": 13199,
+            "price": 12899,
             "availability": "In Stock"
         },
         "LN153270": {
@@ -1223,15 +1202,37 @@
             "description": "AMD Ryzen 5 5600 XT, AM4, Zen 3, 6 Core, 12 Thread, 3.7GHz, 4.7GHz Turbo, 35MB Cache, PCIe 4.0, 65W, CPU",
             "price": 13499,
             "availability": "In Stock"
+        },
+        "LN143905": {
+            "ln_number": "LN143905",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 5 5600GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.6GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
+            "price": 11999,
+            "availability": "In Stock"
         }
     },
-    "cpu-am4-ryzen-5-4000": {},
+    "cpu-am4-ryzen-5-4000": {
+        "LN125005": {
+            "ln_number": "LN125005",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 5 4500, AM4, Zen 2, 6 Core, 12 Thread, 3.6GHz, 4.1GHz Turbo, 11MB Cache, PCIe 3.0, 65W, CPU",
+            "price": 5599,
+            "availability": "In Stock"
+        }
+    },
     "cpu-am4-ryzen-g-5000": {
         "LN117836": {
             "ln_number": "LN117836",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 5700G, AM4, Zen 3, 8 Core, 16 Thread, 3.8GHz, 4.6GHz Turbo, 16MB Cache, Radeon Vega Graphics, 65W, CPU",
             "price": 16799,
+            "availability": "In Stock"
+        },
+        "LN143905": {
+            "ln_number": "LN143905",
+            "manufacturer": "AMD",
+            "description": "AMD Ryzen 5 5600GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.6GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
+            "price": 11999,
             "availability": "In Stock"
         }
     },
@@ -1241,25 +1242,11 @@
             "ln_number": "LN99203",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 3 3200G w RADEON RX VEGA 8 Graphics, AM4, Zen+, Quad Core, 4 Thread, 3.6GHz, 4.0GHz Turbo, 4MB, 65W, CPU",
-            "price": 5549,
+            "price": 5249,
             "availability": "In Stock"
         }
     },
     "ram-ddr5-7000": {
-        "LN140501": {
-            "ln_number": "LN140501",
-            "manufacturer": "Corsair",
-            "description": "48GB (2x24GB) Corsair DDR5 DOMINATOR Titanium RGB White, PC5-57600 (7200), Non-ECC Unbuffered, CAS 36, XMP 3.0, 1.4V",
-            "price": 30199,
-            "availability": "In Stock"
-        },
-        "LN138665": {
-            "ln_number": "LN138665",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.4V",
-            "price": 17699,
-            "availability": "In Stock"
-        },
         "LN138659": {
             "ln_number": "LN138659",
             "manufacturer": "Corsair",
@@ -1271,13 +1258,6 @@
             "ln_number": "LN130787",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
-            "price": 21649,
-            "availability": "In Stock"
-        },
-        "LN130788": {
-            "ln_number": "LN130788",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
             "price": 22249,
             "availability": "In Stock"
         },
@@ -1286,6 +1266,13 @@
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
             "price": 22649,
+            "availability": "In Stock"
+        },
+        "LN130788": {
+            "ln_number": "LN130788",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
+            "price": 22898,
             "availability": "In Stock"
         },
         "LN131016": {
@@ -1309,25 +1296,11 @@
             "price": 25448,
             "availability": "In Stock"
         },
-        "LN140480": {
-            "ln_number": "LN140480",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
-            "price": 26048,
-            "availability": "In Stock"
-        },
         "LN152884": {
             "ln_number": "LN152884",
             "manufacturer": "Corsair",
             "description": "48GB (2x24GB) Corsair DDR5 Vengeance Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 36, XMP 3.0, 1.4V",
             "price": 26048,
-            "availability": "In Stock"
-        },
-        "LN140481": {
-            "ln_number": "LN140481",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
-            "price": 26449,
             "availability": "In Stock"
         },
         "LN138668": {
@@ -1337,6 +1310,13 @@
             "price": 26648,
             "availability": "In Stock"
         },
+        "LN140480": {
+            "ln_number": "LN140480",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
+            "price": 26749,
+            "availability": "In Stock"
+        },
         "LN138660": {
             "ln_number": "LN138660",
             "manufacturer": "Corsair",
@@ -1344,11 +1324,39 @@
             "price": 26849,
             "availability": "In Stock"
         },
+        "LN140481": {
+            "ln_number": "LN140481",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
+            "price": 27149,
+            "availability": "In Stock"
+        },
+        "LN140497": {
+            "ln_number": "LN140497",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB White, PC5-56000 (7000), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
+            "price": 27998,
+            "availability": "In Stock"
+        },
+        "LN140498": {
+            "ln_number": "LN140498",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB White, PC5-57600 (7200), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
+            "price": 28399,
+            "availability": "In Stock"
+        },
+        "LN140483": {
+            "ln_number": "LN140483",
+            "manufacturer": "Corsair",
+            "description": "48GB (2x24GB) Corsair DDR5 DOMINATOR Titanium RGB Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 36, XMP 3.0, 1.4V",
+            "price": 32048,
+            "availability": "In Stock"
+        },
         "LN153128": {
             "ln_number": "LN153128",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-56000 (7000), Non-ECC Unbuffered, Intel XMP, CAS 40, 1.4V, XMP",
-            "price": 44299,
+            "price": 45548,
             "availability": "In Stock"
         },
         "LN151316": {
@@ -1376,7 +1384,7 @@
             "ln_number": "LN154069",
             "manufacturer": "Corsair",
             "description": "Corsair Vengeance RGB DDR5 Light Enhancement Kit, 2x DDR5 Dummy Modules with Addressable RGB LEDs, iCUE, Grey",
-            "price": 2948,
+            "price": 3199,
             "availability": "In Stock"
         },
         "LN151315": {
@@ -1392,175 +1400,203 @@
             "ln_number": "LN152724",
             "manufacturer": "Corsair",
             "description": "16GB (1x16GB) Corsair DDR5 Grey, PC5-44800 (5600) CL40-40-40-70, 1.25V, XMP 3.0, AMD EXPO",
-            "price": 8198,
-            "availability": "In Stock"
-        },
-        "LN152725": {
-            "ln_number": "LN152725",
-            "manufacturer": "Corsair",
-            "description": "16GB (1x16GB) Corsair DDR5 RGB Grey, PC5-44800 (5600) CL40-40-40-77, 1.25V, XMP 3.0, AMD EXPO",
-            "price": 8699,
+            "price": 8348,
             "availability": "In Stock"
         },
         "LN152726": {
             "ln_number": "LN152726",
             "manufacturer": "Corsair",
             "description": "32GB (1x32GB) Corsair DDR5 Black, PC5-44800 (5600) CL40-40-40-77, 1.25V, XMP 3.0",
-            "price": 15349,
-            "availability": "In Stock"
-        },
-        "LN153134": {
-            "ln_number": "LN153134",
-            "manufacturer": "Corsair",
-            "description": "32GB (1x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, Dual Profile EXPOXMP",
-            "price": 15349,
-            "availability": "In Stock"
-        },
-        "LN140886": {
-            "ln_number": "LN140886",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, Dual Memory EXPOXMP",
-            "price": 16349,
-            "availability": "In Stock"
-        },
-        "LN140747": {
-            "ln_number": "LN140747",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 Vengeance White, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.2V",
-            "price": 16349,
+            "price": 15649,
             "availability": "In Stock"
         },
         "LN140748": {
             "ln_number": "LN140748",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.2V",
-            "price": 16499,
+            "price": 16649,
+            "availability": "In Stock"
+        },
+        "LN140747": {
+            "ln_number": "LN140747",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 Vengeance White, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.2V",
+            "price": 16649,
+            "availability": "In Stock"
+        },
+        "LN140886": {
+            "ln_number": "LN140886",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, Dual Memory EXPOXMP",
+            "price": 17399,
             "availability": "In Stock"
         },
         "LN130125": {
             "ln_number": "LN130125",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 17348,
+            "price": 17648,
             "availability": "In Stock"
         },
         "LN140887": {
             "ln_number": "LN140887",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, AMDXMP",
-            "price": 17348,
+            "price": 17648,
             "availability": "In Stock"
         },
         "LN140890": {
             "ln_number": "LN140890",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB White, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 17348,
+            "price": 17648,
             "availability": "In Stock"
         },
         "LN134123": {
             "ln_number": "LN134123",
             "manufacturer": "Corsair",
             "description": "48GB (2x24GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 20498,
+            "price": 21299,
             "availability": "In Stock"
         },
         "LN134121": {
             "ln_number": "LN134121",
             "manufacturer": "Corsair",
             "description": "48GB (2x24GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 21248,
+            "price": 21649,
+            "availability": "In Stock"
+        },
+        "LN129074": {
+            "ln_number": "LN129074",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Platinum RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 36, 1.25V, EXPOXMP",
+            "price": 21998,
             "availability": "In Stock"
         },
         "LN129072": {
             "ln_number": "LN129072",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, Dual Profile AMDXMP",
-            "price": 30698,
+            "price": 31298,
             "availability": "In Stock"
         },
         "LN137004": {
             "ln_number": "LN137004",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance White, PC4-44800 (5600), Non-ECC Unbuffered, Intel XMP, CAS 40, 1.25V",
-            "price": 30698,
+            "price": 31298,
             "availability": "In Stock"
         },
-        "LN126805": {
-            "ln_number": "LN126805",
+        "LN140888": {
+            "ln_number": "LN140888",
             "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 35999,
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 33949,
             "availability": "In Stock"
         },
-        "LN126806": {
-            "ln_number": "LN126806",
+        "LN129900": {
+            "ln_number": "LN129900",
             "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB White, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 35999,
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered,CAS 40, 1.25V, Dual Profile EXPOXMP",
+            "price": 33949,
             "availability": "In Stock"
         },
         "LN129899": {
             "ln_number": "LN129899",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, 1.25V, EXPOXMP",
-            "price": 38498,
+            "price": 34298,
+            "availability": "In Stock"
+        },
+        "LN131733": {
+            "ln_number": "LN131733",
+            "manufacturer": "Corsair",
+            "description": "64GB (4x16GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 36, 1.25V, Dual Profile EXPOXMP",
+            "price": 36299,
+            "availability": "In Stock"
+        },
+        "LN126805": {
+            "ln_number": "LN126805",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 36698,
+            "availability": "In Stock"
+        },
+        "LN126806": {
+            "ln_number": "LN126806",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB White, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 36698,
+            "availability": "In Stock"
+        },
+        "LN131734": {
+            "ln_number": "LN131734",
+            "manufacturer": "Corsair",
+            "description": "64GB (4x16GB) Corsair DDR5 Vengeance RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered,CAS 36, 1.25V, Dual Profile EXPOXMP",
+            "price": 36749,
+            "availability": "In Stock"
+        },
+        "LN126477": {
+            "ln_number": "LN126477",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 39049,
+            "availability": "In Stock"
+        },
+        "LN137943": {
+            "ln_number": "LN137943",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered,CAS 36, 1.25V, Dual Profile EXPOXMP",
+            "price": 39299,
             "availability": "In Stock"
         },
         "LN134120": {
             "ln_number": "LN134120",
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 40349,
+            "price": 41099,
             "availability": "In Stock"
         },
         "LN134122": {
             "ln_number": "LN134122",
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 41348,
-            "availability": "In Stock"
-        },
-        "LN140147": {
-            "ln_number": "LN140147",
-            "manufacturer": "Corsair",
-            "description": "128GB (4x32GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 80449,
+            "price": 42098,
             "availability": "In Stock"
         },
         "LN140146": {
             "ln_number": "LN140146",
             "manufacturer": "Corsair",
             "description": "128GB (4x32GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 81049,
+            "price": 82598,
+            "availability": "In Stock"
+        },
+        "LN140147": {
+            "ln_number": "LN140147",
+            "manufacturer": "Corsair",
+            "description": "128GB (4x32GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 87299,
             "availability": "In Stock"
         },
         "LN135187": {
             "ln_number": "LN135187",
             "manufacturer": "Corsair",
             "description": "192GB (4x48GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 38, XMP 3.0, 1.25V",
-            "price": 85799,
+            "price": 87398,
             "availability": "In Stock"
         },
         "LN154069": {
             "ln_number": "LN154069",
             "manufacturer": "Corsair",
             "description": "Corsair Vengeance RGB DDR5 Light Enhancement Kit, 2x DDR5 Dummy Modules with Addressable RGB LEDs, iCUE, Grey",
-            "price": 2948,
-            "availability": "In Stock"
-        },
-        "LN153168": {
-            "ln_number": "LN153168",
-            "manufacturer": "Corsair",
-            "description": "3XS - 64GB (2x32GB) Corsair DDR5 Vengeance SODIMM, PC5-44800 (5600), Non-ECC Unbuffered, CAS 48, 1.1V, XMP 3.0",
-            "price": 31399,
+            "price": 3199,
             "availability": "In Stock"
         },
         "LN147563": {
             "ln_number": "LN147563",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance SODIMM, PC5-44800 (5600), Non-ECC Unbuffered, CAS 48, 1.1V., XMP 3.0",
-            "price": 31399,
+            "price": 32249,
             "availability": "In Stock"
         }
     },
@@ -1569,116 +1605,151 @@
             "ln_number": "LN122319",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 16349,
+            "price": 17399,
             "availability": "In Stock"
         },
         "LN127742": {
             "ln_number": "LN127742",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 17348,
+            "price": 17648,
             "availability": "In Stock"
         },
         "LN123741": {
             "ln_number": "LN123741",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 27998,
+            "price": 31298,
             "availability": "In Stock"
         },
         "LN154068": {
             "ln_number": "LN154068",
             "manufacturer": "Corsair",
             "description": "Corsair Vengeance RGB DDR5 Light Enhancement Kit, 2x DDR5 Dummy Modules with Addressable RGB LEDs, iCUE, Black",
-            "price": 2948,
+            "price": 3199,
             "availability": "In Stock"
         },
         "LN154069": {
             "ln_number": "LN154069",
             "manufacturer": "Corsair",
             "description": "Corsair Vengeance RGB DDR5 Light Enhancement Kit, 2x DDR5 Dummy Modules with Addressable RGB LEDs, iCUE, Grey",
-            "price": 2948,
+            "price": 3199,
             "availability": "In Stock"
         },
         "LN154070": {
             "ln_number": "LN154070",
             "manufacturer": "Corsair",
             "description": "Corsair Vengeance RGB DDR5 Light Enhancement Kit, 2x DDR5 Dummy Modules with Addressable RGB LEDs, iCUE, White",
-            "price": 2948,
+            "price": 3199,
+            "availability": "In Stock"
+        },
+        "LN152722": {
+            "ln_number": "LN152722",
+            "manufacturer": "Corsair",
+            "description": "16GB (1x16GB) Corsair DDR5 Vengeance Grey, PC5-41600 (5200) CL40-40-40-70, 1.25V, XMP 3.0, AMD EXPO",
+            "price": 8899,
             "availability": "In Stock"
         },
         "LN150440": {
             "ln_number": "LN150440",
             "manufacturer": "Corsair",
             "description": "16GB (1x16GB) Corsair DDR5 Vengeance RGB Black, PC5-41600 (5200) CL40-40-40-77, XMP 3.0, 1.25V",
-            "price": 8699,
-            "availability": "In Stock"
-        },
-        "LN152721": {
-            "ln_number": "LN152721",
-            "manufacturer": "Corsair",
-            "description": "16GB (1x16GB) Corsair DDR5 Vengeance RGB Grey, PC5-41600 (5200) CL40-40-40-77, 1.25V, XMP 3.0, AMD EXPO",
-            "price": 8699,
+            "price": 9398,
             "availability": "In Stock"
         },
         "LN153132": {
             "ln_number": "LN153132",
             "manufacturer": "Corsair",
             "description": "32GB (1x32GB) Corsair DDR5 Vengeance RGB Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, 1.4V, AMDXMP",
-            "price": 15149,
+            "price": 15449,
             "availability": "In Stock"
         },
         "LN152720": {
             "ln_number": "LN152720",
             "manufacturer": "Corsair",
             "description": "32GB (1x32GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200) CL40-40-40-77, 1.25V, XMP 3.0",
-            "price": 15349,
+            "price": 15649,
             "availability": "In Stock"
         },
         "LN153131": {
             "ln_number": "LN153131",
             "manufacturer": "Corsair",
             "description": "32GB (1x32GB) Corsair DDR5 Vengeance Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, 1.25V, Dual Profile EXPOXMP",
-            "price": 15349,
+            "price": 15649,
             "availability": "In Stock"
         },
         "LN126961": {
             "ln_number": "LN126961",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 Vengeance White, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 16349,
+            "price": 16649,
             "availability": "In Stock"
         },
         "LN122317": {
             "ln_number": "LN122317",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 18899,
+            "price": 19249,
+            "availability": "In Stock"
+        },
+        "LN125869": {
+            "ln_number": "LN125869",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Platinum RGB White, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 20498,
             "availability": "In Stock"
         },
         "LN129064": {
             "ln_number": "LN129064",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 30299,
+            "price": 30899,
             "availability": "In Stock"
         },
         "LN129071": {
             "ln_number": "LN129071",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, 1.25V, Dual Profile EXPOXMP",
-            "price": 30698,
+            "price": 31298,
+            "availability": "In Stock"
+        },
+        "LN129904": {
+            "ln_number": "LN129904",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Grey, PC5-41600 (5200), Non-ECC Unbuffered,CAS 40, 1.25V, Dual Profile EXPOXMP",
+            "price": 32899,
+            "availability": "In Stock"
+        },
+        "LN133372": {
+            "ln_number": "LN133372",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB White, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 32899,
             "availability": "In Stock"
         },
         "LN134118": {
             "ln_number": "LN134118",
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 38, XMP 3.0, 1.25V",
-            "price": 41348,
+            "price": 42098,
+            "availability": "In Stock"
+        },
+        "LN134119": {
+            "ln_number": "LN134119",
+            "manufacturer": "Corsair",
+            "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 38, XMP 3.0, 1.25V",
+            "price": 43748,
             "availability": "In Stock"
         }
     },
     "ram-ddr4-3000": {
+        "LN109430": {
+            "ln_number": "LN109430",
+            "manufacturer": "Corsair",
+            "description": "8GB (1x8GB) Corsair DDR4 Vengeance LPX Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, 1.35V, AMD Ryzen Optimised",
+            "price": 4898,
+            "availability": "In Stock"
+        },
         "LN116855": {
             "ln_number": "LN116855",
             "manufacturer": "Corsair",
@@ -1700,13 +1771,6 @@
             "price": 8198,
             "availability": "In Stock"
         },
-        "LN113701": {
-            "ln_number": "LN113701",
-            "manufacturer": "Corsair",
-            "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO SL White, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
-            "price": 8198,
-            "availability": "In Stock"
-        },
         "LN66678": {
             "ln_number": "LN66678",
             "manufacturer": "Corsair",
@@ -1725,13 +1789,6 @@
             "ln_number": "LN113486",
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR4 Vengeance LPX Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16-20-20-38, XMP 2.0, 1.35V",
-            "price": 12599,
-            "availability": "In Stock"
-        },
-        "LN88460": {
-            "ln_number": "LN88460",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR4 Vengeance LPX Black, PC4-24000 (3000), Non-ECC Unbuffered, CAS 16-20-20-38, XMP 2.0, 1.35V",
             "price": 12998,
             "availability": "In Stock"
         },
@@ -1740,6 +1797,13 @@
             "manufacturer": "Corsair",
             "description": "32GB (2x16GB) Corsair DDR4 Vengeance RGB PRO SL Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
             "price": 13598,
+            "availability": "In Stock"
+        },
+        "LN88460": {
+            "ln_number": "LN88460",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR4 Vengeance LPX Black, PC4-24000 (3000), Non-ECC Unbuffered, CAS 16-20-20-38, XMP 2.0, 1.35V",
+            "price": 13999,
             "availability": "In Stock"
         }
     },
@@ -1800,13 +1864,6 @@
             "price": 3499,
             "availability": "In Stock"
         },
-        "LN158527": {
-            "ln_number": "LN158527",
-            "manufacturer": "GameMax",
-            "description": "600W GameMax Rampage GMXRPG600 Power Supply, Wired, Single Rail, 50A +12V, 6 x SATA, 140mm Fan, White, ATX",
-            "price": 3499,
-            "availability": "In Stock"
-        },
         "LN151779": {
             "ln_number": "LN151779",
             "manufacturer": "GameMax",
@@ -1840,13 +1897,6 @@
             "manufacturer": "GameMax",
             "description": "750W GameMax GP-750 Power Supply, Fully Wired, Single Rail, 54A +12V, 7 x SATA, 140mm Fan, Black, ATX PSU",
             "price": 4199,
-            "availability": "In Stock"
-        },
-        "LN158342": {
-            "ln_number": "LN158342",
-            "manufacturer": "Antec",
-            "description": "650W Antec CSK650DC, Fully Wired, 80PLUS Bronze, Single Rail, 54.1A +12V, 120mm Fan, ATX 2.52 Power Supply",
-            "price": 4499,
             "availability": "In Stock"
         },
         "LN151738": {
@@ -1926,6 +1976,13 @@
             "price": 5999,
             "availability": "In Stock"
         },
+        "LN147219": {
+            "ln_number": "LN147219",
+            "manufacturer": "GameMax",
+            "description": "750W GameMax GX-750 Power Supply, Fully Modular, 80PLUS Gold, Single Rail, 60A, 120mm Fan, ATX PSU",
+            "price": 5999,
+            "availability": "In Stock"
+        },
         "LN162839": {
             "ln_number": "LN162839",
             "manufacturer": "Lian Li",
@@ -1965,13 +2022,6 @@
             "ln_number": "LN147226",
             "manufacturer": "GameMax",
             "description": "750W GameMax RGB-750 Pro Power Supply, Fully Modular, 80PLUS Gold, Single Rail, 60A, 140mm ARGB Fan, ATX PSU",
-            "price": 6998,
-            "availability": "In Stock"
-        },
-        "LN148305": {
-            "ln_number": "LN148305",
-            "manufacturer": "MSI",
-            "description": "750W MSI MAG A750BN, Fully Wired, 80PLUS Gold, Single Rail, PCIe 5.0, 62.5A, 120mm Fan, ATX PSU",
             "price": 6998,
             "availability": "In Stock"
         },
@@ -2024,6 +2074,13 @@
             "price": 8599,
             "availability": "In Stock"
         },
+        "LN133350": {
+            "ln_number": "LN133350",
+            "manufacturer": "be quiet!",
+            "description": "650W be quiet! Pure Power 12 M, Fully Modular, 80PLUS Gold, Dual Rail, 54A, PCIe 5.0, 120mm Fan, ATX3.0 PSU",
+            "price": 8999,
+            "availability": "In Stock"
+        },
         "LN160238": {
             "ln_number": "LN160238",
             "manufacturer": "be quiet!",
@@ -2052,6 +2109,20 @@
             "price": 8999,
             "availability": "In Stock"
         },
+        "LN137389": {
+            "ln_number": "LN137389",
+            "manufacturer": "MSI",
+            "description": "750W MSI MAG A750GL, Fully Modular, PCIe 5.0 80PLUS Gold, Single Rail, PCIe 5.0, 62A, 120mm Fan, ATX 3.0 PSU",
+            "price": 8999,
+            "availability": "In Stock"
+        },
+        "LN153447": {
+            "ln_number": "LN153447",
+            "manufacturer": "Seasonic",
+            "description": "650W Seasonic Core GX PCIE 5.1 80PLUS Gold, Single Rail, Fully Modular, 54A, 120mm Hydro Dynamic Bearing Fan, ATX3.1 PSU",
+            "price": 9998,
+            "availability": "In Stock"
+        },
         "LN159083": {
             "ln_number": "LN159083",
             "manufacturer": "Seasonic",
@@ -2073,6 +2144,13 @@
             "price": 9998,
             "availability": "In Stock"
         },
+        "LN163520": {
+            "ln_number": "LN163520",
+            "manufacturer": "Fractal Design",
+            "description": "750W Fractal Design Ion 3 Gold Power Supply, Black, Fully Modular, 80 PLUS Gold, Single Rail, 62A, 140mm Fan, ATX 3.1",
+            "price": 9998,
+            "availability": "In Stock"
+        },
         "LN163116": {
             "ln_number": "LN163116",
             "manufacturer": "FSP",
@@ -2084,13 +2162,6 @@
             "ln_number": "LN156903",
             "manufacturer": "Montech",
             "description": "750W Montech TITAN GOLD, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 62.5A, 135mm Fan, ATX3.0 PSU",
-            "price": 9998,
-            "availability": "In Stock"
-        },
-        "LN137389": {
-            "ln_number": "LN137389",
-            "manufacturer": "MSI",
-            "description": "750W MSI MAG A750GL, Fully Modular, PCIe 5.0 80PLUS Gold, Single Rail, PCIe 5.0, 62A, 120mm Fan, ATX 3.0 PSU",
             "price": 9998,
             "availability": "In Stock"
         },
@@ -2140,13 +2211,6 @@
             "ln_number": "LN159084",
             "manufacturer": "Seasonic",
             "description": "750W Seasonic CORE GX White ATX3.1, 80PLUS Gold, Single Rail, Fully Modular, 62A, 120mm HD Bearing Fan, ATX3.1 PSU",
-            "price": 10999,
-            "availability": "In Stock"
-        },
-        "LN152047": {
-            "ln_number": "LN152047",
-            "manufacturer": "Seasonic",
-            "description": "750W Seasonic FOCUS GX, Fully Modular, PCIE 5.1, PCIe 5.1, 80PLUS Gold, Single Rail, 62A, 135mm Fan, PSU, White ATX 3.1",
             "price": 10999,
             "availability": "In Stock"
         },
@@ -2341,13 +2405,6 @@
             "price": 7999,
             "availability": "In Stock"
         },
-        "LN153003": {
-            "ln_number": "LN153003",
-            "manufacturer": "NZXT",
-            "description": "850W NZXT C850 Gold PCIE 5.1, Black, Fully Modular, 80PLUS Gold, Single Rail, 70.83A, 135mm FDB Fan, ATX 3.1 PSU",
-            "price": 10998,
-            "availability": "In Stock"
-        },
         "LN149830": {
             "ln_number": "LN149830",
             "manufacturer": "ThermalTake",
@@ -2366,6 +2423,13 @@
             "ln_number": "LN154144",
             "manufacturer": "Corsair",
             "description": "850W Corsair RMe Series RM850e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU",
+            "price": 12499,
+            "availability": "In Stock"
+        },
+        "LN153003": {
+            "ln_number": "LN153003",
+            "manufacturer": "NZXT",
+            "description": "850W NZXT C850 Gold PCIE 5.1, Black, Fully Modular, 80PLUS Gold, Single Rail, 70.83A, 135mm FDB Fan, ATX 3.1 PSU",
             "price": 12499,
             "availability": "In Stock"
         },
@@ -2446,6 +2510,13 @@
             "price": 7499,
             "availability": "In Stock"
         },
+        "LN147227": {
+            "ln_number": "LN147227",
+            "manufacturer": "GameMax",
+            "description": "850W GameMax RGB-850 Pro Power Supply, Fully Modular, 80PLUS Gold, Single Rail, 70A, 140mm ARGB Fan, ATX PSU",
+            "price": 7499,
+            "availability": "In Stock"
+        },
         "LN147221": {
             "ln_number": "LN147221",
             "manufacturer": "CWT",
@@ -2467,17 +2538,45 @@
             "price": 9499,
             "availability": "In Stock"
         },
-        "LN153349": {
-            "ln_number": "LN153349",
+        "LN153344": {
+            "ln_number": "LN153344",
+            "manufacturer": "be quiet!",
+            "description": "850W be quiet! Pure Power 12, PCIE 5.1 80PLUS Gold Wired PSU, Single Rail, 70.8A +12V, Black, ATX 3.1 PSU",
+            "price": 9998,
+            "availability": "In Stock"
+        },
+        "LN137390": {
+            "ln_number": "LN137390",
+            "manufacturer": "MSI",
+            "description": "850W MSI MAG A850GL, Fully Modular, 80PLUS Gold, Single Rail, PCIe 5.0, 70.5A, 120mm Fan, ATX 3.0 PSU",
+            "price": 9998,
+            "availability": "In Stock"
+        },
+        "LN163841": {
+            "ln_number": "LN163841",
             "manufacturer": "Lian Li",
-            "description": "850W Lian Li EDGE GOLD, Fully Modular, PCIE5.1 80PLUS Gold, Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU, Black",
-            "price": 9599,
+            "description": "850W Lian Li SX Platinum, Black, Fully Modular, 80 PLUS Platinum, Single Rail, 70.8A, 120mm FDB Fan, ATX 3.1",
+            "price": 10898,
+            "availability": "In Stock"
+        },
+        "LN163842": {
+            "ln_number": "LN163842",
+            "manufacturer": "Lian Li",
+            "description": "850W Lian Li SX Platinum, White, Fully Modular, 80 PLUS Platinum, Single Rail, 70.8A, 120mm FDB Fan, ATX 3.1",
+            "price": 10898,
             "availability": "In Stock"
         },
         "LN160239": {
             "ln_number": "LN160239",
             "manufacturer": "be quiet!",
             "description": "850W be quiet! Pure Power 13 M, Fully Modular, PCIE 5.1 80PLUS Gold, Single Rail, 70.9A, 12V-2x6, ATX 3.1 PSU",
+            "price": 10999,
+            "availability": "In Stock"
+        },
+        "LN163521": {
+            "ln_number": "LN163521",
+            "manufacturer": "Fractal Design",
+            "description": "850W Fractal Design Ion 3 Gold Power Supply, Black, Fully Modular, 80 PLUS Gold, Single Rail, 70A, 140mm Fan, ATX 3.1",
             "price": 10999,
             "availability": "In Stock"
         },
@@ -2495,18 +2594,25 @@
             "price": 10999,
             "availability": "In Stock"
         },
+        "LN156343": {
+            "ln_number": "LN156343",
+            "manufacturer": "MSI",
+            "description": "850W MSI MAG A850GL PCIE5 White, Fully Modular, 80PLUS Gold, Single Rail, PCIe 5.1, 70.5A, 120mm Fan, ATX 3.1 PSU",
+            "price": 10999,
+            "availability": "In Stock"
+        },
+        "LN156353": {
+            "ln_number": "LN156353",
+            "manufacturer": "MSI",
+            "description": "850W MSI MPG A850GS, Fully Modular, 80PLUS Gold, PCIE 5.1, 70.8A, 135mm Fan, Quiet ATX 3.1 PSU",
+            "price": 10999,
+            "availability": "In Stock"
+        },
         "LN149829": {
             "ln_number": "LN149829",
             "manufacturer": "ThermalTake",
             "description": "850W Thermaltake GF A3 Snow, Modular, 80PLUS Gold, Cybernetics Platinum, Single Rail, PCIe 5.1, ATX 3.1, Smart Fan",
             "price": 10999,
-            "availability": "In Stock"
-        },
-        "LN137390": {
-            "ln_number": "LN137390",
-            "manufacturer": "MSI",
-            "description": "850W MSI MAG A850GL, Fully Modular, 80PLUS Gold, Single Rail, PCIe 5.0, 70.5A, 120mm Fan, ATX 3.0 PSU",
-            "price": 11999,
             "availability": "In Stock"
         },
         "LN159085": {
@@ -2579,13 +2685,6 @@
             "price": 12998,
             "availability": "In Stock"
         },
-        "LN156343": {
-            "ln_number": "LN156343",
-            "manufacturer": "MSI",
-            "description": "850W MSI MAG A850GL PCIE5 White, Fully Modular, 80PLUS Gold, Single Rail, PCIe 5.1, 70.5A, 120mm Fan, ATX 3.1 PSU",
-            "price": 12998,
-            "availability": "In Stock"
-        },
         "LN153449": {
             "ln_number": "LN153449",
             "manufacturer": "Seasonic",
@@ -2618,13 +2717,6 @@
             "ln_number": "LN156906",
             "manufacturer": "Montech",
             "description": "850W Montech TITAN PLA, Fully Modular, PCIE 5.1, 80PLUS Platinum, Single Rail, 70A, 135mm Fan, ATX3.1 PSU",
-            "price": 14999,
-            "availability": "In Stock"
-        },
-        "LN156353": {
-            "ln_number": "LN156353",
-            "manufacturer": "MSI",
-            "description": "850W MSI MPG A850GS, Fully Modular, 80PLUS Gold, PCIE 5.1, 70.8A, 135mm Fan, Quiet ATX 3.1 PSU",
             "price": 14999,
             "availability": "In Stock"
         },
@@ -2753,7 +2845,7 @@
             "ln_number": "LN155343",
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5090 GAMEROCK ARGB 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Core, 2407 MHz Boost",
-            "price": 214999,
+            "price": 218498,
             "availability": "In Stock"
         },
         "LN155275": {
@@ -2774,21 +2866,7 @@
             "ln_number": "LN155048",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5090 SOLID OC 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2422 MHz Boost",
-            "price": 219998,
-            "availability": "In Stock"
-        },
-        "LN155047": {
-            "ln_number": "LN155047",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5090 AMP Extreme INFINTY 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2467 MHz",
-            "price": 220999,
-            "availability": "In Stock"
-        },
-        "LN163193": {
-            "ln_number": "LN163193",
-            "manufacturer": "MSI",
-            "description": "Open Box MSI NVIDIA GeForce RTX 5090 GAMING TRIO OC 32GB GDDR7 Ray-Tracing Graphics, DLSS 4, 21760 Core, 2482 MHz Boost",
-            "price": 223999,
+            "price": 222998,
             "availability": "In Stock"
         },
         "LN158895": {
@@ -2798,10 +2876,24 @@
             "price": 223999,
             "availability": "In Stock"
         },
+        "LN158627": {
+            "ln_number": "LN158627",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5090 SOLID OC WHITE 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2422 MHz Boost",
+            "price": 225998,
+            "availability": "In Stock"
+        },
         "LN158495": {
             "ln_number": "LN158495",
             "manufacturer": "Innovision 3D",
             "description": "INNO3D GeForce RTX 5090 X3 OC 32GB GDDR7 Graphics Card, DLSS 4, 21760 Core, 2452 MHz Boost",
+            "price": 226999,
+            "availability": "In Stock"
+        },
+        "LN155047": {
+            "ln_number": "LN155047",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5090 AMP Extreme INFINTY 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2467 MHz",
             "price": 226999,
             "availability": "In Stock"
         },
@@ -2812,25 +2904,18 @@
             "price": 229999,
             "availability": "In Stock"
         },
-        "LN155362": {
-            "ln_number": "LN155362",
-            "manufacturer": "ASUS",
-            "description": "ASUS NVIDIA GeForce RTX 5090 TUF GAMING 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Core, 2437 MHz Boost",
-            "price": 238999,
+        "LN155098": {
+            "ln_number": "LN155098",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte AORUS NVIDIA GeForce RTX 5090 MASTER 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2655 MHz Clock",
+            "price": 244999,
             "availability": "In Stock"
         },
         "LN157785": {
             "ln_number": "LN157785",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5090 VANGUARD SOC 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Core, 2512MHz Boost",
-            "price": 239999,
-            "availability": "In Stock"
-        },
-        "LN155098": {
-            "ln_number": "LN155098",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte AORUS NVIDIA GeForce RTX 5090 MASTER 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2655 MHz Clock",
-            "price": 244999,
+            "price": 247998,
             "availability": "In Stock"
         },
         "LN155274": {
@@ -2872,7 +2957,7 @@
             "ln_number": "LN154404",
             "manufacturer": "PNY",
             "description": "PNY NVIDIA GeForce RTX 5080 OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2620MHz Boost",
-            "price": 91999,
+            "price": 94999,
             "availability": "In Stock"
         },
         "LN155005": {
@@ -2896,6 +2981,20 @@
             "price": 119999,
             "availability": "In Stock"
         },
+        "LN157281": {
+            "ln_number": "LN157281",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5080 SOLID CORE 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2617 MHz Boost",
+            "price": 95999,
+            "availability": "In Stock"
+        },
+        "LN164943": {
+            "ln_number": "LN164943",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5080 EXPERT OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2715 MHz Boost",
+            "price": 96998,
+            "availability": "In Stock"
+        },
         "LN154791": {
             "ln_number": "LN154791",
             "manufacturer": "Palit",
@@ -2914,7 +3013,7 @@
             "ln_number": "LN157784",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5080 SOLID CORE OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2640 MHz Boost",
-            "price": 101999,
+            "price": 104999,
             "availability": "In Stock"
         },
         "LN157242": {
@@ -2922,13 +3021,6 @@
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5080 SOLID OC WHITE 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2640 MHz Boost",
             "price": 106999,
-            "availability": "In Stock"
-        },
-        "LN155044": {
-            "ln_number": "LN155044",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5080 AMP Extreme INFINITY 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2670 MHz",
-            "price": 107999,
             "availability": "In Stock"
         },
         "LN157854": {
@@ -2952,13 +3044,6 @@
             "price": 115999,
             "availability": "In Stock"
         },
-        "LN164943": {
-            "ln_number": "LN164943",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5080 EXPERT OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2715 MHz Boost",
-            "price": 115999,
-            "availability": "In Stock"
-        },
         "LN155753": {
             "ln_number": "LN155753",
             "manufacturer": "Gigabyte",
@@ -2973,17 +3058,17 @@
             "price": 119899,
             "availability": "In Stock"
         },
+        "LN155003": {
+            "ln_number": "LN155003",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5080 GAMING TRIO OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2700 MHz Boost",
+            "price": 119999,
+            "availability": "In Stock"
+        },
         "LN157484": {
             "ln_number": "LN157484",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5080 VANGUARD SOC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2730MHz Boost",
-            "price": 119999,
-            "availability": "In Stock"
-        },
-        "LN165054": {
-            "ln_number": "LN165054",
-            "manufacturer": "MSI",
-            "description": "Open Box MSI NVIDIA GeForce RTX 5080 GAMING TRIO OC WHITE 16GB GDDR7 Ray-Tracing Graphics, DLSS 4, 10752 Core, 2700MHz",
             "price": 119999,
             "availability": "In Stock"
         },
@@ -2994,6 +3079,13 @@
             "price": 127999,
             "availability": "In Stock"
         },
+        "LN155002": {
+            "ln_number": "LN155002",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5080 GAMING TRIO OC WHITE 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2700MHz Boost",
+            "price": 127999,
+            "availability": "In Stock"
+        },
         "LN154403": {
             "ln_number": "LN154403",
             "manufacturer": "PNY",
@@ -3001,11 +3093,25 @@
             "price": 127999,
             "availability": "In Stock"
         },
+        "LN155364": {
+            "ln_number": "LN155364",
+            "manufacturer": "ASUS",
+            "description": "ASUS NVIDIA GeForce RTX 5080 TUF OC GAMING 16GB Graphics Card",
+            "price": 129998,
+            "availability": "In Stock"
+        },
         "LN156734": {
             "ln_number": "LN156734",
             "manufacturer": "MSI",
             "description": "Open Box MSI NVIDIA GeForce RTX 5080 VANGUARD SOC LAUNCH ED 16GB GDDR7 Ray-Tracing Graphics, 10752 Core, 2730 MHz Boost",
             "price": 132199,
+            "availability": "In Stock"
+        },
+        "LN155090": {
+            "ln_number": "LN155090",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte AORUS NVIDIA GeForce RTX 5080 XTREME WATERFORCE 16GB GDDR7 Graphics Card, DLSS 4, 10752 Core, 2805MHz Clock",
+            "price": 134999,
             "availability": "In Stock"
         },
         "LN154372": {
@@ -3061,7 +3167,7 @@
             "ln_number": "LN157482",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5070 Ti INSPIRE 3X OC 16GB GDDR7 Graphics Card, DLSS 4, 8960 Core, 2482 MHz Boost",
-            "price": 83999,
+            "price": 73998,
             "availability": "In Stock"
         },
         "LN155367": {
@@ -3071,10 +3177,17 @@
             "price": 91998,
             "availability": "In Stock"
         },
-        "LN155168": {
-            "ln_number": "LN155168",
-            "manufacturer": "PNY",
-            "description": "PNY NVIDIA GeForce RTX 5070 TI OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2300 MHz Clock",
+        "LN159187": {
+            "ln_number": "LN159187",
+            "manufacturer": "Palit",
+            "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2452 MHz Boost",
+            "price": 68999,
+            "availability": "In Stock"
+        },
+        "LN159186": {
+            "ln_number": "LN159186",
+            "manufacturer": "Palit",
+            "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2482 MHz Boost",
             "price": 69998,
             "availability": "In Stock"
         },
@@ -3092,11 +3205,18 @@
             "price": 72998,
             "availability": "In Stock"
         },
+        "LN155368": {
+            "ln_number": "LN155368",
+            "manufacturer": "ASUS",
+            "description": "ASUS PRIME NVIDIA GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2527 MHz Boost",
+            "price": 74399,
+            "availability": "In Stock"
+        },
         "LN158546": {
             "ln_number": "LN158546",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5070 Ti SOLID OC SFF 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2482 MHz Boost",
-            "price": 77999,
+            "price": 74999,
             "availability": "In Stock"
         },
         "LN159599": {
@@ -3106,11 +3226,32 @@
             "price": 79999,
             "availability": "In Stock"
         },
+        "LN155963": {
+            "ln_number": "LN155963",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti EAGLE OC SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2542 MHz Clock",
+            "price": 80999,
+            "availability": "In Stock"
+        },
         "LN156547": {
             "ln_number": "LN156547",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5070 Ti AMP EXTREME INFINITY 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2512 MHz Boost",
             "price": 81499,
+            "availability": "In Stock"
+        },
+        "LN155962": {
+            "ln_number": "LN155962",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti EAGLE OC ICE SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2542 MHz Clock",
+            "price": 81998,
+            "availability": "In Stock"
+        },
+        "LN155104": {
+            "ln_number": "LN155104",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE OC SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2497 MHz Clock",
+            "price": 81998,
             "availability": "In Stock"
         },
         "LN159597": {
@@ -3148,13 +3289,6 @@
             "price": 88999,
             "availability": "In Stock"
         },
-        "LN155102": {
-            "ln_number": "LN155102",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte AORUS MASTER NVIDIA GeForce RTX 5070 Ti 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2670MHz Clock",
-            "price": 92999,
-            "availability": "In Stock"
-        },
         "LN159690": {
             "ln_number": "LN159690",
             "manufacturer": "ASUS",
@@ -3166,7 +3300,7 @@
             "ln_number": "LN156804",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5070 VENTUS 2X OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2542 MHz Boost",
-            "price": 48998,
+            "price": 49999,
             "availability": "In Stock"
         },
         "LN159472": {
@@ -3190,11 +3324,18 @@
             "price": 58999,
             "availability": "In Stock"
         },
-        "LN155170": {
-            "ln_number": "LN155170",
-            "manufacturer": "PNY",
-            "description": "PNY NVIDIA GeForce RTX 5070 OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2510MHz Boost",
-            "price": 49999,
+        "LN156802": {
+            "ln_number": "LN156802",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5070 GAMING TRIO OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2610 MHz Boost",
+            "price": 49998,
+            "availability": "In Stock"
+        },
+        "LN156805": {
+            "ln_number": "LN156805",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5070 VENTUS 2X OC WHITE 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2542 MHz Boost",
+            "price": 49998,
             "availability": "In Stock"
         },
         "LN157148": {
@@ -3202,13 +3343,6 @@
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 GamingPro 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2512 MHz Boost",
             "price": 50198,
-            "availability": "In Stock"
-        },
-        "LN156805": {
-            "ln_number": "LN156805",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5070 VENTUS 2X OC WHITE 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2542 MHz Boost",
-            "price": 50999,
             "availability": "In Stock"
         },
         "LN158628": {
@@ -3258,13 +3392,6 @@
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 GamingPro OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2572 MHz Boost",
             "price": 52699,
-            "availability": "In Stock"
-        },
-        "LN156802": {
-            "ln_number": "LN156802",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5070 GAMING TRIO OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2610 MHz Boost",
-            "price": 52998,
             "availability": "In Stock"
         },
         "LN159183": {
@@ -3344,6 +3471,13 @@
             "price": 71899,
             "availability": "In Stock"
         },
+        "LN158378": {
+            "ln_number": "LN158378",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5060 Ti GAMING OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2647 MHz Boost",
+            "price": 40998,
+            "availability": "In Stock"
+        },
         "LN158200": {
             "ln_number": "LN158200",
             "manufacturer": "MSI",
@@ -3351,18 +3485,25 @@
             "price": 40998,
             "availability": "In Stock"
         },
-        "LN158378": {
-            "ln_number": "LN158378",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5060 Ti GAMING OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2647 MHz Boost",
-            "price": 42638,
-            "availability": "In Stock"
-        },
         "LN157873": {
             "ln_number": "LN157873",
             "manufacturer": "ASUS",
             "description": "ASUS PRIME NVIDIA GeForce RTX 5060 Ti OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2647 MHz Boost",
             "price": 46999,
+            "availability": "In Stock"
+        },
+        "LN157875": {
+            "ln_number": "LN157875",
+            "manufacturer": "ASUS",
+            "description": "ASUS NVIDIA GeForce RTX 5060 Ti DUAL OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2632 MHz Boost",
+            "price": 39998,
+            "availability": "In Stock"
+        },
+        "LN158543": {
+            "ln_number": "LN158543",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5060 Ti WINDFORCE OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2587MHz Clock",
+            "price": 39998,
             "availability": "In Stock"
         },
         "LN161093": {
@@ -3377,13 +3518,6 @@
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti Twin Edge OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2602 MHz Boost",
             "price": 41399,
-            "availability": "In Stock"
-        },
-        "LN157875": {
-            "ln_number": "LN157875",
-            "manufacturer": "ASUS",
-            "description": "ASUS NVIDIA GeForce RTX 5060 Ti DUAL OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2632 MHz Boost",
-            "price": 41999,
             "availability": "In Stock"
         },
         "LN159059": {
@@ -3414,6 +3548,13 @@
             "price": 44899,
             "availability": "In Stock"
         },
+        "LN158541": {
+            "ln_number": "LN158541",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5060 Ti EAGLE OC ICE 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2617MHz Clock",
+            "price": 45998,
+            "availability": "In Stock"
+        },
         "LN158540": {
             "ln_number": "LN158540",
             "manufacturer": "Gigabyte",
@@ -3442,10 +3583,24 @@
             "price": 47899,
             "availability": "In Stock"
         },
+        "LN157871": {
+            "ln_number": "LN157871",
+            "manufacturer": "ASUS",
+            "description": "ASUS NVIDIA GeForce RTX 5060 Ti TUF GAMING OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2692 MHz Boost",
+            "price": 49998,
+            "availability": "In Stock"
+        },
         "LN158199": {
             "ln_number": "LN158199",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5060 Ti GAMING TRIO OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2647 MHz Boost",
+            "price": 49999,
+            "availability": "In Stock"
+        },
+        "LN158379": {
+            "ln_number": "LN158379",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5060 Ti GAMING TRIO OC White 16GB GDDR7 Graphics Card, DLSS 4, 4608 Core, 2647 MHz Boost",
             "price": 49999,
             "availability": "In Stock"
         },
@@ -3463,6 +3618,13 @@
             "price": 33599,
             "availability": "In Stock"
         },
+        "LN161089": {
+            "ln_number": "LN161089",
+            "manufacturer": "PNY",
+            "description": "PNY NVIDIA GeForce RTX 5060 Ti OC DUAL Fan 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2692MHz Boost",
+            "price": 33499,
+            "availability": "In Stock"
+        },
         "LN159148": {
             "ln_number": "LN159148",
             "manufacturer": "Gigabyte",
@@ -3477,13 +3639,6 @@
             "price": 33899,
             "availability": "In Stock"
         },
-        "LN161090": {
-            "ln_number": "LN161090",
-            "manufacturer": "PNY",
-            "description": "PNY NVIDIA GeForce RTX 5060 Ti DUAL Fan 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2572MHz Boost",
-            "price": 33998,
-            "availability": "In Stock"
-        },
         "LN159147": {
             "ln_number": "LN159147",
             "manufacturer": "Gigabyte",
@@ -3495,13 +3650,6 @@
             "ln_number": "LN158077",
             "manufacturer": "Palit",
             "description": "Palit NVIDIA GeForce RTX 5060 Ti INFINITY 3 OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2662 MHz Boost",
-            "price": 34999,
-            "availability": "In Stock"
-        },
-        "LN158492": {
-            "ln_number": "LN158492",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti Twin Edge 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2572 MHz Boost",
             "price": 34999,
             "availability": "In Stock"
         },
@@ -3530,13 +3678,6 @@
             "ln_number": "LN161088",
             "manufacturer": "PNY",
             "description": "PNY NVIDIA GeForce RTX 5060 Ti ARGB EPIC-X RGB OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4608 Cores, 2692MHz Boost",
-            "price": 36998,
-            "availability": "In Stock"
-        },
-        "LN161089": {
-            "ln_number": "LN161089",
-            "manufacturer": "PNY",
-            "description": "PNY NVIDIA GeForce RTX 5060 Ti OC DUAL Fan 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2692MHz Boost",
             "price": 36998,
             "availability": "In Stock"
         },
@@ -3582,17 +3723,24 @@
             "price": 42998,
             "availability": "In Stock"
         },
-        "LN159670": {
-            "ln_number": "LN159670",
-            "manufacturer": "ASUS",
-            "description": "ASUS NVIDIA GeForce RTX 5060 DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2565 MHz Boost",
-            "price": 27499,
-            "availability": "In Stock"
-        },
         "LN159339": {
             "ln_number": "LN159339",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5060 VENTUS 2X OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2527 MHz  Boost",
+            "price": 22998,
+            "availability": "In Stock"
+        },
+        "LN158715": {
+            "ln_number": "LN158715",
+            "manufacturer": "Palit",
+            "description": "Palit NVIDIA GeForce RTX 5060 DUAL 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2497 MHz Boost",
+            "price": 26999,
+            "availability": "In Stock"
+        },
+        "LN159670": {
+            "ln_number": "LN159670",
+            "manufacturer": "ASUS",
+            "description": "ASUS NVIDIA GeForce RTX 5060 DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2565 MHz Boost",
             "price": 27499,
             "availability": "In Stock"
         },
@@ -3652,13 +3800,6 @@
             "price": 28999,
             "availability": "In Stock"
         },
-        "LN159338": {
-            "ln_number": "LN159338",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5060 VENTUS 2X OC WHITE 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2535MHz Boost",
-            "price": 28999,
-            "availability": "In Stock"
-        },
         "LN159334": {
             "ln_number": "LN159334",
             "manufacturer": "Zotac",
@@ -3685,6 +3826,13 @@
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5060 EAGLE OC ICE 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2550 MHz Clock",
             "price": 29899,
+            "availability": "In Stock"
+        },
+        "LN159338": {
+            "ln_number": "LN159338",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5060 VENTUS 2X OC WHITE 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2535MHz Boost",
+            "price": 29999,
             "availability": "In Stock"
         },
         "LN159562": {
@@ -3736,6 +3884,27 @@
             "price": 36499,
             "availability": "In Stock"
         },
+        "LN161346": {
+            "ln_number": "LN161346",
+            "manufacturer": "MSI",
+            "description": "MSI NVIDIA GeForce RTX 5050 VENTUS 2X OC 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Core, 2617 MHz Boost",
+            "price": 21998,
+            "availability": "In Stock"
+        },
+        "LN161048": {
+            "ln_number": "LN161048",
+            "manufacturer": "Palit",
+            "description": "Palit NVIDIA GeForce RTX 5050 STORMX 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Cores, 2572 MHz Boost",
+            "price": 21998,
+            "availability": "In Stock"
+        },
+        "LN161049": {
+            "ln_number": "LN161049",
+            "manufacturer": "Palit",
+            "description": "Palit NVIDIA GeForce RTX 5050 DUAL 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Cores, 2572 MHz Boost",
+            "price": 22399,
+            "availability": "In Stock"
+        },
         "LN161265": {
             "ln_number": "LN161265",
             "manufacturer": "ASUS",
@@ -3743,10 +3912,10 @@
             "price": 22999,
             "availability": "In Stock"
         },
-        "LN161346": {
-            "ln_number": "LN161346",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5050 VENTUS 2X OC 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Core, 2617 MHz Boost",
+        "LN161045": {
+            "ln_number": "LN161045",
+            "manufacturer": "Palit",
+            "description": "Palit NVIDIA GeForce RTX 5050 STORMX OC 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Cores, 2617 MHz Boost",
             "price": 22999,
             "availability": "In Stock"
         },
@@ -3785,13 +3954,6 @@
             "price": 23999,
             "availability": "In Stock"
         },
-        "LN161075": {
-            "ln_number": "LN161075",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5050 OC Low Profile 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Cores, 2587 MHz Clock",
-            "price": 24998,
-            "availability": "In Stock"
-        },
         "LN161076": {
             "ln_number": "LN161076",
             "manufacturer": "Gigabyte",
@@ -3826,7 +3988,7 @@
             "ln_number": "LN139498",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 3050 VENTUS 2X XS OC 8GB GDDR6 Ray-Tracing Graphics Card, 2560 Core, 1807MHz Boost",
-            "price": 17899,
+            "price": 16998,
             "availability": "In Stock"
         },
         "LN140043": {
@@ -3885,6 +4047,13 @@
             "manufacturer": "ASUS",
             "description": "ASUS Radeon RX 9070 XT PRIME OC 16GB GDDR6 Graphics Card, RDNA 4, 4096 Streams, TBC Boost",
             "price": 57498,
+            "availability": "In Stock"
+        },
+        "LN154545": {
+            "ln_number": "LN154545",
+            "manufacturer": "PowerColor",
+            "description": "PowerColor Radeon RX 9070 XT REAPER 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, 2970MHz Boost",
+            "price": 56999,
             "availability": "In Stock"
         },
         "LN154765": {
@@ -3983,6 +4152,13 @@
             "manufacturer": "XFX",
             "description": "XFX Mercury Radeon RX 9070 XT OC Gaming 16GB GDDR6 Graphics Card, White, RGB, RDNA 4, 4096 Streams, 3100MHz Boost",
             "price": 68399,
+            "availability": "In Stock"
+        },
+        "LN154746": {
+            "ln_number": "LN154746",
+            "manufacturer": "ASUS",
+            "description": "ASUS Radeon RX 9070 XT TUF GAMING OC 16GB GDDR6 Graphics Card, RDNA 4, 4096 Streams, TBC Boost",
+            "price": 71999,
             "availability": "In Stock"
         },
         "LN157800": {
@@ -4118,20 +4294,6 @@
             "price": 33998,
             "availability": "In Stock"
         },
-        "LN165063": {
-            "ln_number": "LN165063",
-            "manufacturer": "XFX",
-            "description": "Open Box XFX Mercury Radeon RX 9060 XT OC Gaming Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
-            "price": 34399,
-            "availability": "In Stock"
-        },
-        "LN159501": {
-            "ln_number": "LN159501",
-            "manufacturer": "XFX",
-            "description": "XFX SWIFT Radeon RX 9060 XT OC Gaming Dual Fan Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
-            "price": 34999,
-            "availability": "In Stock"
-        },
         "LN159497": {
             "ln_number": "LN159497",
             "manufacturer": "XFX",
@@ -4179,13 +4341,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS Radeon RX 9060 XT PRIME OC 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3330 MHz Boost",
             "price": 38999,
-            "availability": "In Stock"
-        },
-        "LN160084": {
-            "ln_number": "LN160084",
-            "manufacturer": "ASUS",
-            "description": "ASUS Radeon RX 9060 XT TUF GAMING OC 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, TBC Boost",
-            "price": 39899,
             "availability": "In Stock"
         },
         "LN160083": {
@@ -4327,20 +4482,6 @@
         }
     },
     "m2-nvme-g4-ssd": {
-        "LN151057": {
-            "ln_number": "LN151057",
-            "manufacturer": "Kingston",
-            "description": "500GB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 5000MBs Read, 3000MBs Write",
-            "price": 4799,
-            "availability": "In Stock"
-        },
-        "LN149562": {
-            "ln_number": "LN149562",
-            "manufacturer": "WD",
-            "description": "500GB WD Blue SN5000 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 4000MBs Write, 460k770k IOPS",
-            "price": 4799,
-            "availability": "In Stock"
-        },
         "LN162889": {
             "ln_number": "LN162889",
             "manufacturer": "WD",
@@ -4348,18 +4489,11 @@
             "price": 4799,
             "availability": "In Stock"
         },
-        "LN142944": {
-            "ln_number": "LN142944",
-            "manufacturer": "Kioxia",
-            "description": "1TB KIOXIA EXCERIA PLUS G3, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 3900MBs Write, 770k950k IOPS",
-            "price": 5198,
-            "availability": "In Stock"
-        },
-        "LN151603": {
-            "ln_number": "LN151603",
-            "manufacturer": "Crucial",
-            "description": "500GB Crucial P310 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 6600MBs Read, 3500MBs Write, 520k890k IOPS",
-            "price": 5198,
+        "LN151057": {
+            "ln_number": "LN151057",
+            "manufacturer": "Kingston",
+            "description": "500GB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 5000MBs Read, 3000MBs Write",
+            "price": 4999,
             "availability": "In Stock"
         },
         "LN154942": {
@@ -4369,18 +4503,18 @@
             "price": 5798,
             "availability": "In Stock"
         },
+        "LN142944": {
+            "ln_number": "LN142944",
+            "manufacturer": "Kioxia",
+            "description": "1TB KIOXIA EXCERIA PLUS G3, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 3900MBs Write, 770k950k IOPS",
+            "price": 5999,
+            "availability": "In Stock"
+        },
         "LN154934": {
             "ln_number": "LN154934",
             "manufacturer": "Crucial",
             "description": "480GB Crucial E100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 4700MBs Read, 2500MBs Write",
             "price": 5999,
-            "availability": "In Stock"
-        },
-        "LN151058": {
-            "ln_number": "LN151058",
-            "manufacturer": "Kingston",
-            "description": "1TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 4000MBs Write",
-            "price": 6499,
             "availability": "In Stock"
         },
         "LN149563": {
@@ -4390,24 +4524,17 @@
             "price": 6499,
             "availability": "In Stock"
         },
-        "LN151604": {
-            "ln_number": "LN151604",
+        "LN151603": {
+            "ln_number": "LN151603",
             "manufacturer": "Crucial",
-            "description": "1TB Crucial P310, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
+            "description": "500GB Crucial P310 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 6600MBs Read, 3500MBs Write, 520k890k IOPS",
             "price": 6799,
             "availability": "In Stock"
         },
-        "LN154943": {
-            "ln_number": "LN154943",
-            "manufacturer": "WD",
-            "description": "1TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
-            "price": 6998,
-            "availability": "In Stock"
-        },
-        "LN162890": {
-            "ln_number": "LN162890",
-            "manufacturer": "WD",
-            "description": "1TB WD Blue SN5100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6700MBs Write, 1000k1300k IOPS",
+        "LN151058": {
+            "ln_number": "LN151058",
+            "manufacturer": "Kingston",
+            "description": "1TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 4000MBs Write",
             "price": 6998,
             "availability": "In Stock"
         },
@@ -4418,11 +4545,39 @@
             "price": 7199,
             "availability": "In Stock"
         },
+        "LN162890": {
+            "ln_number": "LN162890",
+            "manufacturer": "WD",
+            "description": "1TB WD Blue SN5100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6700MBs Write, 1000k1300k IOPS",
+            "price": 7399,
+            "availability": "In Stock"
+        },
+        "LN154943": {
+            "ln_number": "LN154943",
+            "manufacturer": "WD",
+            "description": "1TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
+            "price": 7649,
+            "availability": "In Stock"
+        },
+        "LN151604": {
+            "ln_number": "LN151604",
+            "manufacturer": "Crucial",
+            "description": "1TB Crucial P310, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
+            "price": 7999,
+            "availability": "In Stock"
+        },
+        "LN156002": {
+            "ln_number": "LN156002",
+            "manufacturer": "Corsair",
+            "description": "1TB Corsair MP600 CORE XT (2025), M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5900MBs Read, 5000MBs Write, 500k1000k IOPS",
+            "price": 8149,
+            "availability": "In Stock"
+        },
         "LN152120": {
             "ln_number": "LN152120",
             "manufacturer": "Samsung",
             "description": "1TB Samsung 990 EVO Plus, M.2 (2280) PCIe 4.0, NVMe SSD, 3D V-NAND TLC, 7150MBs Read,6300MBs Write, 850k1350k IOPS",
-            "price": 7999,
+            "price": 8399,
             "availability": "In Stock"
         },
         "LN154935": {
@@ -4430,13 +4585,6 @@
             "manufacturer": "Crucial",
             "description": "1TB Crucial E100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 4500MBs Write",
             "price": 9199,
-            "availability": "In Stock"
-        },
-        "LN128196": {
-            "ln_number": "LN128196",
-            "manufacturer": "WD",
-            "description": "1TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6300MBs Write, PCPS5",
-            "price": 9218,
             "availability": "In Stock"
         },
         "LN144589": {
@@ -4481,25 +4629,39 @@
             "price": 9998,
             "availability": "In Stock"
         },
+        "LN128196": {
+            "ln_number": "LN128196",
+            "manufacturer": "WD",
+            "description": "1TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6300MBs Write, PCPS5",
+            "price": 10399,
+            "availability": "In Stock"
+        },
         "LN130046": {
             "ln_number": "LN130046",
             "manufacturer": "Samsung",
             "description": "1TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC 3D V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
-            "price": 9998,
+            "price": 10666,
             "availability": "In Stock"
         },
         "LN159065": {
             "ln_number": "LN159065",
             "manufacturer": "WD",
             "description": "2TB WD Green SN3000 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 4200MBs Write",
-            "price": 10998,
+            "price": 10699,
+            "availability": "In Stock"
+        },
+        "LN156439": {
+            "ln_number": "LN156439",
+            "manufacturer": "Crucial",
+            "description": "1TB Crucial P310 w Heatsink, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
+            "price": 10999,
             "availability": "In Stock"
         },
         "LN149564": {
             "ln_number": "LN149564",
             "manufacturer": "WD",
             "description": "2TB WD Blue SN5000 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5150MBs Read, 4850MBs Write, 650k770k IOPS",
-            "price": 10999,
+            "price": 11359,
             "availability": "In Stock"
         },
         "LN145274": {
@@ -4507,13 +4669,6 @@
             "manufacturer": "Kingston",
             "description": "1TB Kingston KC3000 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D TLC, 7000MBs Read, 6000MBs Write, 900K1000K IOPS",
             "price": 11599,
-            "availability": "In Stock"
-        },
-        "LN151059": {
-            "ln_number": "LN151059",
-            "manufacturer": "Kingston",
-            "description": "2TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 4000MBs Write",
-            "price": 12198,
             "availability": "In Stock"
         },
         "LN143360": {
@@ -4537,6 +4692,13 @@
             "price": 12599,
             "availability": "In Stock"
         },
+        "LN151059": {
+            "ln_number": "LN151059",
+            "manufacturer": "Kingston",
+            "description": "2TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 4000MBs Write",
+            "price": 12799,
+            "availability": "In Stock"
+        },
         "LN142103": {
             "ln_number": "LN142103",
             "manufacturer": "Crucial",
@@ -4558,13 +4720,6 @@
             "price": 12998,
             "availability": "In Stock"
         },
-        "LN154941": {
-            "ln_number": "LN154941",
-            "manufacturer": "WD",
-            "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
-            "price": 12998,
-            "availability": "In Stock"
-        },
         "LN152121": {
             "ln_number": "LN152121",
             "manufacturer": "Samsung",
@@ -4572,10 +4727,10 @@
             "price": 13499,
             "availability": "In Stock"
         },
-        "LN128195": {
-            "ln_number": "LN128195",
+        "LN154941": {
+            "ln_number": "LN154941",
             "manufacturer": "WD",
-            "description": "2TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
+            "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
             "price": 14498,
             "availability": "In Stock"
         },
@@ -4586,25 +4741,18 @@
             "price": 14648,
             "availability": "In Stock"
         },
+        "LN128195": {
+            "ln_number": "LN128195",
+            "manufacturer": "WD",
+            "description": "2TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
+            "price": 14899,
+            "availability": "In Stock"
+        },
         "LN149510": {
             "ln_number": "LN149510",
             "manufacturer": "Crucial",
             "description": "2TB Crucial P310, M.2 (2230) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
             "price": 15798,
-            "availability": "In Stock"
-        },
-        "LN130047": {
-            "ln_number": "LN130047",
-            "manufacturer": "Samsung",
-            "description": "2TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC 3D V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
-            "price": 15998,
-            "availability": "In Stock"
-        },
-        "LN128192": {
-            "ln_number": "LN128192",
-            "manufacturer": "WD",
-            "description": "2TB WD Black SN850X WHeatsink M.2 (2280) PCIe 4.0 (x4) NVMe SSD w Heatsink, 7300MBs Read, 6600MBs Write, PCPS5",
-            "price": 15998,
             "availability": "In Stock"
         },
         "LN119455": {
@@ -4642,11 +4790,25 @@
             "price": 16999,
             "availability": "In Stock"
         },
-        "LN123299": {
-            "ln_number": "LN123299",
+        "LN144591": {
+            "ln_number": "LN144591",
             "manufacturer": "Corsair",
-            "description": "2TB Corsair MP600 PRO LPX Heatsink, M.2 (2280) PCIe 4 (x4) NVMe SSD, 7100MBs Read, 6800MBs Write, 1000k1200k, PCPS5",
+            "description": "2TB Corsair MP600 ELITE w Heatsink, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6500MBs Write, 1000k1200k IOPS",
             "price": 17348,
+            "availability": "In Stock"
+        },
+        "LN130047": {
+            "ln_number": "LN130047",
+            "manufacturer": "Samsung",
+            "description": "2TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC 3D V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
+            "price": 17999,
+            "availability": "In Stock"
+        },
+        "LN128192": {
+            "ln_number": "LN128192",
+            "manufacturer": "WD",
+            "description": "2TB WD Black SN850X WHeatsink M.2 (2280) PCIe 4.0 (x4) NVMe SSD w Heatsink, 7300MBs Read, 6600MBs Write, PCPS5",
+            "price": 17999,
             "availability": "In Stock"
         },
         "LN137434": {
@@ -4654,20 +4816,6 @@
             "manufacturer": "Samsung",
             "description": "2TB Samsung 990 PRO Heatsink, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
             "price": 18998,
-            "availability": "In Stock"
-        },
-        "LN140761": {
-            "ln_number": "LN140761",
-            "manufacturer": "Lexar",
-            "description": "4TB Lexar NM790 SSD, M.2 (2280) PCIe 4.0 (x4) 3D NVMe 2.0 SSD, TLC, 7400MBs Read, 6500MBs Write PCPS5",
-            "price": 21998,
-            "availability": "In Stock"
-        },
-        "LN156882": {
-            "ln_number": "LN156882",
-            "manufacturer": "Kingston",
-            "description": "4TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 5000MBs Write",
-            "price": 22999,
             "availability": "In Stock"
         },
         "LN152122": {
@@ -4681,21 +4829,42 @@
             "ln_number": "LN162886",
             "manufacturer": "WD",
             "description": "4TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6700MBs Write, 900k1350k IOPS",
-            "price": 24998,
+            "price": 25499,
+            "availability": "In Stock"
+        },
+        "LN140761": {
+            "ln_number": "LN140761",
+            "manufacturer": "Lexar",
+            "description": "4TB Lexar NM790 SSD, M.2 (2280) PCIe 4.0 (x4) 3D NVMe 2.0 SSD, TLC, 7400MBs Read, 6500MBs Write PCPS5",
+            "price": 25998,
+            "availability": "In Stock"
+        },
+        "LN156882": {
+            "ln_number": "LN156882",
+            "manufacturer": "Kingston",
+            "description": "4TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 5000MBs Write",
+            "price": 27998,
+            "availability": "In Stock"
+        },
+        "LN165255": {
+            "ln_number": "LN165255",
+            "manufacturer": "Crucial",
+            "description": "4TB Crucial P310, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k  1000k IOPS",
+            "price": 28049,
             "availability": "In Stock"
         },
         "LN141091": {
             "ln_number": "LN141091",
             "manufacturer": "Samsung",
             "description": "4TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
-            "price": 28998,
+            "price": 29999,
             "availability": "In Stock"
         },
         "LN128194": {
             "ln_number": "LN128194",
             "manufacturer": "WD",
             "description": "4TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
-            "price": 28998,
+            "price": 30998,
             "availability": "In Stock"
         },
         "LN130063": {
@@ -4737,14 +4906,28 @@
             "ln_number": "LN152232",
             "manufacturer": "Lexar",
             "description": "8TB Lexar NM790 SSD, M.2 (2280) PCIe 4.0 (x4) 3D NVMe SSD, TLC, 7400MBs Read, 6500MBs Write, 850K900K IOPS, PCPS5",
-            "price": 58998,
+            "price": 64998,
             "availability": "In Stock"
         },
         "LN150212": {
             "ln_number": "LN150212",
             "manufacturer": "WD",
             "description": "8TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1200K IOPS",
-            "price": 59999,
+            "price": 64999,
+            "availability": "In Stock"
+        },
+        "LN150211": {
+            "ln_number": "LN150211",
+            "manufacturer": "WD",
+            "description": "8TB WD Black SN850X Heatsink, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1200K IOPS",
+            "price": 65999,
+            "availability": "In Stock"
+        },
+        "LN130062": {
+            "ln_number": "LN130062",
+            "manufacturer": "Corsair",
+            "description": "8TB Corsair MP600 PRO NH, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6100MBs Write, 950k1200k, PS5 Compatible",
+            "price": 84499,
             "availability": "In Stock"
         },
         "LN102716": {
@@ -4781,7 +4964,7 @@
             "ln_number": "LN152120",
             "manufacturer": "Samsung",
             "description": "1TB Samsung 990 EVO Plus, M.2 (2280) PCIe 4.0, NVMe SSD, 3D V-NAND TLC, 7150MBs Read,6300MBs Write, 850k1350k IOPS",
-            "price": 7999,
+            "price": 8399,
             "availability": "In Stock"
         },
         "LN157768": {
@@ -4945,11 +5128,18 @@
             "price": 40998,
             "availability": "In Stock"
         },
+        "LN159495": {
+            "ln_number": "LN159495",
+            "manufacturer": "WD",
+            "description": "4TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
+            "price": 40999,
+            "availability": "In Stock"
+        },
         "LN157414": {
             "ln_number": "LN157414",
             "manufacturer": "Samsung",
             "description": "4TB Samsung 9100 PRO, M.2 2280, PCIe 5.0 (x4), NVMe 2.0, V-NAND TLC, 14800 MBs Read, 13400 MBs Write, 2200K2600K IOPs",
-            "price": 40999,
+            "price": 42199,
             "availability": "In Stock"
         },
         "LN157535": {
@@ -4957,13 +5147,6 @@
             "manufacturer": "Samsung",
             "description": "4TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
             "price": 42998,
-            "availability": "In Stock"
-        },
-        "LN159495": {
-            "ln_number": "LN159495",
-            "manufacturer": "WD",
-            "description": "4TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
-            "price": 43999,
             "availability": "In Stock"
         },
         "LN160443": {
@@ -4994,6 +5177,13 @@
             "price": 47498,
             "availability": "In Stock"
         },
+        "LN165654": {
+            "ln_number": "LN165654",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14400MBs Write, 1500k  3300k IOPS",
+            "price": 48998,
+            "availability": "In Stock"
+        },
         "LN147722": {
             "ln_number": "LN147722",
             "manufacturer": "Corsair",
@@ -5015,6 +5205,13 @@
             "price": 49999,
             "availability": "In Stock"
         },
+        "LN145971": {
+            "ln_number": "LN145971",
+            "manufacturer": "Crucial",
+            "description": "4TB Crucial T705 HS SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 14,100MBs Read, 12,600MBs Write, 1500K1800K IOPS",
+            "price": 53999,
+            "availability": "In Stock"
+        },
         "LN146944": {
             "ln_number": "LN146944",
             "manufacturer": "Sabrent",
@@ -5022,11 +5219,25 @@
             "price": 57998,
             "availability": "In Stock"
         },
+        "LN161535": {
+            "ln_number": "LN161535",
+            "manufacturer": "Samsung",
+            "description": "8TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
+            "price": 85949,
+            "availability": "In Stock"
+        },
         "LN161534": {
             "ln_number": "LN161534",
             "manufacturer": "Samsung",
             "description": "8TB Samsung 9100 PRO, M.2 2280, PCIe 5.0 (x4), NVMe 2.0, V-NAND TLC, 14800 MBs Read, 13400 MBs Write, 2200K2600K IOPs",
-            "price": 84998,
+            "price": 86999,
+            "availability": "In Stock"
+        },
+        "LN165650": {
+            "ln_number": "LN165650",
+            "manufacturer": "Kingston",
+            "description": "8TB Kingston Fury Renegade G5, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14800MBs Read, 14000MBs Write, 2200k  2200k IOPS",
+            "price": 88799,
             "availability": "In Stock"
         },
         "LN154942": {
@@ -5040,14 +5251,7 @@
             "ln_number": "LN154943",
             "manufacturer": "WD",
             "description": "1TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
-            "price": 6998,
-            "availability": "In Stock"
-        },
-        "LN154941": {
-            "ln_number": "LN154941",
-            "manufacturer": "WD",
-            "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
-            "price": 12998,
+            "price": 7649,
             "availability": "In Stock"
         },
         "LN152121": {
@@ -5055,6 +5259,13 @@
             "manufacturer": "Samsung",
             "description": "2TB Samsung 990 EVO Plus, M.2 (2280) PCIe 4.0, NVMe SSD, 3D V-NAND TLC, 7250MBs Read,6300MBs Write, 1000k1350k IOPS",
             "price": 13499,
+            "availability": "In Stock"
+        },
+        "LN154941": {
+            "ln_number": "LN154941",
+            "manufacturer": "WD",
+            "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
+            "price": 14498,
             "availability": "In Stock"
         },
         "LN151474": {
@@ -5068,7 +5279,7 @@
             "ln_number": "LN164636",
             "manufacturer": "Corsair",
             "description": "4TB Corsair MP700 MICRO, M.2 (2242) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
-            "price": 42049,
+            "price": 41999,
             "availability": "In Stock"
         }
     },
@@ -5126,7 +5337,7 @@
             "ln_number": "LN127000",
             "manufacturer": "WD",
             "description": "500GB WD Blue SA510, 2.5&quot; SSD, SATA III - 6Gbs, Read 560MBs, Write 510MBs, 90k82k IOPS",
-            "price": 4399,
+            "price": 4549,
             "availability": "In Stock"
         },
         "LN107314": {
@@ -5136,18 +5347,25 @@
             "price": 4998,
             "availability": "In Stock"
         },
-        "LN113696": {
-            "ln_number": "LN113696",
-            "manufacturer": "Samsung",
-            "description": "500GB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 512MB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
-            "price": 5899,
+        "LN133409": {
+            "ln_number": "LN133409",
+            "manufacturer": "Crucial",
+            "description": "500GB Crucial BX500, 2.5&quot; SSD, SATA 3.0 (6Gbs), Micron 3D NAND, 550MBs Read, 500MBs Write, Retail",
+            "price": 6199,
             "availability": "In Stock"
         },
         "LN105251": {
             "ln_number": "LN105251",
             "manufacturer": "WD",
             "description": "500GB WD Red SA500, 2.5&quot; NAS SSD, SATA III 6Gbs, 3D NAND, 560MBs Read, 530MBs, 95k85k IOPS",
-            "price": 6548,
+            "price": 6248,
+            "availability": "In Stock"
+        },
+        "LN113696": {
+            "ln_number": "LN113696",
+            "manufacturer": "Samsung",
+            "description": "500GB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 512MB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
+            "price": 6599,
             "availability": "In Stock"
         },
         "LN106297": {
@@ -5164,6 +5382,13 @@
             "price": 6998,
             "availability": "In Stock"
         },
+        "LN88214": {
+            "ln_number": "LN88214",
+            "manufacturer": "Kingston",
+            "description": "960GB Kingston A400, 2.5&quot; SSD, SATA III - 6Gbs, 2Ch, TLC, 500MBs Read, 450MBs Write, Retail",
+            "price": 7349,
+            "availability": "In Stock"
+        },
         "LN127001": {
             "ln_number": "LN127001",
             "manufacturer": "WD",
@@ -5175,14 +5400,14 @@
             "ln_number": "LN103468",
             "manufacturer": "Crucial",
             "description": "1TB Crucial BX500, 2.5&quot; SSD, 7mm, SATA III - 6Gbs, 3D NAND, Read 540MBs, Write 500MBs,",
-            "price": 9199,
+            "price": 8348,
             "availability": "In Stock"
         },
         "LN113697": {
             "ln_number": "LN113697",
             "manufacturer": "Samsung",
             "description": "1TB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 1GB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
-            "price": 9599,
+            "price": 9499,
             "availability": "In Stock"
         },
         "LN105250": {
@@ -5204,6 +5429,13 @@
             "manufacturer": "WD",
             "description": "2TB WD Blue SA510, 2.5&quot; SSD, SATA III - 6Gbs, Read 560MBs, Write 520MBs, 8783k IOPS",
             "price": 15599,
+            "availability": "In Stock"
+        },
+        "LN113688": {
+            "ln_number": "LN113688",
+            "manufacturer": "Samsung",
+            "description": "2TB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 2GB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
+            "price": 17999,
             "availability": "In Stock"
         },
         "LN145275": {
