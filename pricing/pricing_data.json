@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-07T11:19:17.936869",
+    "__fetched__": "2025-12-07T15:22:24.768597",
     "mobo-am5-enthusiast": {
         "LN154199": {
             "ln_number": "LN154199",
@@ -146,13 +146,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS ROG CROSSHAIR X870E HERO BTF, AMD X870E, AM5, DDR5, PCIe 5.0, 5x M.2, 5GWiFi7, USB 4.0, AMD EXPO, ATX",
             "price": 66998,
-            "availability": "In Stock"
-        },
-        "LN152086": {
-            "ln_number": "LN152086",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte X870E AORUS XTREME AI TOP, AMD X870E, S AM5, DDR5, PCIe 5.0, 4x M.2, 2x 10GbE, WiFi7, USB 4.0, AMD EXPO, EATX",
-            "price": 71498,
             "availability": "In Stock"
         },
         "LN158650": {
@@ -5155,13 +5148,6 @@
             "manufacturer": "Samsung",
             "description": "4TB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 4GB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
             "price": 34999,
-            "availability": "In Stock"
-        },
-        "LN157622": {
-            "ln_number": "LN157622",
-            "manufacturer": "WD",
-            "description": "4TB WD Red SA500, 2.5&quot; NAS SSD, SATA III 6Gbs, 3D NAND, 560MBs Read, 520MBs, 87k  83k IOPS",
-            "price": 35999,
             "availability": "In Stock"
         }
     }
