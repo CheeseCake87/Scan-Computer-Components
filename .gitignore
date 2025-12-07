@@ -2,3 +2,4 @@
 .venv/
 pricing/html/
 .env
+__pycache__/
