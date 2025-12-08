@@ -15,7 +15,7 @@ run = "*:python3 -m fetcher"
 daily = [
     "@sync",
     "*:python3 -m fetcher",
-    "git add pricing/pricing_data.json",
-    "git commit -m 'update pricing'",
-    "git push",
+    "*:git add pricing/pricing_data.json",
+    "*:git commit -m 'update pricing'",
+    "*:git push",
 ]
