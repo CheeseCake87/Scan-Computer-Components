@@ -12,3 +12,9 @@ dependencies = [
 
 [tool.pyqwe]
 run = "*:python3 -m fetcher"
+daily = [
+    "*:python3 -m fetcher",
+    "git add pricing/pricing_data.json",
+    "git commit -m 'update pricing'",
+    "git push",
+]
