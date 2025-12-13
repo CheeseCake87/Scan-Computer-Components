@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-13T23:00:27.075364",
+    "__fetched__": "2025-12-13T23:32:35.876364",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -3876,13 +3876,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS NVIDIA GeForce RTX 3050 DUAL OC 8G GDDR6 Ray-Tracing Graphics Card, 2560 Core",
             "price": 19999,
-            "availability": "In Stock"
-        },
-        "LN161269": {
-            "ln_number": "LN161269",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 3050 VENTUS 2X XS WHITE 8G OC 8GB GDDR6 Ray-Tracing Graphics Card, 2560 Core, 1807MHz",
-            "price": 20299,
             "availability": "In Stock"
         },
         "LN124879": {
