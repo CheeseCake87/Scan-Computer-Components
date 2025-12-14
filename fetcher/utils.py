@@ -1,7 +1,7 @@
 import logging
 from pathlib import Path
 
-import bs4
+from bs4 import BeautifulSoup
 import requests
 
 l = logging.getLogger('daily-runner')
@@ -30,7 +30,7 @@ def fetch_html(url: str, html_file: Path) -> str:
 
 
 def mix_soup(html: str):
-    s = bs4.BeautifulSoup(html, "html.parser")
+    s = BeautifulSoup(html, "html.parser")
     return s.find_all("li", class_="product")
 
 
