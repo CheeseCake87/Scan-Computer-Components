@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-13T23:32:35.876364",
+    "__fetched__": "2025-12-14T12:24:43.987495",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1789,13 +1789,6 @@
             "manufacturer": "Corsair",
             "description": "16GB (2x8GB) Corsair DDR4 Vengeance LPX Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16-20-20-38, XMP 2.0, 1.35V",
             "price": 8699,
-            "availability": "In Stock"
-        },
-        "LN113701": {
-            "ln_number": "LN113701",
-            "manufacturer": "Corsair",
-            "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO SL White, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
-            "price": 9499,
             "availability": "In Stock"
         },
         "LN66401": {
