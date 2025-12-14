@@ -1,7 +1,10 @@
+import logging
 from pathlib import Path
 
 import bs4
 import requests
+
+l = logging.getLogger('daily-runner')
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -11,7 +14,7 @@ HEADERS = {
 
 
 def fetch_html(url: str, html_file: Path) -> str:
-    print(f"Fetching HTML from {url}")
+    l.info(f"Fetching HTML from {url}")
 
     html_doc = requests.get(
         url,
