@@ -14,16 +14,16 @@ LOG_FILE = CMD / "daily.log"
 ENABLE_RUNNER = True
 
 rfh = RotatingFileHandler(filename=LOG_FILE, mode="a", maxBytes=1000000, backupCount=1)
-rfh.setLevel(logging.DEBUG)
+rfh.setLevel(logging.INFO)
 
 l = logging.getLogger('daily-runner')
-l.setLevel(logging.DEBUG)
+l.setLevel(logging.INFO)
 l.addHandler(rfh)
 
 def main():
     start_dtn = datetime.now()
 
-    l.info(f"Daily runner started : {start_dtn}")
+    l.debug(f"Daily runner started : {start_dtn}")
 
     fired = False
 
@@ -34,7 +34,7 @@ def main():
         int_time = int(time)
         time_range = range(930, 932)
 
-        l.info(f"Check, {time_range}, current({int_time}) : {while_dtn}")
+        l.debug(f"Check, {time_range}, current({int_time}) : {while_dtn}")
 
         if int_time in time_range:
             if not fired:
@@ -44,7 +44,7 @@ def main():
 
                     fired = True
 
-                    l.info(" -- Daily runner enabled.")
+                    l.info(" -- ")
 
                     process_urls()
 
@@ -66,7 +66,7 @@ def main():
                     if git_push.stderr:
                         l.error(f"{git_push.stderr}")
 
-                    l.info(" -- Daily runner finished.")
+                    l.info(" -- ")
 
                 else:
 
@@ -75,11 +75,11 @@ def main():
 
         else:
 
-            l.info(f"Daily runner not in range : {while_dtn}")
+            l.debug(f"Daily runner not in range : {while_dtn}")
 
             if fired:
 
-                l.info(" -- Fired flag reset.")
+                l.debug(" -- Fired flag reset.")
 
                 fired = False
 
