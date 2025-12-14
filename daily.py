@@ -11,7 +11,7 @@ from fetcher import process_urls
 CMD = Path.cwd()
 LOG_FILE = CMD / "daily.log"
 
-ENABLE_RUNNER = False
+ENABLE_RUNNER = True
 
 rfh = RotatingFileHandler(filename=LOG_FILE, mode="a", maxBytes=1000000, backupCount=1)
 rfh.setLevel(logging.DEBUG)
@@ -42,6 +42,8 @@ def main():
 
                 if ENABLE_RUNNER:
 
+                    fired = True
+
                     l.info(" -- Daily runner enabled.")
 
                     process_urls()
@@ -67,9 +69,10 @@ def main():
                     l.info(" -- Daily runner finished.")
 
                 else:
+
                     l.info(" -- Daily runner disabled.")
 
-                fired = True
+
         else:
 
             l.info(f"Daily runner not in range : {while_dtn}")
