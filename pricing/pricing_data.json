@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-24T09:30:21.282870",
+    "__fetched__": "2025-12-25T09:30:27.189915",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -78,25 +78,11 @@
             "price": 34999,
             "availability": "In Stock"
         },
-        "LN166203": {
-            "ln_number": "LN166203",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte X870E AORUS PRO X3D ICE, AMD X870E, S AM5, DDR5, PCIe 5.0, 4x M.2, 5 GbE LAN, WiFi7, USB 4.0, AMD EXPO, ATX",
-            "price": 35999,
-            "availability": "In Stock"
-        },
         "LN151933": {
             "ln_number": "LN151933",
             "manufacturer": "ASRock",
             "description": "ASRock X870E Taichi lite, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, USB 4.0, 5GWiFi 7, AMD EXPO, E-ATX",
             "price": 37499,
-            "availability": "In Stock"
-        },
-        "LN158252": {
-            "ln_number": "LN158252",
-            "manufacturer": "NZXT",
-            "description": "NZXT N9 X870E Motherboard, White, AMD X870E, AM5, DDR5, PCIe 5.0, 4 x M.2, 5GbE, Wi-Fi 7  BT 5.4, USB 4, ATX",
-            "price": 37999,
             "availability": "In Stock"
         },
         "LN152087": {
@@ -1582,7 +1568,7 @@
             "ln_number": "LN134120",
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 92149,
+            "price": 79998,
             "availability": "In Stock"
         },
         "LN134122": {
@@ -1803,6 +1789,20 @@
             "ln_number": "LN82180",
             "manufacturer": "Corsair",
             "description": "16GB (2x8GB) Corsair DDR4 Vengeance LPX Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, AMD Optimised, 1.35V",
+            "price": 9998,
+            "availability": "In Stock"
+        },
+        "LN113700": {
+            "ln_number": "LN113700",
+            "manufacturer": "Corsair",
+            "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO SL Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
+            "price": 9998,
+            "availability": "In Stock"
+        },
+        "LN113701": {
+            "ln_number": "LN113701",
+            "manufacturer": "Corsair",
+            "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO SL White, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
             "price": 9998,
             "availability": "In Stock"
         },
@@ -2813,25 +2813,18 @@
             "price": 205999,
             "availability": "In Stock"
         },
-        "LN155960": {
-            "ln_number": "LN155960",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5090 WINDFORCE OC 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2467 MHz Clock",
-            "price": 229999,
+        "LN155047": {
+            "ln_number": "LN155047",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5090 AMP Extreme INFINTY 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2467 MHz",
+            "price": 234998,
             "availability": "In Stock"
         },
         "LN155048": {
             "ln_number": "LN155048",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5090 SOLID OC 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2422 MHz Boost",
-            "price": 232998,
-            "availability": "In Stock"
-        },
-        "LN155047": {
-            "ln_number": "LN155047",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5090 AMP Extreme INFINTY 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Cores, 2467 MHz",
-            "price": 234998,
+            "price": 235998,
             "availability": "In Stock"
         },
         "LN155099": {
@@ -3132,7 +3125,7 @@
             "ln_number": "LN158612",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5070 Ti GAMING TRIO OC 16GB GDDR7 Graphics Card, DLSS 4, 8960 Core, 2572 MHz Boost",
-            "price": 86999,
+            "price": 88998,
             "availability": "In Stock"
         },
         "LN155961": {
@@ -3177,18 +3170,18 @@
             "price": 61999,
             "availability": "In Stock"
         },
+        "LN157664": {
+            "ln_number": "LN157664",
+            "manufacturer": "Palit",
+            "description": "PALIT NVIDIA GeForce RTX 5070 INFINITY 3 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2512 MHz Boost",
+            "price": 49499,
+            "availability": "In Stock"
+        },
         "LN156805": {
             "ln_number": "LN156805",
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5070 VENTUS 2X OC WHITE 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2542 MHz Boost",
             "price": 49998,
-            "availability": "In Stock"
-        },
-        "LN157664": {
-            "ln_number": "LN157664",
-            "manufacturer": "Palit",
-            "description": "PALIT NVIDIA GeForce RTX 5070 INFINITY 3 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2512 MHz Boost",
-            "price": 49999,
             "availability": "In Stock"
         },
         "LN157148": {
@@ -3289,6 +3282,13 @@
             "price": 59999,
             "availability": "In Stock"
         },
+        "LN155107": {
+            "ln_number": "LN155107",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5070 GAMING OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2625 MHz Boost",
+            "price": 59999,
+            "availability": "In Stock"
+        },
         "LN156802": {
             "ln_number": "LN156802",
             "manufacturer": "MSI",
@@ -3373,6 +3373,13 @@
             "price": 41399,
             "availability": "In Stock"
         },
+        "LN157875": {
+            "ln_number": "LN157875",
+            "manufacturer": "ASUS",
+            "description": "ASUS NVIDIA GeForce RTX 5060 Ti DUAL OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2632 MHz Boost",
+            "price": 41999,
+            "availability": "In Stock"
+        },
         "LN158376": {
             "ln_number": "LN158376",
             "manufacturer": "Zotac",
@@ -3399,13 +3406,6 @@
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5060 Ti EAGLE MAX OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2587 MHz",
             "price": 43199,
-            "availability": "In Stock"
-        },
-        "LN157875": {
-            "ln_number": "LN157875",
-            "manufacturer": "ASUS",
-            "description": "ASUS NVIDIA GeForce RTX 5060 Ti DUAL OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2632 MHz Boost",
-            "price": 43999,
             "availability": "In Stock"
         },
         "LN158542": {
@@ -3478,6 +3478,13 @@
             "price": 35999,
             "availability": "In Stock"
         },
+        "LN158079": {
+            "ln_number": "LN158079",
+            "manufacturer": "Palit",
+            "description": "Palit NVIDIA GeForce RTX 5060 Ti DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2632 MHz Boost",
+            "price": 33499,
+            "availability": "In Stock"
+        },
         "LN159148": {
             "ln_number": "LN159148",
             "manufacturer": "Gigabyte",
@@ -3511,13 +3518,6 @@
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti Twin Edge OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2602 MHz Boost",
             "price": 34999,
-            "availability": "In Stock"
-        },
-        "LN158079": {
-            "ln_number": "LN158079",
-            "manufacturer": "Palit",
-            "description": "Palit NVIDIA GeForce RTX 5060 Ti DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2632 MHz Boost",
-            "price": 35899,
             "availability": "In Stock"
         },
         "LN159146": {
@@ -4021,13 +4021,6 @@
             "price": 72998,
             "availability": "In Stock"
         },
-        "LN154548": {
-            "ln_number": "LN154548",
-            "manufacturer": "PowerColor",
-            "description": "PowerColor Radeon RX 9070 REAPER 16GB GDDR6 Graphics Card, RDNA4, 3584 Streams, 2520 MHz Boost",
-            "price": 51998,
-            "availability": "In Stock"
-        },
         "LN159564": {
             "ln_number": "LN159564",
             "manufacturer": "XFX",
@@ -4342,18 +4335,18 @@
             "price": 9998,
             "availability": "In Stock"
         },
-        "LN162890": {
-            "ln_number": "LN162890",
-            "manufacturer": "WD",
-            "description": "1TB WD Blue SN5100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6700MBs Write, 1000k1300k IOPS",
-            "price": 9998,
-            "availability": "In Stock"
-        },
         "LN151604": {
             "ln_number": "LN151604",
             "manufacturer": "Crucial",
             "description": "1TB Crucial P310, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
             "price": 10799,
+            "availability": "In Stock"
+        },
+        "LN162890": {
+            "ln_number": "LN162890",
+            "manufacturer": "WD",
+            "description": "1TB WD Blue SN5100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6700MBs Write, 1000k1300k IOPS",
+            "price": 10999,
             "availability": "In Stock"
         },
         "LN156439": {
@@ -4409,7 +4402,7 @@
             "ln_number": "LN130046",
             "manufacturer": "Samsung",
             "description": "1TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC 3D V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
-            "price": 14899,
+            "price": 15398,
             "availability": "In Stock"
         },
         "LN166151": {
@@ -4419,17 +4412,17 @@
             "price": 15599,
             "availability": "In Stock"
         },
-        "LN154936": {
-            "ln_number": "LN154936",
-            "manufacturer": "Crucial",
-            "description": "2TB Crucial E100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 4500MBs Write",
-            "price": 16998,
-            "availability": "In Stock"
-        },
         "LN149564": {
             "ln_number": "LN149564",
             "manufacturer": "WD",
             "description": "2TB WD Blue SN5000 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5150MBs Read, 4850MBs Write, 650k770k IOPS",
+            "price": 15998,
+            "availability": "In Stock"
+        },
+        "LN154936": {
+            "ln_number": "LN154936",
+            "manufacturer": "Crucial",
+            "description": "2TB Crucial E100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 5000MBs Read, 4500MBs Write",
             "price": 16998,
             "availability": "In Stock"
         },
@@ -4444,7 +4437,7 @@
             "ln_number": "LN162893",
             "manufacturer": "WD",
             "description": "2TB WD Blue SN5100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6700MBs Write, 1000k1300k IOPS",
-            "price": 17498,
+            "price": 18599,
             "availability": "In Stock"
         },
         "LN151059": {
@@ -4454,13 +4447,6 @@
             "price": 18998,
             "availability": "In Stock"
         },
-        "LN128195": {
-            "ln_number": "LN128195",
-            "manufacturer": "WD",
-            "description": "2TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
-            "price": 19998,
-            "availability": "In Stock"
-        },
         "LN154941": {
             "ln_number": "LN154941",
             "manufacturer": "WD",
@@ -4468,11 +4454,11 @@
             "price": 19999,
             "availability": "In Stock"
         },
-        "LN130047": {
-            "ln_number": "LN130047",
-            "manufacturer": "Samsung",
-            "description": "2TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC 3D V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
-            "price": 22999,
+        "LN128195": {
+            "ln_number": "LN128195",
+            "manufacturer": "WD",
+            "description": "2TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
+            "price": 21998,
             "availability": "In Stock"
         },
         "LN149510": {
@@ -4480,6 +4466,13 @@
             "manufacturer": "Crucial",
             "description": "2TB Crucial P310, M.2 (2230) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
             "price": 24599,
+            "availability": "In Stock"
+        },
+        "LN130047": {
+            "ln_number": "LN130047",
+            "manufacturer": "Samsung",
+            "description": "2TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC 3D V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
+            "price": 25999,
             "availability": "In Stock"
         },
         "LN152122": {
@@ -4517,13 +4510,6 @@
             "price": 34998,
             "availability": "In Stock"
         },
-        "LN128194": {
-            "ln_number": "LN128194",
-            "manufacturer": "WD",
-            "description": "4TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
-            "price": 35999,
-            "availability": "In Stock"
-        },
         "LN141091": {
             "ln_number": "LN141091",
             "manufacturer": "Samsung",
@@ -4535,6 +4521,13 @@
             "ln_number": "LN162886",
             "manufacturer": "WD",
             "description": "4TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6700MBs Write, 900k1350k IOPS",
+            "price": 37999,
+            "availability": "In Stock"
+        },
+        "LN128194": {
+            "ln_number": "LN128194",
+            "manufacturer": "WD",
+            "description": "4TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
             "price": 37999,
             "availability": "In Stock"
         },
@@ -4573,13 +4566,6 @@
             "price": 39998,
             "availability": "In Stock"
         },
-        "LN145272": {
-            "ln_number": "LN145272",
-            "manufacturer": "Kingston",
-            "description": "4TB Kingston KC3000 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D TLC, 7000MBs Read, 7000MBs Write",
-            "price": 61999,
-            "availability": "In Stock"
-        },
         "LN152232": {
             "ln_number": "LN152232",
             "manufacturer": "Lexar",
@@ -4598,7 +4584,7 @@
             "ln_number": "LN150211",
             "manufacturer": "WD",
             "description": "8TB WD Black SN850X Heatsink, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1200K IOPS",
-            "price": 89999,
+            "price": 99998,
             "availability": "In Stock"
         }
     },
@@ -4656,7 +4642,7 @@
             "ln_number": "LN159493",
             "manufacturer": "WD",
             "description": "1TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 11,000MBs Write, 1.6M  2.4M IOPS",
-            "price": 16994,
+            "price": 16999,
             "availability": "In Stock"
         },
         "LN166346": {
@@ -4673,13 +4659,6 @@
             "price": 17899,
             "availability": "In Stock"
         },
-        "LN157412": {
-            "ln_number": "LN157412",
-            "manufacturer": "Samsung",
-            "description": "1TB Samsung 9100 PRO, M.2 2280, PCIe 5.0 (x4), NVMe SSD, V-NAND TLC, 14700 MBs Read, 13300 MBs Write, 1850K2600K IOPS",
-            "price": 17999,
-            "availability": "In Stock"
-        },
         "LN157770": {
             "ln_number": "LN157770",
             "manufacturer": "Kioxia",
@@ -4692,6 +4671,13 @@
             "manufacturer": "Crucial",
             "description": "1TB Crucial T705 SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 13,600MBs Read, 10,200MBs Write, 1400K1750K IOPS",
             "price": 18199,
+            "availability": "In Stock"
+        },
+        "LN157412": {
+            "ln_number": "LN157412",
+            "manufacturer": "Samsung",
+            "description": "1TB Samsung 9100 PRO, M.2 2280, PCIe 5.0 (x4), NVMe SSD, V-NAND TLC, 14700 MBs Read, 13300 MBs Write, 1850K2600K IOPS",
+            "price": 19399,
             "availability": "In Stock"
         },
         "LN153036": {
@@ -4771,6 +4757,13 @@
             "price": 34999,
             "availability": "In Stock"
         },
+        "LN157535": {
+            "ln_number": "LN157535",
+            "manufacturer": "Samsung",
+            "description": "4TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
+            "price": 43199,
+            "availability": "In Stock"
+        },
         "LN164636": {
             "ln_number": "LN164636",
             "manufacturer": "Corsair",
@@ -4778,24 +4771,17 @@
             "price": 43849,
             "availability": "In Stock"
         },
-        "LN157535": {
-            "ln_number": "LN157535",
-            "manufacturer": "Samsung",
-            "description": "4TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
-            "price": 43999,
+        "LN164360": {
+            "ln_number": "LN164360",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
+            "price": 46999,
             "availability": "In Stock"
         },
         "LN159495": {
             "ln_number": "LN159495",
             "manufacturer": "WD",
             "description": "4TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
-            "price": 45998,
-            "availability": "In Stock"
-        },
-        "LN164360": {
-            "ln_number": "LN164360",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
             "price": 46999,
             "availability": "In Stock"
         },
@@ -4883,18 +4869,18 @@
             "price": 58999,
             "availability": "In Stock"
         },
-        "LN161535": {
-            "ln_number": "LN161535",
-            "manufacturer": "Samsung",
-            "description": "8TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
-            "price": 85949,
-            "availability": "In Stock"
-        },
         "LN161534": {
             "ln_number": "LN161534",
             "manufacturer": "Samsung",
             "description": "8TB Samsung 9100 PRO, M.2 2280, PCIe 5.0 (x4), NVMe 2.0, V-NAND TLC, 14800 MBs Read, 13400 MBs Write, 2200K2600K IOPs",
             "price": 87998,
+            "availability": "In Stock"
+        },
+        "LN161535": {
+            "ln_number": "LN161535",
+            "manufacturer": "Samsung",
+            "description": "8TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
+            "price": 89999,
             "availability": "In Stock"
         },
         "LN165650": {
@@ -4990,13 +4976,6 @@
             "price": 6799,
             "availability": "In Stock"
         },
-        "LN106297": {
-            "ln_number": "LN106297",
-            "manufacturer": "Micron",
-            "description": "512GB Micron 1300, 2.5&quot; SSD, SATA 3.0 (6Gbs), Micron TLC3 D NAND, 530MBs Read, 520MBs Write, Retail",
-            "price": 7598,
-            "availability": "In Stock"
-        },
         "LN103468": {
             "ln_number": "LN103468",
             "manufacturer": "Crucial",
@@ -5036,7 +5015,7 @@
             "ln_number": "LN145126",
             "manufacturer": "WD",
             "description": "2TB WD Blue SA510, 2.5&quot; SSD, SATA III - 6Gbs, Read 560MBs, Write 520MBs, 8783k IOPS",
-            "price": 20798,
+            "price": 19999,
             "availability": "In Stock"
         },
         "LN113688": {
@@ -5044,13 +5023,6 @@
             "manufacturer": "Samsung",
             "description": "2TB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 2GB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
             "price": 25999,
-            "availability": "In Stock"
-        },
-        "LN145275": {
-            "ln_number": "LN145275",
-            "manufacturer": "WD",
-            "description": "4TB WD Blue SA510, 2.5&quot; SSD, SATA III - 6Gbs, Read 560MBs, Write 520MBs, 8783k IOPS",
-            "price": 29999,
             "availability": "In Stock"
         },
         "LN148302": {
@@ -5065,6 +5037,13 @@
             "manufacturer": "Samsung",
             "description": "4TB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 4GB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
             "price": 39998,
+            "availability": "In Stock"
+        },
+        "LN145275": {
+            "ln_number": "LN145275",
+            "manufacturer": "WD",
+            "description": "4TB WD Blue SA510, 2.5&quot; SSD, SATA III - 6Gbs, Read 560MBs, Write 520MBs, 8783k IOPS",
+            "price": 43999,
             "availability": "In Stock"
         }
     }
