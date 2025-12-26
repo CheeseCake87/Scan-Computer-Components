@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-25T09:30:27.189915",
+    "__fetched__": "2025-12-26T09:30:34.139740",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1840,7 +1840,7 @@
             "ln_number": "LN154143",
             "manufacturer": "Corsair",
             "description": "750W Corsair RMe Series RM750e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 62.5A, 120mm Fan, ATX 3.1 PSU",
-            "price": 11498,
+            "price": 8999,
             "availability": "In Stock"
         },
         "LN157312": {
@@ -2305,11 +2305,32 @@
             "price": 3499,
             "availability": "In Stock"
         },
+        "LN148535": {
+            "ln_number": "LN148535",
+            "manufacturer": "Corsair",
+            "description": "850W Corsair RMx Series RM850x, Black, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 140mm Fan, ATX 3.1 PSU",
+            "price": 10999,
+            "availability": "In Stock"
+        },
+        "LN148531": {
+            "ln_number": "LN148531",
+            "manufacturer": "Corsair",
+            "description": "750W Corsair SF750, PCIe 5.1, Fully Modular, 80PLUS Platinum, Single Rail, 62.5A, 92mm Fluid Bearing Fan, SFX PSU",
+            "price": 11498,
+            "availability": "In Stock"
+        },
         "LN163890": {
             "ln_number": "LN163890",
             "manufacturer": "NZXT",
             "description": "850W NZXT C850 Gold Core PSU, Black, Fully Modular, 80PLUS Gold, Single Rail, 70.8A, 135mm FDB Fan, ATX 3.1",
             "price": 11498,
+            "availability": "In Stock"
+        },
+        "LN154145": {
+            "ln_number": "LN154145",
+            "manufacturer": "Corsair",
+            "description": "1000W Corsair RMe Series RM1000e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 83.3A, 120mm Fan, ATX 3.1 PSU",
+            "price": 11999,
             "availability": "In Stock"
         },
         "LN154144": {
@@ -2326,32 +2347,11 @@
             "price": 12998,
             "availability": "In Stock"
         },
-        "LN148531": {
-            "ln_number": "LN148531",
-            "manufacturer": "Corsair",
-            "description": "750W Corsair SF750, PCIe 5.1, Fully Modular, 80PLUS Platinum, Single Rail, 62.5A, 92mm Fluid Bearing Fan, SFX PSU",
-            "price": 14498,
-            "availability": "In Stock"
-        },
         "LN145704": {
             "ln_number": "LN145704",
             "manufacturer": "Corsair",
             "description": "850W Corsair RM850x SHIFT, White, PCIe 5.0 Fully Modular, 80PLUS Gold, Single Rail, 70.8A, 140mm Fan, ATX 3.0",
             "price": 14798,
-            "availability": "In Stock"
-        },
-        "LN148535": {
-            "ln_number": "LN148535",
-            "manufacturer": "Corsair",
-            "description": "850W Corsair RMx Series RM850x, Black, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 140mm Fan, ATX 3.1 PSU",
-            "price": 14798,
-            "availability": "In Stock"
-        },
-        "LN154145": {
-            "ln_number": "LN154145",
-            "manufacturer": "Corsair",
-            "description": "1000W Corsair RMe Series RM1000e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 83.3A, 120mm Fan, ATX 3.1 PSU",
-            "price": 15998,
             "availability": "In Stock"
         },
         "LN148536": {
@@ -2377,11 +2377,11 @@
             "price": 8399,
             "availability": "In Stock"
         },
-        "LN152050": {
-            "ln_number": "LN152050",
-            "manufacturer": "Seasonic",
-            "description": "850W Seasonic FOCUS GX, Fully Modular, ATX 3.1, PCIe 5.1, 80 PLUS Gold, EPS, Single Rail, 70A, 135mm Fan, PSU, Black",
-            "price": 11999,
+        "LN148535": {
+            "ln_number": "LN148535",
+            "manufacturer": "Corsair",
+            "description": "850W Corsair RMx Series RM850x, Black, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 140mm Fan, ATX 3.1 PSU",
+            "price": 10999,
             "availability": "In Stock"
         },
         "LN154144": {
@@ -2402,13 +2402,6 @@
             "ln_number": "LN145704",
             "manufacturer": "Corsair",
             "description": "850W Corsair RM850x SHIFT, White, PCIe 5.0 Fully Modular, 80PLUS Gold, Single Rail, 70.8A, 140mm Fan, ATX 3.0",
-            "price": 14798,
-            "availability": "In Stock"
-        },
-        "LN148535": {
-            "ln_number": "LN148535",
-            "manufacturer": "Corsair",
-            "description": "850W Corsair RMx Series RM850x, Black, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 140mm Fan, ATX 3.1 PSU",
             "price": 14798,
             "availability": "In Stock"
         },
@@ -2727,6 +2720,13 @@
             "price": 3499,
             "availability": "In Stock"
         },
+        "LN154143": {
+            "ln_number": "LN154143",
+            "manufacturer": "Corsair",
+            "description": "750W Corsair RMe Series RM750e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 62.5A, 120mm Fan, ATX 3.1 PSU",
+            "price": 8999,
+            "availability": "In Stock"
+        },
         "LN165061": {
             "ln_number": "LN165061",
             "manufacturer": "ThermalTake",
@@ -2734,11 +2734,11 @@
             "price": 9998,
             "availability": "In Stock"
         },
-        "LN154143": {
-            "ln_number": "LN154143",
+        "LN154145": {
+            "ln_number": "LN154145",
             "manufacturer": "Corsair",
-            "description": "750W Corsair RMe Series RM750e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 62.5A, 120mm Fan, ATX 3.1 PSU",
-            "price": 11498,
+            "description": "1000W Corsair RMe Series RM1000e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 83.3A, 120mm Fan, ATX 3.1 PSU",
+            "price": 11999,
             "availability": "In Stock"
         },
         "LN162290": {
@@ -2755,6 +2755,13 @@
             "price": 12599,
             "availability": "In Stock"
         },
+        "LN148532": {
+            "ln_number": "LN148532",
+            "manufacturer": "Corsair",
+            "description": "850W Corsair SF850, PCIe 5.1, Fully Modular, 80 PLUS Platinum, Single Rail, 62.5A, 92mm Fluid Bearing Fan, SFX PSU",
+            "price": 12998,
+            "availability": "In Stock"
+        },
         "LN131675": {
             "ln_number": "LN131675",
             "manufacturer": "Corsair",
@@ -2767,20 +2774,6 @@
             "manufacturer": "Corsair",
             "description": "750W Corsair RMx Series RM750x, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 62.5A, 140mm Fan, ATX 3.1 PSU",
             "price": 13499,
-            "availability": "In Stock"
-        },
-        "LN154145": {
-            "ln_number": "LN154145",
-            "manufacturer": "Corsair",
-            "description": "1000W Corsair RMe Series RM1000e, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 83.3A, 120mm Fan, ATX 3.1 PSU",
-            "price": 15998,
-            "availability": "In Stock"
-        },
-        "LN148532": {
-            "ln_number": "LN148532",
-            "manufacturer": "Corsair",
-            "description": "850W Corsair SF850, PCIe 5.1, Fully Modular, 80 PLUS Platinum, Single Rail, 62.5A, 92mm Fluid Bearing Fan, SFX PSU",
-            "price": 17498,
             "availability": "In Stock"
         },
         "LN148536": {
@@ -2881,13 +2874,6 @@
             "manufacturer": "Gigabyte",
             "description": "Gigabyte AORUS RTX 5090 AI Gaming Box, Thunderbolt 5, WaterForce AIO Cooling, 240mm Radiator, 2x 120mm Fans, FEP Tubes",
             "price": 299999,
-            "availability": "In Stock"
-        },
-        "LN155005": {
-            "ln_number": "LN155005",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5080 VENTUS 3X OC PLUS 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2640 MHz Boost",
-            "price": 105998,
             "availability": "In Stock"
         },
         "LN154374": {
