@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-27T09:30:39.912353",
+    "__fetched__": "2025-12-28T09:30:45.525854",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -434,13 +434,6 @@
             "ln_number": "LN154814",
             "manufacturer": "Gigabyte",
             "description": "Gigabyte B850 AORUS ELITE Wi-Fi 7 ICE, AMD B850, S AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GbE, WiFi7, USB 10Gbps, AMD EXPO, ATX",
-            "price": 18998,
-            "availability": "In Stock"
-        },
-        "LN154813": {
-            "ln_number": "LN154813",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte B850 AORUS ELITE Wi-Fi 7, AMD B850, S AM5, DDR5, PCIe 5.0, 3 x M.2, 2.5GbE, WiFi7, USB 10Gbps, AMD EXPO, ATX",
             "price": 18998,
             "availability": "In Stock"
         },
@@ -1002,7 +995,7 @@
             "ln_number": "LN149412",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 9700X, AM5, Zen 5, 8 Core, 16 Thread, 3.8GHz, 5.5GHz Turbo, 32MB Cache, PCIe 5.0, 65W, CPU",
-            "price": 26999,
+            "price": 29899,
             "availability": "In Stock"
         }
     },
@@ -1771,13 +1764,6 @@
             "price": 9599,
             "availability": "In Stock"
         },
-        "LN82180": {
-            "ln_number": "LN82180",
-            "manufacturer": "Corsair",
-            "description": "16GB (2x8GB) Corsair DDR4 Vengeance LPX Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, AMD Optimised, 1.35V",
-            "price": 9998,
-            "availability": "In Stock"
-        },
         "LN113700": {
             "ln_number": "LN113700",
             "manufacturer": "Corsair",
@@ -1850,13 +1836,6 @@
             "price": 13499,
             "availability": "In Stock"
         },
-        "LN151757": {
-            "ln_number": "LN151757",
-            "manufacturer": "CiT",
-            "description": "700W CiT Builder, Fully Wired, Single Rail, 48A +12V, 120mm Fan, Black, ATX PSU",
-            "price": 1999,
-            "availability": "In Stock"
-        },
         "LN151726": {
             "ln_number": "LN151726",
             "manufacturer": "CiT",
@@ -1906,11 +1885,11 @@
             "price": 4499,
             "availability": "In Stock"
         },
-        "LN151782": {
-            "ln_number": "LN151782",
-            "manufacturer": "GameMax",
-            "description": "750W GameMax GP-750 Power Supply, Fully Wired, Single Rail, 54A +12V, 7 x SATA, 140mm Fan, White, ATX PSU",
-            "price": 4499,
+        "LN118769": {
+            "ln_number": "LN118769",
+            "manufacturer": "EVGA",
+            "description": "750W EVGA 750 B5, 80PLUS Bronze, Fully Modular, EVGA ECO Mode, Single Rail, 62.5A + 12V, ATX PSU",
+            "price": 4998,
             "availability": "In Stock"
         },
         "LN163113": {
@@ -1927,10 +1906,10 @@
             "price": 4999,
             "availability": "In Stock"
         },
-        "LN162987": {
-            "ln_number": "LN162987",
+        "LN162986": {
+            "ln_number": "LN162986",
             "manufacturer": "CiT",
-            "description": "750W CiT FX Pro, White, 80PLUS Bronze, Fully Wired, Single Rail, 62.5A +12V, 140mm Fan, ATX 3.1 PSU",
+            "description": "750W CiT FX Pro, Black, PCIe 5.1 80PLUS Bronze, Fully Wired, Single Rail, 62.5A +12V, 140mm Fan, ATX3.1 PSU",
             "price": 4999,
             "availability": "In Stock"
         },
@@ -2158,6 +2137,13 @@
             "price": 9998,
             "availability": "In Stock"
         },
+        "LN159084": {
+            "ln_number": "LN159084",
+            "manufacturer": "Seasonic",
+            "description": "750W Seasonic CORE GX White ATX3.1, 80PLUS Gold, Single Rail, Fully Modular, 62A, 120mm HD Bearing Fan, ATX3.1 PSU",
+            "price": 9998,
+            "availability": "In Stock"
+        },
         "LN149827": {
             "ln_number": "LN149827",
             "manufacturer": "ThermalTake",
@@ -2288,7 +2274,7 @@
             "ln_number": "LN145050",
             "manufacturer": "ThermalTake",
             "description": "Thermaltake Dr. Power III Power Supply Tester, LCD Display, PCIe 12+4pin Detection, Flexible Testing Modes",
-            "price": 3499,
+            "price": 2999,
             "availability": "In Stock"
         },
         "LN148535": {
@@ -2689,7 +2675,7 @@
             "ln_number": "LN145050",
             "manufacturer": "ThermalTake",
             "description": "Thermaltake Dr. Power III Power Supply Tester, LCD Display, PCIe 12+4pin Detection, Flexible Testing Modes",
-            "price": 3499,
+            "price": 2999,
             "availability": "In Stock"
         },
         "LN154143": {
@@ -3681,13 +3667,6 @@
             "price": 35999,
             "availability": "In Stock"
         },
-        "LN161265": {
-            "ln_number": "LN161265",
-            "manufacturer": "ASUS",
-            "description": "ASUS DUAL NVIDIA GeForce RTX 5050 8GB OC GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Core, 2677 MHz Boost",
-            "price": 22999,
-            "availability": "In Stock"
-        },
         "LN165705": {
             "ln_number": "LN165705",
             "manufacturer": "MSI",
@@ -3825,13 +3804,6 @@
             "price": 57998,
             "availability": "In Stock"
         },
-        "LN156798": {
-            "ln_number": "LN156798",
-            "manufacturer": "XFX",
-            "description": "XFX Radeon RX 9070 XT Swift Triple Fan Gaming 16GB GDDR6 Graphics Card, White, RDNA 4, 4096 Streams, 2970MHz Boost",
-            "price": 58998,
-            "availability": "In Stock"
-        },
         "LN157359": {
             "ln_number": "LN157359",
             "manufacturer": "ASRock",
@@ -3850,13 +3822,6 @@
             "ln_number": "LN155112",
             "manufacturer": "Gigabyte",
             "description": "Gigabyte Radeon RX 9070 XT GAMING OC 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, TBC MHz Boost",
-            "price": 59999,
-            "availability": "In Stock"
-        },
-        "LN156793": {
-            "ln_number": "LN156793",
-            "manufacturer": "XFX",
-            "description": "XFX Quicksilver Radeon RX 9070 XT Magnetic Air 16GB GDDR6 Graphics Card, Black, RDNA 4, 4096 Streams, 2970MHz Boost",
             "price": 59999,
             "availability": "In Stock"
         },
@@ -3879,6 +3844,20 @@
             "manufacturer": "XFX",
             "description": "XFX Quicksilver Radeon RX 9070 XT Gaming 16GB GDDR6 Graphics Card, Black, RDNA 4, 4096 Streams, 2970MHz Boost",
             "price": 62999,
+            "availability": "In Stock"
+        },
+        "LN156793": {
+            "ln_number": "LN156793",
+            "manufacturer": "XFX",
+            "description": "XFX Quicksilver Radeon RX 9070 XT Magnetic Air 16GB GDDR6 Graphics Card, Black, RDNA 4, 4096 Streams, 2970MHz Boost",
+            "price": 62999,
+            "availability": "In Stock"
+        },
+        "LN156798": {
+            "ln_number": "LN156798",
+            "manufacturer": "XFX",
+            "description": "XFX Radeon RX 9070 XT Swift Triple Fan Gaming 16GB GDDR6 Graphics Card, White, RDNA 4, 4096 Streams, 2970MHz Boost",
+            "price": 63599,
             "availability": "In Stock"
         },
         "LN154544": {
@@ -3958,25 +3937,11 @@
             "price": 72998,
             "availability": "In Stock"
         },
-        "LN159564": {
-            "ln_number": "LN159564",
-            "manufacturer": "XFX",
-            "description": "XFX Swift Radeon RX 9070 Triple 90mm Fan Gaming 16GB GDDR6 Graphics Card, Black, RDNA 4, 3584 Streams, 2700MHz Boost",
-            "price": 51998,
-            "availability": "In Stock"
-        },
         "LN159563": {
             "ln_number": "LN159563",
             "manufacturer": "XFX",
             "description": "XFX Swift Radeon RX 9070 Triple 90mm Fan Gaming 16GB GDDR6 Graphics Card, White, RDNA 4, 3584 Streams, 2700MHz Boost",
             "price": 51998,
-            "availability": "In Stock"
-        },
-        "LN156799": {
-            "ln_number": "LN156799",
-            "manufacturer": "XFX",
-            "description": "XFX Quicksilver Radeon RX 9070 OC Gaming 16GB GDDR6 Graphics Card, RDNA 4, 3584 Streams, 2700MHz Boost",
-            "price": 52799,
             "availability": "In Stock"
         },
         "LN155114": {
@@ -3991,6 +3956,13 @@
             "manufacturer": "PowerColor",
             "description": "PowerColor Radeon RX 9070 HELLHOUND 16GB GDDR6 Graphics Card, RDNA4, 3584 Streams, 2590 MHz Boost",
             "price": 54799,
+            "availability": "In Stock"
+        },
+        "LN159564": {
+            "ln_number": "LN159564",
+            "manufacturer": "XFX",
+            "description": "XFX Swift Radeon RX 9070 Triple 90mm Fan Gaming 16GB GDDR6 Graphics Card, Black, RDNA 4, 3584 Streams, 2700MHz Boost",
+            "price": 54998,
             "availability": "In Stock"
         },
         "LN163809": {
@@ -4033,6 +4005,13 @@
             "manufacturer": "Sapphire",
             "description": "Sapphire Radeon RX 9070 NITRO+ 16GB GDDR6 Graphics Card, RDNA4, 3584 Streams, 2700MHz Boost",
             "price": 57899,
+            "availability": "In Stock"
+        },
+        "LN156799": {
+            "ln_number": "LN156799",
+            "manufacturer": "XFX",
+            "description": "XFX Quicksilver Radeon RX 9070 OC Gaming 16GB GDDR6 Graphics Card, RDNA 4, 3584 Streams, 2700MHz Boost",
+            "price": 58999,
             "availability": "In Stock"
         },
         "LN154749": {
@@ -4149,13 +4128,6 @@
         }
     },
     "gpu-amd-rx-7xxx": {
-        "LN134916": {
-            "ln_number": "LN134916",
-            "manufacturer": "XFX",
-            "description": "XFX Radeon RX 7900 XTX Speedster MERC 310 Black 24GB GDDR6 Ray-Tracing Graphics Card, RDNA3, 6144 Streams, 2615MHz Boost",
-            "price": 77999,
-            "availability": "In Stock"
-        },
         "LN135091": {
             "ln_number": "LN135091",
             "manufacturer": "PowerColor",
@@ -4163,18 +4135,25 @@
             "price": 78998,
             "availability": "In Stock"
         },
+        "LN134916": {
+            "ln_number": "LN134916",
+            "manufacturer": "XFX",
+            "description": "XFX Radeon RX 7900 XTX Speedster MERC 310 Black 24GB GDDR6 Ray-Tracing Graphics Card, RDNA3, 6144 Streams, 2615MHz Boost",
+            "price": 91999,
+            "availability": "In Stock"
+        },
         "LN134915": {
             "ln_number": "LN134915",
             "manufacturer": "XFX",
             "description": "XFX Radeon RX 7900 XT Speedster MERC 310 20GB GDDR6 Ray-Tracing Graphics Card, RDNA3, 5376 Streams, 2535MHz Boost",
-            "price": 59999,
+            "price": 65999,
             "availability": "In Stock"
         },
         "LN131035": {
             "ln_number": "LN131035",
             "manufacturer": "PowerColor",
             "description": "PowerColor Radeon RX 7900 XT Red Devil OC 20GB GDDR6 Ray-Tracing Graphics Card, RDNA3, 5376 Streams",
-            "price": 76699,
+            "price": 92399,
             "availability": "In Stock"
         },
         "LN153077": {
@@ -4530,7 +4509,7 @@
             "ln_number": "LN164635",
             "manufacturer": "Corsair",
             "description": "2TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14500MBs Write, 2700k  3300k IOPS",
-            "price": 24098,
+            "price": 23399,
             "availability": "In Stock"
         },
         "LN157771": {
@@ -4568,6 +4547,13 @@
             "price": 15998,
             "availability": "In Stock"
         },
+        "LN145966": {
+            "ln_number": "LN145966",
+            "manufacturer": "Crucial",
+            "description": "1TB Crucial T705 SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 13,600MBs Read, 10,200MBs Write, 1400K1750K IOPS",
+            "price": 16999,
+            "availability": "In Stock"
+        },
         "LN159493": {
             "ln_number": "LN159493",
             "manufacturer": "WD",
@@ -4596,13 +4582,6 @@
             "price": 17999,
             "availability": "In Stock"
         },
-        "LN145966": {
-            "ln_number": "LN145966",
-            "manufacturer": "Crucial",
-            "description": "1TB Crucial T705 SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 13,600MBs Read, 10,200MBs Write, 1400K1750K IOPS",
-            "price": 18199,
-            "availability": "In Stock"
-        },
         "LN157412": {
             "ln_number": "LN157412",
             "manufacturer": "Samsung",
@@ -4621,7 +4600,7 @@
             "ln_number": "LN160441",
             "manufacturer": "Crucial",
             "description": "1TB Crucial T710 SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 14,900MBs Read, 13,700MBs Write, 1800K2200K IOPS",
-            "price": 20599,
+            "price": 19999,
             "availability": "In Stock"
         },
         "LN157769": {
@@ -4764,11 +4743,25 @@
             "price": 51499,
             "availability": "In Stock"
         },
+        "LN145971": {
+            "ln_number": "LN145971",
+            "manufacturer": "Crucial",
+            "description": "4TB Crucial T705 HS SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 14,100MBs Read, 12,600MBs Write, 1500K1800K IOPS",
+            "price": 51998,
+            "availability": "In Stock"
+        },
         "LN146000": {
             "ln_number": "LN146000",
             "manufacturer": "Corsair",
             "description": "4TB Corsair MP700 PRO Hydro X Series, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 12400MBs Read,11800MBs Write,1700k1600k IOPS",
             "price": 52598,
+            "availability": "In Stock"
+        },
+        "LN160443": {
+            "ln_number": "LN160443",
+            "manufacturer": "Crucial",
+            "description": "4TB Crucial T710 SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 14,500MBs Read, 13,800MBs Write, 2200K2300K IOPS",
+            "price": 53999,
             "availability": "In Stock"
         },
         "LN166348": {
@@ -4778,25 +4771,11 @@
             "price": 53999,
             "availability": "In Stock"
         },
-        "LN145971": {
-            "ln_number": "LN145971",
-            "manufacturer": "Crucial",
-            "description": "4TB Crucial T705 HS SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 14,100MBs Read, 12,600MBs Write, 1500K1800K IOPS",
-            "price": 55999,
-            "availability": "In Stock"
-        },
         "LN146944": {
             "ln_number": "LN146944",
             "manufacturer": "Sabrent",
             "description": "4TB Sabrent Rocket 5, M.2 (2280) PCIe 5.0 (x4), NVMe SSD, 14,000MBs Read, 12,000MBs Write, 1400k1400k IOPS",
             "price": 57998,
-            "availability": "In Stock"
-        },
-        "LN160443": {
-            "ln_number": "LN160443",
-            "manufacturer": "Crucial",
-            "description": "4TB Crucial T710 SSD, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 3D TLC, 14,500MBs Read, 13,800MBs Write, 2200K2300K IOPS",
-            "price": 58999,
             "availability": "In Stock"
         },
         "LN161534": {
@@ -4853,7 +4832,7 @@
         "LN107312": {
             "ln_number": "LN107312",
             "manufacturer": "Kioxia",
-            "description": "480GB KIOXIA EXCERIA, 2.5&quot; SSD, SATA 3.0 (6Gbs), TLC Flash, 555MBs Read, 540MBs Write",
+            "description": "480GB KIOXIA EXCERIA, 2.5&quot; SSD, SATA 3.0 (6Gbs), TLC BiCS Flash, 555MBs Read, 540MBs Write",
             "price": 3499,
             "availability": "In Stock"
         },
