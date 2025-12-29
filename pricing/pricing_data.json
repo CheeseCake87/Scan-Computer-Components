@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-28T09:30:45.525854",
+    "__fetched__": "2025-12-29T09:30:51.559013",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -462,13 +462,6 @@
             "ln_number": "LN162717",
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B850M-PLUS WiFi 7, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi7, USB 3.2 Gen2x2, AMD EXPO, mATX",
-            "price": 20999,
-            "availability": "In Stock"
-        },
-        "LN166284": {
-            "ln_number": "LN166284",
-            "manufacturer": "MSI",
-            "description": "MSI MAG B850 TOMAHAWK WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 5GbE  WiFi7, USB 3.2 A+C, AMD EXPO, ATX",
             "price": 20999,
             "availability": "In Stock"
         },
@@ -1027,7 +1020,7 @@
             "ln_number": "LN133834",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7800X3D, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.0GHz Turbo, 96MB Cache, PCIe 5.0, 120W TDP, CPU",
-            "price": 34998,
+            "price": 36998,
             "availability": "In Stock"
         },
         "LN131631": {
@@ -1043,7 +1036,7 @@
             "ln_number": "LN149413",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 9600X, AM5, Zen 5, 6 Core, 12 Thread, 3.9GHz, 5.4GHz Turbo, 32MB Cache, PCIe 5.0, 65W, CPU Retail Box",
-            "price": 18998,
+            "price": 22399,
             "availability": "In Stock"
         },
         "LN156764": {
@@ -1103,7 +1096,7 @@
             "ln_number": "LN133834",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7800X3D, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.0GHz Turbo, 96MB Cache, PCIe 5.0, 120W TDP, CPU",
-            "price": 34998,
+            "price": 36998,
             "availability": "In Stock"
         }
     },
@@ -1473,13 +1466,6 @@
             "price": 64999,
             "availability": "In Stock"
         },
-        "LN165928": {
-            "ln_number": "LN165928",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB, Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile, 1.25V",
-            "price": 64999,
-            "availability": "In Stock"
-        },
         "LN129072": {
             "ln_number": "LN129072",
             "manufacturer": "Corsair",
@@ -1506,6 +1492,13 @@
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 69599,
+            "availability": "In Stock"
+        },
+        "LN165928": {
+            "ln_number": "LN165928",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB, Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile, 1.25V",
+            "price": 70249,
             "availability": "In Stock"
         },
         "LN129899": {
@@ -1557,18 +1550,18 @@
             "price": 93149,
             "availability": "In Stock"
         },
-        "LN140146": {
-            "ln_number": "LN140146",
-            "manufacturer": "Corsair",
-            "description": "128GB (4x32GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 134999,
-            "availability": "In Stock"
-        },
         "LN140147": {
             "ln_number": "LN140147",
             "manufacturer": "Corsair",
             "description": "128GB (4x32GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 149999,
+            "availability": "In Stock"
+        },
+        "LN140146": {
+            "ln_number": "LN140146",
+            "manufacturer": "Corsair",
+            "description": "128GB (4x32GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 150599,
             "availability": "In Stock"
         },
         "LN135187": {
@@ -1685,13 +1678,6 @@
             "price": 36949,
             "availability": "In Stock"
         },
-        "LN129904": {
-            "ln_number": "LN129904",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, Dual Profile, 1.25V",
-            "price": 59999,
-            "availability": "In Stock"
-        },
         "LN123743": {
             "ln_number": "LN123743",
             "manufacturer": "Corsair",
@@ -1706,17 +1692,17 @@
             "price": 62999,
             "availability": "In Stock"
         },
-        "LN165930": {
-            "ln_number": "LN165930",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-38400 (4800), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.1V",
-            "price": 62999,
-            "availability": "In Stock"
-        },
         "LN129064": {
             "ln_number": "LN129064",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 64898,
+            "availability": "In Stock"
+        },
+        "LN129904": {
+            "ln_number": "LN129904",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, Dual Profile, 1.25V",
             "price": 64898,
             "availability": "In Stock"
         },
@@ -1725,6 +1711,13 @@
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB White, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 64898,
+            "availability": "In Stock"
+        },
+        "LN165930": {
+            "ln_number": "LN165930",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-38400 (4800), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.1V",
+            "price": 69149,
             "availability": "In Stock"
         },
         "LN134118": {
@@ -1762,13 +1755,6 @@
             "manufacturer": "Corsair",
             "description": "16GB (2x8GB) Corsair DDR4 Vengeance LPX Black, PC4-24000 (3000), Non-ECC Unbuffered, CAS 15, XMP 2.0, 1.35V",
             "price": 9599,
-            "availability": "In Stock"
-        },
-        "LN113700": {
-            "ln_number": "LN113700",
-            "manufacturer": "Corsair",
-            "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO SL Black, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
-            "price": 9998,
             "availability": "In Stock"
         },
         "LN113701": {
@@ -2792,13 +2778,6 @@
             "price": 249998,
             "availability": "In Stock"
         },
-        "LN157785": {
-            "ln_number": "LN157785",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5090 VANGUARD SOC 32GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 21760 Core, 2512MHz Boost",
-            "price": 249998,
-            "availability": "In Stock"
-        },
         "LN162171": {
             "ln_number": "LN162171",
             "manufacturer": "Zotac",
@@ -2881,13 +2860,6 @@
             "manufacturer": "Innovision 3D",
             "description": "INNO3D NVIDIA GeForce RTX 5080 X3 OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2640 MHz Boost",
             "price": 109999,
-            "availability": "In Stock"
-        },
-        "LN155094": {
-            "ln_number": "LN155094",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5080 GAMING OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2730 MHz Clock",
-            "price": 116999,
             "availability": "In Stock"
         },
         "LN155004": {
@@ -3336,13 +3308,6 @@
             "manufacturer": "PNY",
             "description": "PNY NVIDIA GeForce RTX 5060 Ti DUAL Fan OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2692MHz Boost",
             "price": 42998,
-            "availability": "In Stock"
-        },
-        "LN166334": {
-            "ln_number": "LN166334",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5060 Ti EAGLE MAX OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2587 MHz",
-            "price": 43199,
             "availability": "In Stock"
         },
         "LN158542": {
@@ -4028,13 +3993,6 @@
             "price": 64999,
             "availability": "In Stock"
         },
-        "LN159501": {
-            "ln_number": "LN159501",
-            "manufacturer": "XFX",
-            "description": "XFX SWIFT Radeon RX 9060 XT OC Gaming Dual Fan Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
-            "price": 32999,
-            "availability": "In Stock"
-        },
         "LN159434": {
             "ln_number": "LN159434",
             "manufacturer": "PowerColor",
@@ -4060,6 +4018,13 @@
             "ln_number": "LN159499",
             "manufacturer": "XFX",
             "description": "XFX SWIFT Radeon RX 9060 XT OC Gaming Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
+            "price": 35999,
+            "availability": "In Stock"
+        },
+        "LN159501": {
+            "ln_number": "LN159501",
+            "manufacturer": "XFX",
+            "description": "XFX SWIFT Radeon RX 9060 XT OC Gaming Dual Fan Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
             "price": 35999,
             "availability": "In Stock"
         },
@@ -4216,13 +4181,6 @@
             "price": 1999,
             "availability": "In Stock"
         },
-        "LN151604": {
-            "ln_number": "LN151604",
-            "manufacturer": "Crucial",
-            "description": "1TB Crucial P310, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
-            "price": 8798,
-            "availability": "In Stock"
-        },
         "LN154935": {
             "ln_number": "LN154935",
             "manufacturer": "Crucial",
@@ -4256,6 +4214,13 @@
             "manufacturer": "Kingston",
             "description": "1TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 4000MBs Write",
             "price": 9998,
+            "availability": "In Stock"
+        },
+        "LN151604": {
+            "ln_number": "LN151604",
+            "manufacturer": "Crucial",
+            "description": "1TB Crucial P310, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
+            "price": 10799,
             "availability": "In Stock"
         },
         "LN162890": {
@@ -4789,7 +4754,7 @@
             "ln_number": "LN161535",
             "manufacturer": "Samsung",
             "description": "8TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
-            "price": 89999,
+            "price": 97999,
             "availability": "In Stock"
         },
         "LN165650": {
