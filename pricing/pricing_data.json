@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2025-12-30T09:30:57.527277",
+    "__fetched__": "2025-12-31T09:30:06.459426",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -374,13 +374,6 @@
             "price": 14999,
             "availability": "In Stock"
         },
-        "LN154817": {
-            "ln_number": "LN154817",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte B850 GAMING Wi-Fi 6, AMD B850, S AM5, DDR5, PCIe 5.0, 3 x M.2, 1G LAN, WiFi6, USB 10Gbps, AMD EXPO, ATX",
-            "price": 15499,
-            "availability": "In Stock"
-        },
         "LN165758": {
             "ln_number": "LN165758",
             "manufacturer": "Gigabyte",
@@ -519,13 +512,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B850-BTF WIFI W, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, ATX",
             "price": 27499,
-            "availability": "In Stock"
-        },
-        "LN165542": {
-            "ln_number": "LN165542",
-            "manufacturer": "ASUS",
-            "description": "Open Box ASUS ROG STRIX B850-F GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, ATX",
-            "price": 26498,
             "availability": "In Stock"
         },
         "LN154827": {
@@ -937,6 +923,13 @@
             "description": "MSI B550M PRO-VDH WIFI, AMD B550, S AM4, DDR4, SATA3, PCIe 4.0, GbE, ac WiFiBT 4.2, USB 3.2 Gen1 A+C, Micro-ATX",
             "price": 10699,
             "availability": "In Stock"
+        },
+        "LN125439": {
+            "ln_number": "LN125439",
+            "manufacturer": "ASUS",
+            "description": "ASUS PRIME B550M-A Wi-Fi II, AMD B550, AM4, DDR4, SATA3, PCIe 4.0, Dual M.2, GbEax WiFi, USB 3.2 Gen2 A, Micro-ATX",
+            "price": 11798,
+            "availability": "In Stock"
         }
     },
     "mobo-am4-value": {
@@ -952,13 +945,6 @@
             "manufacturer": "ASRock",
             "description": "AsRock A520M HVS, AMD A520, s AM4, DDR4, SATA3, M.2, Realtek GbE, USB 3.2 Gen1, MicroATX",
             "price": 5399,
-            "availability": "In Stock"
-        },
-        "LN111913": {
-            "ln_number": "LN111913",
-            "manufacturer": "ASUS",
-            "description": "ASUS PRIME A520M-K, AMD A520, AM4, DDR4, PCIe 3.0, 1x M.2, USB 3.2 Gen 1, Realtek RTL8111H GbE LAN, mATX",
-            "price": 6398,
             "availability": "In Stock"
         },
         "LN145316": {
@@ -1247,13 +1233,6 @@
             "price": 42499,
             "availability": "In Stock"
         },
-        "LN131016": {
-            "ln_number": "LN131016",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
-            "price": 42499,
-            "availability": "In Stock"
-        },
         "LN130788": {
             "ln_number": "LN130788",
             "manufacturer": "Corsair",
@@ -1408,6 +1387,13 @@
             "manufacturer": "Corsair",
             "description": "32GB (1x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
             "price": 34799,
+            "availability": "In Stock"
+        },
+        "LN140748": {
+            "ln_number": "LN140748",
+            "manufacturer": "Corsair",
+            "description": "32GB (2x16GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.2V",
+            "price": 35348,
             "availability": "In Stock"
         },
         "LN140747": {
@@ -1815,13 +1801,6 @@
             "price": 4499,
             "availability": "In Stock"
         },
-        "LN118769": {
-            "ln_number": "LN118769",
-            "manufacturer": "EVGA",
-            "description": "750W EVGA 750 B5, 80PLUS Bronze, Fully Modular, EVGA ECO Mode, Single Rail, 62.5A + 12V, ATX PSU",
-            "price": 4998,
-            "availability": "In Stock"
-        },
         "LN163113": {
             "ln_number": "LN163113",
             "manufacturer": "FSP",
@@ -2172,13 +2151,6 @@
             "price": 149,
             "availability": "In Stock"
         },
-        "LN9039": {
-            "ln_number": "LN9039",
-            "manufacturer": "Akasa",
-            "description": "Akasa PCI Express 4 Molex Pin to 6 Pin Power cable adaptor (AK-CB4-6)",
-            "price": 248,
-            "availability": "In Stock"
-        },
         "LN66058": {
             "ln_number": "LN66058",
             "manufacturer": "Cables Direct",
@@ -2265,13 +2237,6 @@
         }
     },
     "psu-800-880": {
-        "LN155058": {
-            "ln_number": "LN155058",
-            "manufacturer": "Montech",
-            "description": "850W Montech Century II, Fully Modular, PCIE 5.1, 80PLUS Gold, Single Rail, 70.8A 135mm Smart Zero Fan Silent ATX3.1 PSU",
-            "price": 7499,
-            "availability": "In Stock"
-        },
         "LN153873": {
             "ln_number": "LN153873",
             "manufacturer": "ThermalTake",
@@ -2346,13 +2311,6 @@
             "ln_number": "LN163115",
             "manufacturer": "FSP",
             "description": "850W FSP Vita BD, Fully Wired, 80PLUS Bronze, Single Rail, 70.83A, 120mm Fan, ATX3.1",
-            "price": 6998,
-            "availability": "In Stock"
-        },
-        "LN147220": {
-            "ln_number": "LN147220",
-            "manufacturer": "GameMax",
-            "description": "850W GameMax GX-850 Power Supply, Fully Modular, 80PLUS Gold, Single Rail, 70A, 120mm Fan, ATX PSU",
             "price": 6998,
             "availability": "In Stock"
         },
@@ -2571,13 +2529,6 @@
             "manufacturer": "Xclio",
             "description": "200mm Xclio Cable Ties, 100 pack, 200mm x 2.5mm, Black",
             "price": 149,
-            "availability": "In Stock"
-        },
-        "LN9039": {
-            "ln_number": "LN9039",
-            "manufacturer": "Akasa",
-            "description": "Akasa PCI Express 4 Molex Pin to 6 Pin Power cable adaptor (AK-CB4-6)",
-            "price": 248,
             "availability": "In Stock"
         },
         "LN66058": {
@@ -2855,13 +2806,6 @@
             "price": 129998,
             "availability": "In Stock"
         },
-        "LN156734": {
-            "ln_number": "LN156734",
-            "manufacturer": "MSI",
-            "description": "Open Box MSI NVIDIA GeForce RTX 5080 VANGUARD SOC LAUNCH ED 16GB GDDR7 Ray-Tracing Graphics, 10752 Core, 2730 MHz Boost",
-            "price": 132199,
-            "availability": "In Stock"
-        },
         "LN154372": {
             "ln_number": "LN154372",
             "manufacturer": "ASUS",
@@ -2894,7 +2838,7 @@
             "ln_number": "LN155367",
             "manufacturer": "ASUS",
             "description": "ASUS NVIDIA GeForce RTX 5070 Ti TUF GAMING OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2610 MHz Boost",
-            "price": 88999,
+            "price": 89999,
             "availability": "In Stock"
         },
         "LN159187": {
@@ -2908,7 +2852,7 @@
             "ln_number": "LN158545",
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2452 MHz Boost",
-            "price": 70998,
+            "price": 70999,
             "availability": "In Stock"
         },
         "LN165834": {
@@ -2922,13 +2866,6 @@
             "ln_number": "LN159186",
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2482 MHz Boost",
-            "price": 72998,
-            "availability": "In Stock"
-        },
-        "LN155168": {
-            "ln_number": "LN155168",
-            "manufacturer": "PNY",
-            "description": "PNY NVIDIA GeForce RTX 5070 TI OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2300 MHz Clock",
             "price": 72998,
             "availability": "In Stock"
         },
@@ -2951,6 +2888,13 @@
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5070 Ti SOLID OC SFF 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2482 MHz Boost",
             "price": 74999,
+            "availability": "In Stock"
+        },
+        "LN155168": {
+            "ln_number": "LN155168",
+            "manufacturer": "PNY",
+            "description": "PNY NVIDIA GeForce RTX 5070 TI OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2300 MHz Clock",
+            "price": 79999,
             "availability": "In Stock"
         },
         "LN159599": {
@@ -3051,13 +2995,6 @@
             "price": 61999,
             "availability": "In Stock"
         },
-        "LN157664": {
-            "ln_number": "LN157664",
-            "manufacturer": "Palit",
-            "description": "PALIT NVIDIA GeForce RTX 5070 INFINITY 3 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2512 MHz Boost",
-            "price": 49499,
-            "availability": "In Stock"
-        },
         "LN156805": {
             "ln_number": "LN156805",
             "manufacturer": "MSI",
@@ -3079,13 +3016,6 @@
             "price": 51499,
             "availability": "In Stock"
         },
-        "LN157007": {
-            "ln_number": "LN157007",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5070 SOLID 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2512 MHz Boost",
-            "price": 51499,
-            "availability": "In Stock"
-        },
         "LN157147": {
             "ln_number": "LN157147",
             "manufacturer": "Palit",
@@ -3097,6 +3027,13 @@
             "ln_number": "LN162887",
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 INFINITY 3 OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2542 MHz Boost",
+            "price": 51998,
+            "availability": "In Stock"
+        },
+        "LN157007": {
+            "ln_number": "LN157007",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5070 SOLID 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2512 MHz Boost",
             "price": 51998,
             "availability": "In Stock"
         },
@@ -3163,6 +3100,13 @@
             "price": 58699,
             "availability": "In Stock"
         },
+        "LN155916": {
+            "ln_number": "LN155916",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5070 AERO OC 12GB GDDR7 Ray-Tracing Graphics Card, 6144 Cores, 2625 MHz Boost",
+            "price": 59999,
+            "availability": "In Stock"
+        },
         "LN155108": {
             "ln_number": "LN155108",
             "manufacturer": "Gigabyte",
@@ -3182,13 +3126,6 @@
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5070 GAMING TRIO OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2610 MHz Boost",
             "price": 62999,
-            "availability": "In Stock"
-        },
-        "LN155916": {
-            "ln_number": "LN155916",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5070 AERO OC 12GB GDDR7 Ray-Tracing Graphics Card, 6144 Cores, 2625 MHz Boost",
-            "price": 63599,
             "availability": "In Stock"
         },
         "LN156803": {
@@ -3268,13 +3205,6 @@
             "price": 41999,
             "availability": "In Stock"
         },
-        "LN158376": {
-            "ln_number": "LN158376",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti AMP 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2632 MHz Boost",
-            "price": 41999,
-            "availability": "In Stock"
-        },
         "LN164467": {
             "ln_number": "LN164467",
             "manufacturer": "Zotac",
@@ -3287,6 +3217,13 @@
             "manufacturer": "PNY",
             "description": "PNY NVIDIA GeForce RTX 5060 Ti DUAL Fan OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2692MHz Boost",
             "price": 42998,
+            "availability": "In Stock"
+        },
+        "LN158376": {
+            "ln_number": "LN158376",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti AMP 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2632 MHz Boost",
+            "price": 43999,
             "availability": "In Stock"
         },
         "LN166437": {
@@ -3373,13 +3310,6 @@
             "price": 35999,
             "availability": "In Stock"
         },
-        "LN158079": {
-            "ln_number": "LN158079",
-            "manufacturer": "Palit",
-            "description": "Palit NVIDIA GeForce RTX 5060 Ti DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2632 MHz Boost",
-            "price": 33499,
-            "availability": "In Stock"
-        },
         "LN159148": {
             "ln_number": "LN159148",
             "manufacturer": "Gigabyte",
@@ -3401,18 +3331,18 @@
             "price": 34999,
             "availability": "In Stock"
         },
-        "LN158492": {
-            "ln_number": "LN158492",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti Twin Edge 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2572 MHz Boost",
-            "price": 34999,
-            "availability": "In Stock"
-        },
         "LN158493": {
             "ln_number": "LN158493",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti Twin Edge OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2602 MHz Boost",
             "price": 34999,
+            "availability": "In Stock"
+        },
+        "LN158079": {
+            "ln_number": "LN158079",
+            "manufacturer": "Palit",
+            "description": "Palit NVIDIA GeForce RTX 5060 Ti DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2632 MHz Boost",
+            "price": 35899,
             "availability": "In Stock"
         },
         "LN159146": {
@@ -3468,7 +3398,7 @@
             "ln_number": "LN159143",
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5060 Ti AERO OC 8GB GDDR7 Ray-Tracing Graphics Card, 4608 Cores, 2647 MHz Boost",
-            "price": 41498,
+            "price": 38999,
             "availability": "In Stock"
         },
         "LN159335": {
@@ -3478,18 +3408,18 @@
             "price": 25998,
             "availability": "In Stock"
         },
-        "LN159670": {
-            "ln_number": "LN159670",
-            "manufacturer": "ASUS",
-            "description": "ASUS NVIDIA GeForce RTX 5060 DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2565 MHz Boost",
-            "price": 26999,
-            "availability": "In Stock"
-        },
         "LN158715": {
             "ln_number": "LN158715",
             "manufacturer": "Palit",
             "description": "Palit NVIDIA GeForce RTX 5060 DUAL 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2497 MHz Boost",
             "price": 26999,
+            "availability": "In Stock"
+        },
+        "LN159670": {
+            "ln_number": "LN159670",
+            "manufacturer": "ASUS",
+            "description": "ASUS NVIDIA GeForce RTX 5060 DUAL OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Core, 2565 MHz Boost",
+            "price": 27499,
             "availability": "In Stock"
         },
         "LN159339": {
@@ -3525,6 +3455,13 @@
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5060 AMP 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2550 MHz Boost",
             "price": 27799,
+            "availability": "In Stock"
+        },
+        "LN159525": {
+            "ln_number": "LN159525",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5060 EAGLE OC ICE 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2550 MHz Clock",
+            "price": 27998,
             "availability": "In Stock"
         },
         "LN158713": {
@@ -3581,13 +3518,6 @@
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5060 OC Low Profile  8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2512 MHz Clock",
             "price": 29399,
-            "availability": "In Stock"
-        },
-        "LN159525": {
-            "ln_number": "LN159525",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5060 EAGLE OC ICE 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2550 MHz Clock",
-            "price": 29899,
             "availability": "In Stock"
         },
         "LN159562": {
@@ -3769,13 +3699,6 @@
             "price": 57998,
             "availability": "In Stock"
         },
-        "LN157359": {
-            "ln_number": "LN157359",
-            "manufacturer": "ASRock",
-            "description": "ASRock Radeon RX 9070 XT STEEL LEGEND 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, 2970 MHz Boost",
-            "price": 59899,
-            "availability": "In Stock"
-        },
         "LN154765": {
             "ln_number": "LN154765",
             "manufacturer": "Sapphire",
@@ -3816,13 +3739,6 @@
             "manufacturer": "XFX",
             "description": "XFX Quicksilver Radeon RX 9070 XT Magnetic Air 16GB GDDR6 Graphics Card, Black, RDNA 4, 4096 Streams, 2970MHz Boost",
             "price": 62999,
-            "availability": "In Stock"
-        },
-        "LN156798": {
-            "ln_number": "LN156798",
-            "manufacturer": "XFX",
-            "description": "XFX Radeon RX 9070 XT Swift Triple Fan Gaming 16GB GDDR6 Graphics Card, White, RDNA 4, 4096 Streams, 2970MHz Boost",
-            "price": 63599,
             "availability": "In Stock"
         },
         "LN154544": {
@@ -3965,13 +3881,6 @@
             "price": 57599,
             "availability": "In Stock"
         },
-        "LN154768": {
-            "ln_number": "LN154768",
-            "manufacturer": "Sapphire",
-            "description": "Sapphire Radeon RX 9070 PULSE 16GB GDDR6 Graphics Card, RDNA 4, 3584 Streams, 2520 Boost",
-            "price": 57998,
-            "availability": "In Stock"
-        },
         "LN156799": {
             "ln_number": "LN156799",
             "manufacturer": "XFX",
@@ -4032,13 +3941,6 @@
             "ln_number": "LN159499",
             "manufacturer": "XFX",
             "description": "XFX SWIFT Radeon RX 9060 XT OC Gaming Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
-            "price": 35999,
-            "availability": "In Stock"
-        },
-        "LN159501": {
-            "ln_number": "LN159501",
-            "manufacturer": "XFX",
-            "description": "XFX SWIFT Radeon RX 9060 XT OC Gaming Dual Fan Black 16GB GDDR6 Graphics Card, RDNA 4, 2048 Streams, 3320MHz Boost",
             "price": 35999,
             "availability": "In Stock"
         },
@@ -4377,13 +4279,6 @@
             "price": 30799,
             "availability": "In Stock"
         },
-        "LN152122": {
-            "ln_number": "LN152122",
-            "manufacturer": "Samsung",
-            "description": "4TB Samsung 990 EVO Plus, M.2 (2280) PCIe 4.0, NVMe SSD, 3D V-NAND TLC, 7250MBs Read,6300MBs Write, 1050k1400k IOPS",
-            "price": 31998,
-            "availability": "In Stock"
-        },
         "LN140761": {
             "ln_number": "LN140761",
             "manufacturer": "Lexar",
@@ -4403,6 +4298,13 @@
             "manufacturer": "Kingston",
             "description": "4TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 5000MBs Write",
             "price": 34998,
+            "availability": "In Stock"
+        },
+        "LN152122": {
+            "ln_number": "LN152122",
+            "manufacturer": "Samsung",
+            "description": "4TB Samsung 990 EVO Plus, M.2 (2280) PCIe 4.0, NVMe SSD, 3D V-NAND TLC, 7250MBs Read,6300MBs Write, 1050k1400k IOPS",
+            "price": 34999,
             "availability": "In Stock"
         },
         "LN141091": {
@@ -4484,13 +4386,6 @@
         }
     },
     "m2-nvme-g5-ssd": {
-        "LN164634": {
-            "ln_number": "LN164634",
-            "manufacturer": "Corsair",
-            "description": "1TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14200MBs Write, 1500k  3300k IOPS",
-            "price": 14999,
-            "availability": "In Stock"
-        },
         "LN164635": {
             "ln_number": "LN164635",
             "manufacturer": "Corsair",
@@ -4614,7 +4509,7 @@
             "ln_number": "LN159494",
             "manufacturer": "WD",
             "description": "2TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
-            "price": 25998,
+            "price": 26999,
             "availability": "In Stock"
         },
         "LN146943": {
