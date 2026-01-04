@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-03T09:30:39.082759",
+    "__fetched__": "2026-01-04T09:30:45.269702",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -55,13 +55,6 @@
             "manufacturer": "Gigabyte",
             "description": "Gigabyte X870E AORUS PRO, AMD X870E, S AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GbE, WiFi7, USB 4.0, AMD EXPO, ATX",
             "price": 31999,
-            "availability": "In Stock"
-        },
-        "LN165210": {
-            "ln_number": "LN165210",
-            "manufacturer": "MSI",
-            "description": "MSI MAG X870E TOMAHAWK MAX WiFi PZ, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, 5GbE, Wi-Fi 7, USB 4.0, AMD EXPO, ATX",
-            "price": 32999,
             "availability": "In Stock"
         },
         "LN151934": {
@@ -323,13 +316,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B850-PLUS WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, WiFi72.5G, USB 4, AMD EXPO, ATX",
             "price": 18998,
-            "availability": "In Stock"
-        },
-        "LN154833": {
-            "ln_number": "LN154833",
-            "manufacturer": "ASRock",
-            "description": "ASRock B850 Pro-A, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5 GbE, USB 3.2 Gen2, AMD EXPO, ATX",
-            "price": 13998,
             "availability": "In Stock"
         },
         "LN162223": {
@@ -617,13 +603,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B850M-PLUS WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi6E, USB 3.2 Gen2x2, AMD EXPO, mATX",
             "price": 22999,
-            "availability": "In Stock"
-        },
-        "LN154823": {
-            "ln_number": "LN154823",
-            "manufacturer": "ASRock",
-            "description": "ASRock B850I Lightning WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 2x M.2, 2.5G LAN, WiFi 6E, USB 3.2 Gen2, AMD EXPO, mITX",
-            "price": 18799,
             "availability": "In Stock"
         },
         "LN154811": {
@@ -1624,13 +1603,6 @@
             "price": 9599,
             "availability": "In Stock"
         },
-        "LN113701": {
-            "ln_number": "LN113701",
-            "manufacturer": "Corsair",
-            "description": "16GB (2x8GB) Corsair DDR4 Vengeance RGB PRO SL White, PC4-25600 (3200), Non-ECC Unbuffered, CAS 16, XMP 2.0, 1.35V",
-            "price": 9998,
-            "availability": "In Stock"
-        },
         "LN113486": {
             "ln_number": "LN113486",
             "manufacturer": "Corsair",
@@ -1680,6 +1652,13 @@
             "manufacturer": "Corsair",
             "description": "750W Corsair RMx Series RM750x, Fully Modular, Cybenetics Gold, PCIe 5.1 Single Rail, 62.5A, 140mm Fan, ATX 3.1 PSU",
             "price": 13499,
+            "availability": "In Stock"
+        },
+        "LN151726": {
+            "ln_number": "LN151726",
+            "manufacturer": "CiT",
+            "description": "600W CiT FX Pro, 80PLUS Bronze, Fully Wired, Single Rail, 46A +12V, 140mm Fan, Black, ATX PSU",
+            "price": 2999,
             "availability": "In Stock"
         },
         "LN151780": {
@@ -1777,13 +1756,6 @@
             "ln_number": "LN163114",
             "manufacturer": "FSP",
             "description": "750W FSP Vita BD, Fully Wired, 80PLUS Bronze, Single Rail, 62.5A, 120mm Fan, ATX3.1",
-            "price": 5999,
-            "availability": "In Stock"
-        },
-        "LN147219": {
-            "ln_number": "LN147219",
-            "manufacturer": "GameMax",
-            "description": "750W GameMax GX-750 Power Supply, Fully Modular, 80PLUS Gold, Single Rail, 60A, 120mm Fan, ATX PSU",
             "price": 5999,
             "availability": "In Stock"
         },
@@ -1995,13 +1967,6 @@
             "manufacturer": "ASUS",
             "description": "750W ASUS Prime Gold, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 62A, 135mm Fan, ATX3.1  PSU, OEM",
             "price": 11549,
-            "availability": "In Stock"
-        },
-        "LN129716": {
-            "ln_number": "LN129716",
-            "manufacturer": "ASUS",
-            "description": "750W ASUS TUF Gaming Gold, Fully Modular, 80PLUS Gold, Single Rail, 62A, 135mm Fan, ATX 3.1 PSU",
-            "price": 11999,
             "availability": "In Stock"
         },
         "LN155892": {
@@ -2673,13 +2638,6 @@
             "price": 124999,
             "availability": "In Stock"
         },
-        "LN155002": {
-            "ln_number": "LN155002",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5080 GAMING TRIO OC WHITE 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Core, 2700MHz Boost",
-            "price": 126998,
-            "availability": "In Stock"
-        },
         "LN155364": {
             "ln_number": "LN155364",
             "manufacturer": "ASUS",
@@ -2915,13 +2873,6 @@
             "ln_number": "LN157148",
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 GamingPro 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2512 MHz Boost",
-            "price": 52999,
-            "availability": "In Stock"
-        },
-        "LN158628": {
-            "ln_number": "LN158628",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5070 Twin Edge OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2542 MHz Boost",
             "price": 52999,
             "availability": "In Stock"
         },
@@ -3650,13 +3601,6 @@
             "price": 69998,
             "availability": "In Stock"
         },
-        "LN154543": {
-            "ln_number": "LN154543",
-            "manufacturer": "PowerColor",
-            "description": "PowerColor Radeon RX 9070 XT RED DEVIL 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, 3060 MHz Boost",
-            "price": 69998,
-            "availability": "In Stock"
-        },
         "LN157800": {
             "ln_number": "LN157800",
             "manufacturer": "PowerColor",
@@ -3678,25 +3622,11 @@
             "price": 53999,
             "availability": "In Stock"
         },
-        "LN154547": {
-            "ln_number": "LN154547",
-            "manufacturer": "PowerColor",
-            "description": "PowerColor Radeon RX 9070 HELLHOUND 16GB GDDR6 Graphics Card, RDNA4, 3584 Streams, 2590 MHz Boost",
-            "price": 54799,
-            "availability": "In Stock"
-        },
         "LN159564": {
             "ln_number": "LN159564",
             "manufacturer": "XFX",
             "description": "XFX Swift Radeon RX 9070 Triple 90mm Fan Gaming 16GB GDDR6 Graphics Card, Black, RDNA 4, 3584 Streams, 2700MHz Boost",
             "price": 54998,
-            "availability": "In Stock"
-        },
-        "LN163809": {
-            "ln_number": "LN163809",
-            "manufacturer": "Sapphire",
-            "description": "Open Box Sapphire Radeon RX 9070 PURE 16GB GDDR6 Graphics Card, RDNA4, 3584 Streams, 2700MHz Boost",
-            "price": 55199,
             "availability": "In Stock"
         },
         "LN156800": {
