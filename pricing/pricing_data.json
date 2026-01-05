@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-04T09:30:45.269702",
+    "__fetched__": "2026-01-05T09:30:49.691405",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -374,13 +374,6 @@
             "price": 16999,
             "availability": "In Stock"
         },
-        "LN158660": {
-            "ln_number": "LN158660",
-            "manufacturer": "ASUS",
-            "description": "ASUS TUF GAMING B850-E WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 20Gbps, AMD EXPO, ATX",
-            "price": 17999,
-            "availability": "In Stock"
-        },
         "LN154203": {
             "ln_number": "LN154203",
             "manufacturer": "MSI",
@@ -393,6 +386,13 @@
             "manufacturer": "ASRock",
             "description": "ASRock B850 Steel Legend WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GWiFi 7, USB 3.2 Gen2, AMD EXPO, ATX",
             "price": 19499,
+            "availability": "In Stock"
+        },
+        "LN158660": {
+            "ln_number": "LN158660",
+            "manufacturer": "ASUS",
+            "description": "ASUS TUF GAMING B850-E WIFI, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 20Gbps, AMD EXPO, ATX",
+            "price": 19598,
             "availability": "In Stock"
         },
         "LN162718": {
@@ -867,15 +867,7 @@
             "availability": "In Stock"
         }
     },
-    "mobo-am4-performance": {
-        "LN125436": {
-            "ln_number": "LN125436",
-            "manufacturer": "ASUS",
-            "description": "ASUS ROG Strix B550-F Gaming WI-FI II, AMD B550, AM4, DDR4, PCIe 4.0, SATA3, Dual M.2, 2.5GbE, 2x2 Wi-Fi 6EBT5.2, ATX",
-            "price": 14999,
-            "availability": "In Stock"
-        }
-    },
+    "mobo-am4-performance": {},
     "mobo-am4-value": {
         "LN110284": {
             "ln_number": "LN110284",
@@ -930,13 +922,6 @@
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7700X, AM5, Zen 4, 8 Core, 16 Thread, 4.5GHz, 5.4GHz Turbo, 32MB Cache, PCIe 5.0, 105W, CPU",
             "price": 24599,
-            "availability": "In Stock"
-        },
-        "LN133834": {
-            "ln_number": "LN133834",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 7 7800X3D, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.0GHz Turbo, 96MB Cache, PCIe 5.0, 120W TDP, CPU",
-            "price": 34999,
             "availability": "In Stock"
         },
         "LN131631": {
@@ -1006,13 +991,6 @@
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 7500X3D, AM5, Zen 4, 6 Core, 12 Thread, 4.0GHz, 4.5GHz Turbo, 96MB Cache, PCIe 5.0, 65W, CPU",
             "price": 22099,
-            "availability": "In Stock"
-        },
-        "LN133834": {
-            "ln_number": "LN133834",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 7 7800X3D, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.0GHz Turbo, 96MB Cache, PCIe 5.0, 120W TDP, CPU",
-            "price": 34999,
             "availability": "In Stock"
         }
     },
@@ -1177,20 +1155,6 @@
             "price": 43699,
             "availability": "In Stock"
         },
-        "LN140497": {
-            "ln_number": "LN140497",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 DOMINATOR Titanium RGB White, PC5-56000 (7000), Non-ECC Unbuffered, CAS 34, XMP 3.0, 1.45V",
-            "price": 45599,
-            "availability": "In Stock"
-        },
-        "LN135190": {
-            "ln_number": "LN135190",
-            "manufacturer": "Corsair",
-            "description": "48GB (2x24GB) Corsair DDR5 Vengeance Black, PC5-56000 (7000), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.4V",
-            "price": 50198,
-            "availability": "In Stock"
-        },
         "LN135188": {
             "ln_number": "LN135188",
             "manufacturer": "Corsair",
@@ -1270,13 +1234,6 @@
             "price": 11498,
             "availability": "In Stock"
         },
-        "LN129901": {
-            "ln_number": "LN129901",
-            "manufacturer": "Corsair",
-            "description": "32GB (2x16GB) Corsair DDR5 Vengeance RGB Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 36, Dual Profile, 1.25V",
-            "price": 34244,
-            "availability": "In Stock"
-        },
         "LN140887": {
             "ln_number": "LN140887",
             "manufacturer": "Corsair",
@@ -1340,13 +1297,6 @@
             "price": 62498,
             "availability": "In Stock"
         },
-        "LN165929": {
-            "ln_number": "LN165929",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
-            "price": 64999,
-            "availability": "In Stock"
-        },
         "LN129072": {
             "ln_number": "LN129072",
             "manufacturer": "Corsair",
@@ -1372,6 +1322,13 @@
             "ln_number": "LN125870",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 69599,
+            "availability": "In Stock"
+        },
+        "LN165929": {
+            "ln_number": "LN165929",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
             "price": 69599,
             "availability": "In Stock"
         },
@@ -1524,20 +1481,6 @@
             "price": 36949,
             "availability": "In Stock"
         },
-        "LN123743": {
-            "ln_number": "LN123743",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 62999,
-            "availability": "In Stock"
-        },
-        "LN129071": {
-            "ln_number": "LN129071",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
-            "price": 62999,
-            "availability": "In Stock"
-        },
         "LN129064": {
             "ln_number": "LN129064",
             "manufacturer": "Corsair",
@@ -1559,11 +1502,25 @@
             "price": 64898,
             "availability": "In Stock"
         },
+        "LN129071": {
+            "ln_number": "LN129071",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
+            "price": 65299,
+            "availability": "In Stock"
+        },
         "LN165930": {
             "ln_number": "LN165930",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-38400 (4800), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.1V",
             "price": 69149,
+            "availability": "In Stock"
+        },
+        "LN123743": {
+            "ln_number": "LN123743",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 69698,
             "availability": "In Stock"
         },
         "LN134118": {
@@ -1680,13 +1637,6 @@
             "manufacturer": "Powercool",
             "description": "650W Powercool Edge Power Supply, White, 80PLUS Bronze, Fully Wired, Single Rail, 48A +12V, 120mm HDB Fan, ATX PSU",
             "price": 3998,
-            "availability": "In Stock"
-        },
-        "LN151738": {
-            "ln_number": "LN151738",
-            "manufacturer": "GameMax",
-            "description": "700W GameMax VP-700-RGB Power Supply, Semi-Modular, Single Rail, 50A +12V, 5 x SATA, 120mm RGB Fan, White, ATX PSU",
-            "price": 4499,
             "availability": "In Stock"
         },
         "LN151733": {
@@ -2761,13 +2711,6 @@
             "ln_number": "LN155962",
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti EAGLE OC ICE SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2542 MHz Clock",
-            "price": 83999,
-            "availability": "In Stock"
-        },
-        "LN159597": {
-            "ln_number": "LN159597",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5070 Ti AMP EXTREME INFINITY ULTRA 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2572 MHz Boost",
             "price": 83999,
             "availability": "In Stock"
         },
@@ -4230,13 +4173,6 @@
             "manufacturer": "Crucial",
             "description": "2TB Crucial P510, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 10000MBs Read, 8700MBs Write, 1.4M  1.5M IOPS",
             "price": 22999,
-            "availability": "In Stock"
-        },
-        "LN142238": {
-            "ln_number": "LN142238",
-            "manufacturer": "Corsair",
-            "description": "2TB Corsair MP700 PRO w Air Cooler, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 12400MBs Read, 11800MBs Write, 1500k1600k",
-            "price": 25199,
             "availability": "In Stock"
         },
         "LN159494": {
