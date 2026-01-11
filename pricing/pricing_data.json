@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-10T09:30:08.491143",
+    "__fetched__": "2026-01-11T09:30:12.423104",
     "mobo-am5-enthusiast": {
         "LN154199": {
             "ln_number": "LN154199",
@@ -672,7 +672,7 @@
             "ln_number": "LN165205",
             "manufacturer": "MSI",
             "description": "MSI PRO B840M-P WiFi 6E, AMD B840, AM5, DDR5, PCIe 4.0, 2x M.2, 2.5GbE, Wi-Fi 6E, USB 3.2 Gen2, AMD EXPO, mATX",
-            "price": 10998,
+            "price": 10999,
             "availability": "In Stock"
         },
         "LN165204": {
@@ -1613,13 +1613,6 @@
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 DOMINATOR Platinum RGB Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 71999,
-            "availability": "In Stock"
-        },
-        "LN134119": {
-            "ln_number": "LN134119",
-            "manufacturer": "Corsair",
-            "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 38, XMP 3.0, 1.25V",
-            "price": 100748,
             "availability": "In Stock"
         },
         "LN134118": {
@@ -2743,13 +2736,6 @@
             "price": 107999,
             "availability": "In Stock"
         },
-        "LN155044": {
-            "ln_number": "LN155044",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5080 AMP Extreme INFINITY 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 10752 Cores, 2670 MHz",
-            "price": 110498,
-            "availability": "In Stock"
-        },
         "LN155004": {
             "ln_number": "LN155004",
             "manufacturer": "MSI",
@@ -2981,13 +2967,6 @@
             "price": 50999,
             "availability": "In Stock"
         },
-        "LN157147": {
-            "ln_number": "LN157147",
-            "manufacturer": "Palit",
-            "description": "PALIT NVIDIA GeForce RTX 5070 GamingPro OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2572 MHz Boost",
-            "price": 51599,
-            "availability": "In Stock"
-        },
         "LN157007": {
             "ln_number": "LN157007",
             "manufacturer": "Zotac",
@@ -3147,13 +3126,6 @@
             "manufacturer": "Gigabyte",
             "description": "Gigabyte NVIDIA GeForce RTX 5060 Ti WINDFORCE MAX OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2587 MHz",
             "price": 41399,
-            "availability": "In Stock"
-        },
-        "LN164467": {
-            "ln_number": "LN164467",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5060 Ti Twin Edge OC White 16GB GDDR7  Graphics Card, DLSS 4, 4608 Cores, 2602 MHz Boost",
-            "price": 41999,
             "availability": "In Stock"
         },
         "LN161093": {
@@ -4230,13 +4202,6 @@
             "price": 39998,
             "availability": "In Stock"
         },
-        "LN156882": {
-            "ln_number": "LN156882",
-            "manufacturer": "Kingston",
-            "description": "4TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 5000MBs Write",
-            "price": 40998,
-            "availability": "In Stock"
-        },
         "LN128194": {
             "ln_number": "LN128194",
             "manufacturer": "WD",
@@ -4277,6 +4242,13 @@
             "manufacturer": "Samsung",
             "description": "4TB Samsung 990 PRO, M.2 (2280), PCIe 4.0 (x4) NVMe SSD, MLC V-NAND, 7450MBs Read, 6900MBs Write, PCPS5",
             "price": 46049,
+            "availability": "In Stock"
+        },
+        "LN156882": {
+            "ln_number": "LN156882",
+            "manufacturer": "Kingston",
+            "description": "4TB Kingston NV3 SSD, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 3D NAND, 6000MBs Read, 5000MBs Write",
+            "price": 49999,
             "availability": "In Stock"
         },
         "LN140761": {
@@ -4714,7 +4686,7 @@
             "ln_number": "LN113689",
             "manufacturer": "Samsung",
             "description": "4TB Samsung 870 EVO, 2.5\u201d SSD, SATA III 6Gbs, MKX, MLC V-NAND, 4GB Cache, Read 560MBs, Write 530MBs, 98k88k IOPS",
-            "price": 37998,
+            "price": 43999,
             "availability": "In Stock"
         },
         "LN145275": {
