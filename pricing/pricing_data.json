@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-11T09:30:12.423104",
+    "__fetched__": "2026-01-12T09:30:14.643399",
     "mobo-am5-enthusiast": {
         "LN154199": {
             "ln_number": "LN154199",
@@ -946,13 +946,6 @@
             "description": "ASUS PRIME A520M-K, AMD A520, AM4, DDR4, PCIe 3.0, 1x M.2, USB 3.2 Gen 1, Realtek RTL8111H GbE LAN, mATX",
             "price": 6398,
             "availability": "In Stock"
-        },
-        "LN145316": {
-            "ln_number": "LN145316",
-            "manufacturer": "ASUS",
-            "description": "ASUS TUF GAMING A520M-PLUS WIFI, AMD A520, AM4, DDR4, PCIe 3.0, 1x M.2, USB 3.2 Gen 2, Realtek GbE, 802.11ac WiFi, mATX",
-            "price": 7999,
-            "availability": "In Stock"
         }
     },
     "cpu-am5-ryzen-7-9000": {
@@ -1125,20 +1118,6 @@
             "description": "AMD Ryzen 5 5600T, AM4, Zen 3, 6 Core, 12 Thread, 3.7GHz, 4.5GHz Turbo, 35MB Cache, PCIe 4.0, 65W, CPU",
             "price": 12499,
             "availability": "In Stock"
-        },
-        "LN153270": {
-            "ln_number": "LN153270",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 5 5600 XT, AM4, Zen 3, 6 Core, 12 Thread, 3.7GHz, 4.7GHz Turbo, 35MB Cache, PCIe 4.0, 65W, CPU",
-            "price": 13199,
-            "availability": "In Stock"
-        },
-        "LN143905": {
-            "ln_number": "LN143905",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 5 5600GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.6GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
-            "price": 11699,
-            "availability": "In Stock"
         }
     },
     "cpu-am4-ryzen-5-4000": {
@@ -1156,13 +1135,6 @@
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 5700G, AM4, Zen 3, 8 Core, 16 Thread, 3.8GHz, 4.6GHz Turbo, 16MB Cache, Radeon Vega Graphics, 65W, CPU",
             "price": 16799,
-            "availability": "In Stock"
-        },
-        "LN143905": {
-            "ln_number": "LN143905",
-            "manufacturer": "AMD",
-            "description": "AMD Ryzen 5 5600GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.6GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
-            "price": 11699,
             "availability": "In Stock"
         }
     },
@@ -1791,13 +1763,6 @@
             "ln_number": "LN162987",
             "manufacturer": "CiT",
             "description": "750W CiT FX Pro, White, 80PLUS Bronze, Fully Wired, Single Rail, 62.5A +12V, 140mm Fan, ATX 3.1 PSU",
-            "price": 4999,
-            "availability": "In Stock"
-        },
-        "LN167217": {
-            "ln_number": "LN167217",
-            "manufacturer": "be quiet!",
-            "description": "Open Box 650W be quiet! System Power 11, Fully Wired, 80PLUS Bronze, Single Rail, 54.2A, 12V-2x6, ATX 3.1 Power Supply",
             "price": 4999,
             "availability": "In Stock"
         },
@@ -2827,18 +2792,18 @@
             "price": 89999,
             "availability": "In Stock"
         },
+        "LN159187": {
+            "ln_number": "LN159187",
+            "manufacturer": "Palit",
+            "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2452 MHz Boost",
+            "price": 71999,
+            "availability": "In Stock"
+        },
         "LN165834": {
             "ln_number": "LN165834",
             "manufacturer": "Zotac",
             "description": "ZOTAC NVIDIA GeForce RTX 5070 Ti SOLID SFF 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2452 MHz Boost",
             "price": 71999,
-            "availability": "In Stock"
-        },
-        "LN159187": {
-            "ln_number": "LN159187",
-            "manufacturer": "Palit",
-            "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2452 MHz Boost",
-            "price": 74999,
             "availability": "In Stock"
         },
         "LN158546": {
@@ -3485,13 +3450,6 @@
             "price": 22999,
             "availability": "In Stock"
         },
-        "LN161032": {
-            "ln_number": "LN161032",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5050 SOLO 8GB GDDR6 Ray-Tracing Graphics Card, DLSS 4, 2560 Cores, 2572 MHz Boost",
-            "price": 22999,
-            "availability": "In Stock"
-        },
         "LN161034": {
             "ln_number": "LN161034",
             "manufacturer": "Zotac",
@@ -3725,13 +3683,6 @@
             "manufacturer": "Sapphire",
             "description": "Sapphire Radeon RX 9070 XT NITRO+ 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, 3060MHz Boost",
             "price": 69998,
-            "availability": "In Stock"
-        },
-        "LN156792": {
-            "ln_number": "LN156792",
-            "manufacturer": "XFX",
-            "description": "XFX Mercury Radeon RX 9070 XT OC Gaming 16GB GDDR6 Graphics Card, White, RGB, RDNA 4, 4096 Streams, 3100MHz Boost",
-            "price": 70999,
             "availability": "In Stock"
         },
         "LN157800": {
