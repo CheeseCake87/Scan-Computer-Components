@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-18T09:30:18.744915",
+    "__fetched__": "2026-01-19T09:30:21.380143",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1409,13 +1409,6 @@
             "price": 51548,
             "availability": "In Stock"
         },
-        "LN165929": {
-            "ln_number": "LN165929",
-            "manufacturer": "Corsair",
-            "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
-            "price": 59999,
-            "availability": "In Stock"
-        },
         "LN165928": {
             "ln_number": "LN165928",
             "manufacturer": "Corsair",
@@ -1425,6 +1418,13 @@
         },
         "LN129072": {
             "ln_number": "LN129072",
+            "manufacturer": "Corsair",
+            "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
+            "price": 71099,
+            "availability": "In Stock"
+        },
+        "LN165929": {
+            "ln_number": "LN165929",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance Grey, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, Dual Profile EXPOXMP, 1.25V",
             "price": 71099,
@@ -1493,18 +1493,18 @@
             "price": 90649,
             "availability": "In Stock"
         },
-        "LN134120": {
-            "ln_number": "LN134120",
-            "manufacturer": "Corsair",
-            "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 94999,
-            "availability": "In Stock"
-        },
         "LN134122": {
             "ln_number": "LN134122",
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 101749,
+            "availability": "In Stock"
+        },
+        "LN134120": {
+            "ln_number": "LN134120",
+            "manufacturer": "Corsair",
+            "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 101999,
             "availability": "In Stock"
         },
         "LN140146": {
@@ -1532,7 +1532,7 @@
             "ln_number": "LN147563",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance SODIMM, PC5-44800 (5600), Non-ECC Unbuffered, CAS 48, 1.1V., XMP 3.0",
-            "price": 69998,
+            "price": 72799,
             "availability": "In Stock"
         }
     },
@@ -2303,7 +2303,7 @@
             "ln_number": "LN153873",
             "manufacturer": "ThermalTake",
             "description": "850W Thermaltake Toughpower GT, PCIE 5.1, Fully Modular, 80PLUS Gold, Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU",
-            "price": 8399,
+            "price": 9499,
             "availability": "In Stock"
         },
         "LN145704": {
@@ -2418,13 +2418,6 @@
             "price": 9998,
             "availability": "In Stock"
         },
-        "LN156904": {
-            "ln_number": "LN156904",
-            "manufacturer": "Montech",
-            "description": "850W Montech TITAN GOLD, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 70.8A, 135mm Fan, ATX3.0 PSU",
-            "price": 9998,
-            "availability": "In Stock"
-        },
         "LN149830": {
             "ln_number": "LN149830",
             "manufacturer": "ThermalTake",
@@ -2472,6 +2465,13 @@
             "manufacturer": "NZXT",
             "description": "850W NZXT C850 Gold Core PSU, Black, Fully Modular, 80PLUS Gold, Single Rail, 70.8A, 135mm FDB Fan, ATX 3.1",
             "price": 11498,
+            "availability": "In Stock"
+        },
+        "LN156904": {
+            "ln_number": "LN156904",
+            "manufacturer": "Montech",
+            "description": "850W Montech TITAN GOLD, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 70.8A, 135mm Fan, ATX3.0 PSU",
+            "price": 11999,
             "availability": "In Stock"
         },
         "LN137390": {
@@ -3351,13 +3351,6 @@
             "price": 27998,
             "availability": "In Stock"
         },
-        "LN159527": {
-            "ln_number": "LN159527",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5060 WINDFORCE OC 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 3840 Cores, 2512 MHz Clock",
-            "price": 28399,
-            "availability": "In Stock"
-        },
         "LN167213": {
             "ln_number": "LN167213",
             "manufacturer": "Palit",
@@ -3896,13 +3889,6 @@
         }
     },
     "gpu-amd-rx-7xxx": {
-        "LN135091": {
-            "ln_number": "LN135091",
-            "manufacturer": "PowerColor",
-            "description": "PowerColor Radeon RX 7900 XTX Hellhound OC 24GB GDDR6 Ray-Tracing Graphics Card, RDNA3, 6144 Streams, 2525MHz Boost",
-            "price": 78998,
-            "availability": "In Stock"
-        },
         "LN134916": {
             "ln_number": "LN134916",
             "manufacturer": "XFX",
@@ -3929,13 +3915,6 @@
             "manufacturer": "XFX",
             "description": "XFX Radeon RX 7800 XT SWFT210 CORE 16GB GDDR6 Ray-Tracing Graphics Card, 3840 Streams, 2430MHz Boost",
             "price": 44999,
-            "availability": "In Stock"
-        },
-        "LN156693": {
-            "ln_number": "LN156693",
-            "manufacturer": "PowerColor",
-            "description": "PowerColor Radeon RX 7700 XT 12GB GDDR6 Ray-Tracing Graphics Card, 3456 Streams, 2544MHz Boost",
-            "price": 34399,
             "availability": "In Stock"
         },
         "LN136711": {
@@ -4045,13 +4024,6 @@
             "manufacturer": "Kioxia",
             "description": "2TB KIOXIA EXCERIA 7400, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6800MBs Write, 1000k  1250k IOPS",
             "price": 16998,
-            "availability": "In Stock"
-        },
-        "LN142103": {
-            "ln_number": "LN142103",
-            "manufacturer": "Crucial",
-            "description": "1TB Crucial T500, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, TLC NAND, Read 7300MBs, Write 6800MBs, 1150k1440k IOPS",
-            "price": 16999,
             "availability": "In Stock"
         },
         "LN128193": {
@@ -4557,7 +4529,7 @@
             "ln_number": "LN165650",
             "manufacturer": "Kingston",
             "description": "8TB Kingston Fury Renegade G5, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14800MBs Read, 14000MBs Write, 2200k  2200k IOPS",
-            "price": 149999,
+            "price": 199999,
             "availability": "In Stock"
         },
         "LN154942": {
