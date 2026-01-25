@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-24T09:30:07.111713",
+    "__fetched__": "2026-01-25T09:30:13.310748",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -265,6 +265,13 @@
             "manufacturer": "ASUS",
             "description": "ASUS ROG STRIX X870-A GAMING WiFi, AMD X870, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GWiFi7, USB 4.0, AMD EXPO, ATX",
             "price": 29999,
+            "availability": "In Stock"
+        },
+        "LN162926": {
+            "ln_number": "LN162926",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte X870 AORUS STEALTH ICE, AMD X870, AM5, Reverse Connector, DDR5, PCIe 5.0, 4x M.2, WiFi75 GbE, USB 4.0, ATX",
+            "price": 32399,
             "availability": "In Stock"
         },
         "LN151428": {
@@ -2615,13 +2622,6 @@
             "price": 10999,
             "availability": "In Stock"
         },
-        "LN156343": {
-            "ln_number": "LN156343",
-            "manufacturer": "MSI",
-            "description": "850W MSI MAG A850GL PCIE5 White, Fully Modular, 80PLUS Gold, Single Rail, PCIe 5.1, 70.5A, 120mm Fan, ATX 3.1 PSU",
-            "price": 10999,
-            "availability": "In Stock"
-        },
         "LN149829": {
             "ln_number": "LN149829",
             "manufacturer": "ThermalTake",
@@ -2640,13 +2640,6 @@
             "ln_number": "LN156904",
             "manufacturer": "Montech",
             "description": "850W Montech TITAN GOLD, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 70.8A, 135mm Fan, ATX3.0 PSU",
-            "price": 11999,
-            "availability": "In Stock"
-        },
-        "LN137390": {
-            "ln_number": "LN137390",
-            "manufacturer": "MSI",
-            "description": "850W MSI MAG A850GL, Fully Modular, 80PLUS Gold, Single Rail, PCIe 5.0, 70.5A, 120mm Fan, ATX 3.0 PSU",
             "price": 11999,
             "availability": "In Stock"
         },
@@ -2995,13 +2988,6 @@
             "price": 155999,
             "availability": "In Stock"
         },
-        "LN164345": {
-            "ln_number": "LN164345",
-            "manufacturer": "ASUS",
-            "description": "ASUS ProArt NVIDIA GeForce RTX 5080 OC 16GB GDDR7 Graphics Card, DLSS 4, 10752 Core, 2730 MHz Boost",
-            "price": 161999,
-            "availability": "In Stock"
-        },
         "LN155367": {
             "ln_number": "LN155367",
             "manufacturer": "ASUS",
@@ -3014,13 +3000,6 @@
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2452 MHz Boost",
             "price": 80798,
-            "availability": "In Stock"
-        },
-        "LN158546": {
-            "ln_number": "LN158546",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5070 Ti SOLID OC SFF 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Cores, 2482 MHz Boost",
-            "price": 82799,
             "availability": "In Stock"
         },
         "LN155168": {
