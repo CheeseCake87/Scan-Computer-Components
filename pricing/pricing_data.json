@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-01-31T09:30:20.225870",
+    "__fetched__": "2026-02-01T09:30:21.887548",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1037,7 +1037,7 @@
             "ln_number": "LN152885",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 9800X3D, AM5, Zen 5, 8 Core, 16 Threads, 4.7GHz, 5.2GHz Turbo, 104MB Cache, PCIe 5.0, 120W, CPU, Retail",
-            "price": 40999,
+            "price": 39998,
             "availability": "In Stock"
         },
         "LN167299": {
@@ -1051,7 +1051,7 @@
             "ln_number": "LN149412",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 9700X, AM5, Zen 5, 8 Core, 16 Thread, 3.8GHz, 5.5GHz Turbo, 32MB Cache, PCIe 5.0, 65W, CPU",
-            "price": 27599,
+            "price": 29999,
             "availability": "In Stock"
         }
     },
@@ -1529,18 +1529,18 @@
             "price": 43099,
             "availability": "In Stock"
         },
-        "LN134123": {
-            "ln_number": "LN134123",
-            "manufacturer": "Corsair",
-            "description": "48GB (2x24GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 47999,
-            "availability": "In Stock"
-        },
         "LN134121": {
             "ln_number": "LN134121",
             "manufacturer": "Corsair",
             "description": "48GB (2x24GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 51548,
+            "availability": "In Stock"
+        },
+        "LN134123": {
+            "ln_number": "LN134123",
+            "manufacturer": "Corsair",
+            "description": "48GB (2x24GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 53999,
             "availability": "In Stock"
         },
         "LN165928": {
@@ -2319,13 +2319,6 @@
             "price": 9998,
             "availability": "In Stock"
         },
-        "LN139272": {
-            "ln_number": "LN139272",
-            "manufacturer": "Cooler Master",
-            "description": "750W Cooler Master GX III, Fully Modular, PCIe 5 80PLUS Gold, Single Rail, 62.5A,135mm HDB Fan, ATX3.0 PSU",
-            "price": 10999,
-            "availability": "In Stock"
-        },
         "LN156123": {
             "ln_number": "LN156123",
             "manufacturer": "ASUS",
@@ -2352,6 +2345,13 @@
             "manufacturer": "Seasonic",
             "description": "750W Seasonic FOCUS GX, Fully Modular, ATX 3.1, PCIe 5.1, 80 PLUS Gold, EPS, Single Rail, 62A, 135mm Fan, PSU, Black",
             "price": 11999,
+            "availability": "In Stock"
+        },
+        "LN139272": {
+            "ln_number": "LN139272",
+            "manufacturer": "Cooler Master",
+            "description": "750W Cooler Master GX III, Fully Modular, PCIe 5 80PLUS Gold, Single Rail, 62.5A,135mm HDB Fan, ATX3.0 PSU",
+            "price": 12599,
             "availability": "In Stock"
         },
         "LN162811": {
@@ -3035,13 +3035,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS ROG ASTRAL NVIDIA GeForce RTX 5080 16GB GDDR7 Graphics Card, DLSS 4, 10752 Core, 2670 MHz Boost",
             "price": 155899,
-            "availability": "In Stock"
-        },
-        "LN162505": {
-            "ln_number": "LN162505",
-            "manufacturer": "ASUS",
-            "description": "ASUS NVIDIA GeForce RTX 5080 Noctua OC 16GB GDDR7 Graphics Card, DLSS 4, 10752 Core, 2730 MHz Boost",
-            "price": 155999,
             "availability": "In Stock"
         },
         "LN155367": {
@@ -3839,18 +3832,18 @@
             "price": 69499,
             "availability": "In Stock"
         },
+        "LN154545": {
+            "ln_number": "LN154545",
+            "manufacturer": "PowerColor",
+            "description": "PowerColor Radeon RX 9070 XT REAPER 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, 2970MHz Boost",
+            "price": 59999,
+            "availability": "In Stock"
+        },
         "LN156797": {
             "ln_number": "LN156797",
             "manufacturer": "XFX",
             "description": "XFX Swift Radeon RX 9070 XT Triple Fan Gaming 16GB GDDR6 Graphics Card, Black, RDNA 4, 4096 Streams, 2970MHz Boost",
             "price": 62999,
-            "availability": "In Stock"
-        },
-        "LN154545": {
-            "ln_number": "LN154545",
-            "manufacturer": "PowerColor",
-            "description": "PowerColor Radeon RX 9070 XT REAPER 16GB GDDR6 Graphics Card, RDNA4, 4096 Streams, 2970MHz Boost",
-            "price": 63199,
             "availability": "In Stock"
         },
         "LN156796": {
@@ -4216,6 +4209,13 @@
             "price": 1999,
             "availability": "In Stock"
         },
+        "LN166150": {
+            "ln_number": "LN166150",
+            "manufacturer": "Kioxia",
+            "description": "1TB KIOXIA EXCERIA 7400 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1000k  1150k IOPS",
+            "price": 10998,
+            "availability": "In Stock"
+        },
         "LN151057": {
             "ln_number": "LN151057",
             "manufacturer": "Kingston",
@@ -4228,13 +4228,6 @@
             "manufacturer": "Crucial",
             "description": "1TB Crucial P310, M.2 (2230) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6000MBs Write, 1000k1200k IOPS",
             "price": 11999,
-            "availability": "In Stock"
-        },
-        "LN166150": {
-            "ln_number": "LN166150",
-            "manufacturer": "Kioxia",
-            "description": "1TB KIOXIA EXCERIA 7400 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1000k  1150k IOPS",
-            "price": 12499,
             "availability": "In Stock"
         },
         "LN154942": {
@@ -4349,13 +4342,6 @@
             "price": 28999,
             "availability": "In Stock"
         },
-        "LN154941": {
-            "ln_number": "LN154941",
-            "manufacturer": "WD",
-            "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
-            "price": 31998,
-            "availability": "In Stock"
-        },
         "LN130047": {
             "ln_number": "LN130047",
             "manufacturer": "Samsung",
@@ -4389,6 +4375,13 @@
             "manufacturer": "WD",
             "description": "2TB WD Blue SN5100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6700MBs Write, 1000k1300k IOPS",
             "price": 39998,
+            "availability": "In Stock"
+        },
+        "LN154941": {
+            "ln_number": "LN154941",
+            "manufacturer": "WD",
+            "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
+            "price": 41999,
             "availability": "In Stock"
         },
         "LN152122": {
@@ -4617,13 +4610,6 @@
             "price": 37998,
             "availability": "In Stock"
         },
-        "LN159494": {
-            "ln_number": "LN159494",
-            "manufacturer": "WD",
-            "description": "2TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
-            "price": 37999,
-            "availability": "In Stock"
-        },
         "LN164636": {
             "ln_number": "LN164636",
             "manufacturer": "Corsair",
@@ -4708,6 +4694,13 @@
             "price": 53498,
             "availability": "In Stock"
         },
+        "LN159494": {
+            "ln_number": "LN159494",
+            "manufacturer": "WD",
+            "description": "2TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
+            "price": 57949,
+            "availability": "In Stock"
+        },
         "LN166348": {
             "ln_number": "LN166348",
             "manufacturer": "Kingston",
@@ -4768,7 +4761,7 @@
             "ln_number": "LN154941",
             "manufacturer": "WD",
             "description": "2TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7250MBs Read, 6900MBs Write, 1000k1400k IOPS",
-            "price": 31998,
+            "price": 41999,
             "availability": "In Stock"
         },
         "LN151474": {
