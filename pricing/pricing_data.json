@@ -1,11 +1,11 @@
 {
-    "__fetched__": "2026-02-01T09:30:21.887548",
+    "__fetched__": "2026-02-02T09:30:21.573020",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING X870E-PLUS WIFI7, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, WiFi7, USB 4.0, AMD EXPO, ATX",
-            "price": 28999,
+            "price": 30799,
             "availability": "In Stock"
         },
         "LN154199": {
@@ -47,7 +47,7 @@
             "ln_number": "LN162721",
             "manufacturer": "ASUS",
             "description": "ASUS ROG Strix X870E-H Gaming WIFI7, AMD X870E, AM5, DDR5, PCIe 5.0, 4x M.2, 5GbE, WiFi 7, USB4, AMD EXPO, ATX",
-            "price": 30998,
+            "price": 31999,
             "availability": "In Stock"
         },
         "LN151934": {
@@ -462,13 +462,20 @@
             "ln_number": "LN154666",
             "manufacturer": "ASUS",
             "description": "ASUS ROG STRIX B850-A GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4 x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, ATX",
-            "price": 25999,
+            "price": 24998,
             "availability": "In Stock"
         },
         "LN154665": {
             "ln_number": "LN154665",
             "manufacturer": "ASUS",
             "description": "ASUS ROG STRIX B850-F GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 4x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, ATX",
+            "price": 25999,
+            "availability": "In Stock"
+        },
+        "LN154664": {
+            "ln_number": "LN154664",
+            "manufacturer": "ASUS",
+            "description": "ASUS ROG STRIX B850-E GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 5 x M.2, 5GWiFi7, USB 40Gbps, AMD EXPO, ATX",
             "price": 26999,
             "availability": "In Stock"
         },
@@ -477,13 +484,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B850-BTF WIFI W, AMD B850, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, ATX",
             "price": 26999,
-            "availability": "In Stock"
-        },
-        "LN154664": {
-            "ln_number": "LN154664",
-            "manufacturer": "ASUS",
-            "description": "ASUS ROG STRIX B850-E GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 5 x M.2, 5GWiFi7, USB 40Gbps, AMD EXPO, ATX",
-            "price": 27998,
             "availability": "In Stock"
         },
         "LN167685": {
@@ -672,7 +672,7 @@
             "ln_number": "LN154667",
             "manufacturer": "ASUS",
             "description": "ASUS ROG STRIX B850-I GAMING WiFi, AMD B850, AM5, DDR5, PCIe 5.0, 2 x M.2, 2.5GWiFi7, USB 20Gbps, AMD EXPO, mITX",
-            "price": 29999,
+            "price": 28999,
             "availability": "In Stock"
         },
         "LN154851": {
@@ -693,7 +693,7 @@
             "ln_number": "LN154671",
             "manufacturer": "ASUS",
             "description": "ASUS PRIME B840-PLUS WIFI, AMD B840, AM5, DDR5, PCIe 4.0, 3x M.2, 2.5GbE, ax WiFi 6EBT, USB 10Gbps Type-A+C, ATX",
-            "price": 16999,
+            "price": 14999,
             "availability": "In Stock"
         },
         "LN165206": {
@@ -770,7 +770,14 @@
             "ln_number": "LN146651",
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B650-E WIFI, AMD B650, AM5, DDR5, PCIe 4.0, 3x M.2, WIFI 6E2.5GbE, USB Type-C, AMD EXPO, ATX",
-            "price": 14399,
+            "price": 13999,
+            "availability": "In Stock"
+        },
+        "LN158664": {
+            "ln_number": "LN158664",
+            "manufacturer": "ASUS",
+            "description": "ASUS TUF GAMING B650E-E WIFI, AMD B650, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 10Gbps, AMD EXPO, ATX",
+            "price": 13999,
             "availability": "In Stock"
         },
         "LN130670": {
@@ -778,6 +785,13 @@
             "manufacturer": "ASRock",
             "description": "ASRock AMD B650 PRO RS, AMD B650, S AM5, DDR5, PCIe 4.0, 3x M.2, 2.5GbE, AMD EXPO, ATX",
             "price": 14699,
+            "availability": "In Stock"
+        },
+        "LN158661": {
+            "ln_number": "LN158661",
+            "manufacturer": "ASUS",
+            "description": "ASUS TUF GAMING B650E-PLUS WIFI, AMD B650, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 20Gbps, AMD EXPO, ATX",
+            "price": 15998,
             "availability": "In Stock"
         },
         "LN158663": {
@@ -792,13 +806,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS TUF GAMING B650-PLUS, AMD B650, AM5, DDR5, PCIe 4.0, 3x M.2, 2.5GbE, AMD EXPO, ATX",
             "price": 17498,
-            "availability": "In Stock"
-        },
-        "LN158661": {
-            "ln_number": "LN158661",
-            "manufacturer": "ASUS",
-            "description": "ASUS TUF GAMING B650E-PLUS WIFI, AMD B650, AM5, DDR5, PCIe 5.0, 3x M.2, 2.5GWiFi 6E, USB 20Gbps, AMD EXPO, ATX",
-            "price": 18998,
             "availability": "In Stock"
         },
         "LN129784": {
@@ -1083,7 +1090,7 @@
             "ln_number": "LN133834",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7800X3D, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.0GHz Turbo, 96MB Cache, PCIe 5.0, 120W TDP, CPU",
-            "price": 38999,
+            "price": 37999,
             "availability": "In Stock"
         },
         "LN131631": {
@@ -1115,14 +1122,14 @@
             "ln_number": "LN148070",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 8400F, AM5, Zen 4, 6 Core, 12 Thread, 4.2GHz, 4.7GHz Turbo, 22MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 15499,
+            "price": 14699,
             "availability": "In Stock"
         },
         "LN143902": {
             "ln_number": "LN143902",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 8500G, AM5, Zen 4, 6 Core, 12 Thread, 3.7GHz, 5.0GHz Turbo, 22MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 15698,
+            "price": 15499,
             "availability": "In Stock"
         },
         "LN143901": {
@@ -1152,7 +1159,7 @@
             "ln_number": "LN163914",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 7400, AM5, Zen 4, 6 Core, 12 Thread, 3.3GHz, 4.3GHz Turbo, 16MB Cache, PCIe 5.0, 65W, CPU",
-            "price": 12799,
+            "price": 12499,
             "availability": "In Stock"
         },
         "LN164629": {
@@ -1166,7 +1173,7 @@
             "ln_number": "LN133834",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 7800X3D, AM5, Zen 4, 8 Core, 16 Thread, 4.2GHz, 5.0GHz Turbo, 96MB Cache, PCIe 5.0, 120W TDP, CPU",
-            "price": 38999,
+            "price": 37999,
             "availability": "In Stock"
         }
     },
@@ -1175,7 +1182,7 @@
             "ln_number": "LN143902",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 8500G, AM5, Zen 4, 6 Core, 12 Thread, 3.7GHz, 5.0GHz Turbo, 22MB Cache, PCIe 4.0, 65W, CPU, Retail",
-            "price": 15698,
+            "price": 15499,
             "availability": "In Stock"
         },
         "LN143901": {
@@ -1198,14 +1205,14 @@
             "ln_number": "LN149415",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 5800XT, AM4, Zen 3, 8 Core, 16 Thread, 3.8GHz, 4.8GHz Turbo, 32MB Cache, PCIe 4.0, 105W, CPU",
-            "price": 22699,
+            "price": 21599,
             "availability": "In Stock"
         },
         "LN125002": {
             "ln_number": "LN125002",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 7 5700X, AM4, Zen 3, 8 Core, 16 Thread, 3.4GHz, 4.6GHz Turbo, 36MB Cache, PCIe 4.0, 65W, CPU",
-            "price": 24499,
+            "price": 25199,
             "availability": "In Stock"
         },
         "LN111442": {
@@ -1221,7 +1228,7 @@
             "ln_number": "LN125004",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5500, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.2GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU",
-            "price": 13999,
+            "price": 13499,
             "availability": "In Stock"
         },
         "LN153271": {
@@ -1235,21 +1242,21 @@
             "ln_number": "LN153270",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5600 XT, AM4, Zen 3, 6 Core, 12 Thread, 3.7GHz, 4.7GHz Turbo, 35MB Cache, PCIe 4.0, 65W, CPU",
-            "price": 15499,
+            "price": 15199,
             "availability": "In Stock"
         },
         "LN143906": {
             "ln_number": "LN143906",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5500GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.4GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
-            "price": 11299,
+            "price": 10999,
             "availability": "In Stock"
         },
         "LN143905": {
             "ln_number": "LN143905",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5600GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.6GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
-            "price": 11999,
+            "price": 12199,
             "availability": "In Stock"
         }
     },
@@ -1258,7 +1265,7 @@
             "ln_number": "LN125005",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 4500, AM4, Zen 2, 6 Core, 12 Thread, 3.6GHz, 4.1GHz Turbo, 11MB Cache, PCIe 3.0, 65W, CPU",
-            "price": 11999,
+            "price": 11399,
             "availability": "In Stock"
         }
     },
@@ -1274,14 +1281,14 @@
             "ln_number": "LN143906",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5500GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.4GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
-            "price": 11299,
+            "price": 10999,
             "availability": "In Stock"
         },
         "LN143905": {
             "ln_number": "LN143905",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 5 5600GT, AM4, Zen 3, 6 Core, 12 Thread, 3.6GHz, 4.6GHz Turbo, 19MB Cache, PCIe 3.0, 65W, CPU, Retail",
-            "price": 11999,
+            "price": 12199,
             "availability": "In Stock"
         }
     },
@@ -1291,7 +1298,7 @@
             "ln_number": "LN99203",
             "manufacturer": "AMD",
             "description": "AMD Ryzen 3 3200G w RADEON RX VEGA 8 Graphics, AM4, Zen+, Quad Core, 4 Thread, 3.6GHz, 4.0GHz Turbo, 4MB, 65W, CPU",
-            "price": 5549,
+            "price": 5498,
             "availability": "In Stock"
         }
     },
@@ -1415,13 +1422,6 @@
             "price": 98399,
             "availability": "In Stock"
         },
-        "LN153129": {
-            "ln_number": "LN153129",
-            "manufacturer": "Corsair",
-            "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.4V",
-            "price": 109999,
-            "availability": "In Stock"
-        },
         "LN151316": {
             "ln_number": "LN151316",
             "manufacturer": "Corsair",
@@ -1434,6 +1434,13 @@
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 VENGEANCE RGB Grey, PC5-56000 (7000), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.4V",
             "price": 132100,
+            "availability": "In Stock"
+        },
+        "LN153129": {
+            "ln_number": "LN153129",
+            "manufacturer": "Corsair",
+            "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-57600 (7200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.4V",
+            "price": 132698,
             "availability": "In Stock"
         },
         "LN154069": {
@@ -1808,7 +1815,7 @@
             "ln_number": "LN165930",
             "manufacturer": "Corsair",
             "description": "64GB (2x32GB) Corsair DDR5 Vengeance RGB Black, PC5-38400 (4800), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.1V",
-            "price": 67999,
+            "price": 70699,
             "availability": "In Stock"
         },
         "LN129064": {
@@ -3030,13 +3037,6 @@
             "price": 146999,
             "availability": "In Stock"
         },
-        "LN167232": {
-            "ln_number": "LN167232",
-            "manufacturer": "ASUS",
-            "description": "ASUS ROG ASTRAL NVIDIA GeForce RTX 5080 16GB GDDR7 Graphics Card, DLSS 4, 10752 Core, 2670 MHz Boost",
-            "price": 155899,
-            "availability": "In Stock"
-        },
         "LN155367": {
             "ln_number": "LN155367",
             "manufacturer": "ASUS",
@@ -4049,13 +4049,6 @@
             "price": 38299,
             "availability": "In Stock"
         },
-        "LN166331": {
-            "ln_number": "LN166331",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte Radeon RX 9060 XT GAMING OC 16GB ICE GDDR6 Graphics Card, RDNA4, 2048 Streams, 3320 MHz Boost",
-            "price": 38399,
-            "availability": "In Stock"
-        },
         "LN159331": {
             "ln_number": "LN159331",
             "manufacturer": "Sapphire",
@@ -4780,17 +4773,17 @@
             "price": 4399,
             "availability": "In Stock"
         },
-        "LN107312": {
-            "ln_number": "LN107312",
-            "manufacturer": "Kioxia",
-            "description": "480GB KIOXIA EXCERIA, 2.5&quot; SSD, SATA 3.0 (6Gbs), TLC BiCS Flash, 555MBs Read, 540MBs Write",
-            "price": 6998,
-            "availability": "In Stock"
-        },
         "LN81315": {
             "ln_number": "LN81315",
             "manufacturer": "Kingston",
             "description": "240GB Kingston A400, 2.5&quot; SSD, SATA III - 6Gbs, 2Ch, TLC, 500MBs Read, 350MBs Write, Retail",
+            "price": 7999,
+            "availability": "In Stock"
+        },
+        "LN107312": {
+            "ln_number": "LN107312",
+            "manufacturer": "Kioxia",
+            "description": "480GB KIOXIA EXCERIA, 2.5&quot; SSD, SATA 3.0 (6Gbs), TLC BiCS Flash, 555MBs Read, 540MBs Write",
             "price": 7999,
             "availability": "In Stock"
         },
