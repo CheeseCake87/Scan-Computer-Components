@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-02-08T09:30:26.874271",
+    "__fetched__": "2026-02-09T09:30:26.844335",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1683,18 +1683,18 @@
             "price": 87998,
             "availability": "In Stock"
         },
-        "LN134122": {
-            "ln_number": "LN134122",
-            "manufacturer": "Corsair",
-            "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 94999,
-            "availability": "In Stock"
-        },
         "LN134120": {
             "ln_number": "LN134120",
             "manufacturer": "Corsair",
             "description": "96GB (2x48GB) Corsair DDR5 Vengeance Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
             "price": 99998,
+            "availability": "In Stock"
+        },
+        "LN134122": {
+            "ln_number": "LN134122",
+            "manufacturer": "Corsair",
+            "description": "96GB (2x48GB) Corsair DDR5 Vengeance RGB Black, PC5-44800 (5600), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
+            "price": 101749,
             "availability": "In Stock"
         },
         "LN140146": {
@@ -3331,13 +3331,6 @@
             "price": 59999,
             "availability": "In Stock"
         },
-        "LN158223": {
-            "ln_number": "LN158223",
-            "manufacturer": "Zotac",
-            "description": "ZOTAC NVIDIA GeForce RTX 5070 AMP White 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2587 MHz Boost",
-            "price": 59999,
-            "availability": "In Stock"
-        },
         "LN158628": {
             "ln_number": "LN158628",
             "manufacturer": "Zotac",
@@ -3349,6 +3342,13 @@
             "ln_number": "LN156892",
             "manufacturer": "ASUS",
             "description": "ASUS PRIME NVIDIA GeForce RTX 5070 OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2587 MHz Boost",
+            "price": 61799,
+            "availability": "In Stock"
+        },
+        "LN158223": {
+            "ln_number": "LN158223",
+            "manufacturer": "Zotac",
+            "description": "ZOTAC NVIDIA GeForce RTX 5070 AMP White 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Cores, 2587 MHz Boost",
             "price": 61799,
             "availability": "In Stock"
         },
@@ -4077,13 +4077,6 @@
             "price": 79999,
             "availability": "In Stock"
         },
-        "LN156801": {
-            "ln_number": "LN156801",
-            "manufacturer": "XFX",
-            "description": "XFX Swift Radeon RX 9070 Triple Fan Gaming 16GB GDDR6 Graphics Card, White, RDNA 4, 3584 Streams, 2700MHz Boost",
-            "price": 56999,
-            "availability": "In Stock"
-        },
         "LN160118": {
             "ln_number": "LN160118",
             "manufacturer": "XFX",
@@ -4444,7 +4437,7 @@
             "ln_number": "LN144589",
             "manufacturer": "Corsair",
             "description": "1TB Corsair MP600 ELITE, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6200MBs Write, 1000k1000k IOPS",
-            "price": 24899,
+            "price": 28099,
             "availability": "In Stock"
         },
         "LN128193": {
@@ -4563,14 +4556,14 @@
             "ln_number": "LN130063",
             "manufacturer": "Corsair",
             "description": "4TB Corsair MP600 PRO NH, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6500MBs Write, 1000k1200k, PS5 Compatible",
-            "price": 54499,
+            "price": 60998,
             "availability": "In Stock"
         },
         "LN119456": {
             "ln_number": "LN119456",
             "manufacturer": "Corsair",
             "description": "4TB Corsair MP600 PRO XT, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7100MBs Read, 6800MBs Write, 1000k1200k, PS5 Compatible",
-            "price": 55049,
+            "price": 61549,
             "availability": "In Stock"
         },
         "LN162886": {
@@ -4614,14 +4607,14 @@
             "ln_number": "LN164634",
             "manufacturer": "Corsair",
             "description": "1TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14200MBs Write, 1500k  3300k IOPS",
-            "price": 20099,
+            "price": 30248,
             "availability": "In Stock"
         },
         "LN164635": {
             "ln_number": "LN164635",
             "manufacturer": "Corsair",
             "description": "2TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14500MBs Write, 2700k  3300k IOPS",
-            "price": 32798,
+            "price": 35648,
             "availability": "In Stock"
         },
         "LN157771": {
@@ -4750,13 +4743,6 @@
             "price": 49998,
             "availability": "In Stock"
         },
-        "LN164360": {
-            "ln_number": "LN164360",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
-            "price": 49999,
-            "availability": "In Stock"
-        },
         "LN145968": {
             "ln_number": "LN145968",
             "manufacturer": "Crucial",
@@ -4771,39 +4757,18 @@
             "price": 49999,
             "availability": "In Stock"
         },
-        "LN165654": {
-            "ln_number": "LN165654",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14400MBs Write, 1500k  3300k IOPS",
-            "price": 50048,
-            "availability": "In Stock"
-        },
-        "LN146002": {
-            "ln_number": "LN146002",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 PRO w Air Cooler, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 12400MBs Read, 11800MBs Write,1700k1600k IOPS",
-            "price": 50798,
-            "availability": "In Stock"
-        },
         "LN147722": {
             "ln_number": "LN147722",
             "manufacturer": "Corsair",
             "description": "4TB Corsair MP700 PRO SE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14000MBs Read, 12000MBs Write, 1700k1600k IOPS",
-            "price": 50999,
+            "price": 50749,
             "availability": "In Stock"
         },
-        "LN146000": {
-            "ln_number": "LN146000",
+        "LN165654": {
+            "ln_number": "LN165654",
             "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 PRO Hydro X Series, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 12400MBs Read,11800MBs Write,1700k1600k IOPS",
-            "price": 51848,
-            "availability": "In Stock"
-        },
-        "LN164636": {
-            "ln_number": "LN164636",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 MICRO, M.2 (2242) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
-            "price": 51998,
+            "description": "4TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14400MBs Write, 1500k  3300k IOPS",
+            "price": 50849,
             "availability": "In Stock"
         },
         "LN157535": {
@@ -4811,6 +4776,20 @@
             "manufacturer": "Samsung",
             "description": "4TB Samsung 9100 PRO w Heatsink, M.2 2280, PCIe 5.0, NVMe SSD, V-NAND TLC, 14800 MBs, 13400 MBs, 2200K  2600K IOPS",
             "price": 52999,
+            "availability": "In Stock"
+        },
+        "LN164360": {
+            "ln_number": "LN164360",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
+            "price": 56149,
+            "availability": "In Stock"
+        },
+        "LN146002": {
+            "ln_number": "LN146002",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 PRO w Air Cooler, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 12400MBs Read, 11800MBs Write,1700k1600k IOPS",
+            "price": 57799,
             "availability": "In Stock"
         },
         "LN166348": {
@@ -4827,11 +4806,25 @@
             "price": 57998,
             "availability": "In Stock"
         },
+        "LN146000": {
+            "ln_number": "LN146000",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 PRO Hydro X Series, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 12400MBs Read,11800MBs Write,1700k1600k IOPS",
+            "price": 58298,
+            "availability": "In Stock"
+        },
         "LN146944": {
             "ln_number": "LN146944",
             "manufacturer": "Sabrent",
             "description": "4TB Sabrent Rocket 5, M.2 (2280) PCIe 5.0 (x4), NVMe SSD, 14,000MBs Read, 12,000MBs Write, 1400k1400k IOPS",
             "price": 59999,
+            "availability": "In Stock"
+        },
+        "LN164636": {
+            "ln_number": "LN164636",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 MICRO, M.2 (2242) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
+            "price": 80999,
             "availability": "In Stock"
         },
         "LN161535": {
