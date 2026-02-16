@@ -1,5 +1,5 @@
 {
-    "__fetched__": "2026-02-15T09:30:25.138412",
+    "__fetched__": "2026-02-16T09:30:27.283164",
     "mobo-am5-enthusiast": {
         "LN160173": {
             "ln_number": "LN160173",
@@ -1717,7 +1717,7 @@
             "ln_number": "LN135525",
             "manufacturer": "Corsair",
             "description": "16GB (2x8GB) Corsair DDR5 Vengeance Black, PC5-41600 (5200), Non-ECC Unbuffered, CAS 40, XMP 3.0, 1.25V",
-            "price": 19999,
+            "price": 20999,
             "availability": "In Stock"
         },
         "LN127742": {
@@ -2242,6 +2242,13 @@
             "price": 7999,
             "availability": "In Stock"
         },
+        "LN156123": {
+            "ln_number": "LN156123",
+            "manufacturer": "ASUS",
+            "description": "750W ASUS Prime Gold, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 62A, 135mm Fan, ATX3.1  PSU, OEM",
+            "price": 8498,
+            "availability": "In Stock"
+        },
         "LN158326": {
             "ln_number": "LN158326",
             "manufacturer": "ThermalTake",
@@ -2331,13 +2338,6 @@
             "manufacturer": "ThermalTake",
             "description": "750W Thermaltake GF A3, Modular, 80PLUS Gold, Cybernetics Platinum, Single Rail, PCIe 5.1, Smart Zero Fan ATX3.1",
             "price": 9998,
-            "availability": "In Stock"
-        },
-        "LN156123": {
-            "ln_number": "LN156123",
-            "manufacturer": "ASUS",
-            "description": "750W ASUS Prime Gold, Fully Modular, PCIE 5 80PLUS Gold, Single Rail, 62A, 135mm Fan, ATX3.1  PSU, OEM",
-            "price": 11549,
             "availability": "In Stock"
         },
         "LN129716": {
@@ -2650,6 +2650,20 @@
             "price": 9998,
             "availability": "In Stock"
         },
+        "LN152258": {
+            "ln_number": "LN152258",
+            "manufacturer": "Lian Li",
+            "description": "850W Lian Li EDGE850, Fully Modular, PCIE 5.1 80PLUS Platinum, Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU, Black",
+            "price": 9998,
+            "availability": "In Stock"
+        },
+        "LN152259": {
+            "ln_number": "LN152259",
+            "manufacturer": "Lian Li",
+            "description": "850W Lian Li EDGE850, Fully Modular, PCIE 5.1 80PLUS Platinum, Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU, White",
+            "price": 9998,
+            "availability": "In Stock"
+        },
         "LN156904": {
             "ln_number": "LN156904",
             "manufacturer": "Montech",
@@ -2734,20 +2748,6 @@
             "price": 12499,
             "availability": "In Stock"
         },
-        "LN152258": {
-            "ln_number": "LN152258",
-            "manufacturer": "Lian Li",
-            "description": "850W Lian Li EDGE850, Fully Modular, PCIE 5.1 80PLUS Platinum, Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU, Black",
-            "price": 12599,
-            "availability": "In Stock"
-        },
-        "LN152259": {
-            "ln_number": "LN152259",
-            "manufacturer": "Lian Li",
-            "description": "850W Lian Li EDGE850, Fully Modular, PCIE 5.1 80PLUS Platinum, Single Rail, 70.8A, 120mm Fan, ATX3.1 PSU, White",
-            "price": 12599,
-            "availability": "In Stock"
-        },
         "LN155893": {
             "ln_number": "LN155893",
             "manufacturer": "be quiet!",
@@ -2783,18 +2783,18 @@
             "price": 14999,
             "availability": "In Stock"
         },
+        "LN153608": {
+            "ln_number": "LN153608",
+            "manufacturer": "ASUS",
+            "description": "850W ASUS ROG STRIX Platinum, Fully Modular, 80PLUS Platinum, Single Rail, 70.8A, 135mm Fan, ATX 3.1 PSU",
+            "price": 15998,
+            "availability": "In Stock"
+        },
         "LN93180": {
             "ln_number": "LN93180",
             "manufacturer": "ASUS",
             "description": "850W ASUS ROG-THOR-850P, Full Modular, 80PLUS Platinum, SLICrossFire, 71A, 135mm Fan, PSU",
             "price": 16999,
-            "availability": "In Stock"
-        },
-        "LN153608": {
-            "ln_number": "LN153608",
-            "manufacturer": "ASUS",
-            "description": "850W ASUS ROG STRIX Platinum, Fully Modular, 80PLUS Platinum, Single Rail, 70.8A, 135mm Fan, ATX 3.1 PSU",
-            "price": 17999,
             "availability": "In Stock"
         },
         "LN165193": {
@@ -2930,13 +2930,6 @@
             "manufacturer": "ASUS",
             "description": "ASUS ROG ASTRAL NVIDIA GeForce RTX 5090 GAMING OC 32GB GDDR7 Graphics Card, DLSS 4, 21760 Core, 2610 MHz Boost",
             "price": 395999,
-            "availability": "In Stock"
-        },
-        "LN168048": {
-            "ln_number": "LN168048",
-            "manufacturer": "MSI",
-            "description": "MSI NVIDIA GeForce RTX 5090 LIGHTNING Z 32GB GDDR7 Graphics Card, All-in-One Cooler, DLSS 4, 21760 Core, 2730 MHz Boost",
-            "price": 499999,
             "availability": "In Stock"
         },
         "LN154312": {
@@ -3184,18 +3177,18 @@
             "price": 102998,
             "availability": "In Stock"
         },
-        "LN158545": {
-            "ln_number": "LN158545",
-            "manufacturer": "Gigabyte",
-            "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2452 MHz Boost",
-            "price": 78998,
-            "availability": "In Stock"
-        },
         "LN159187": {
             "ln_number": "LN159187",
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 Ti GamingPro-S 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 8960 Core, 2452 MHz Boost",
             "price": 81998,
+            "availability": "In Stock"
+        },
+        "LN158545": {
+            "ln_number": "LN158545",
+            "manufacturer": "Gigabyte",
+            "description": "Gigabyte NVIDIA GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7 Graphics Card, DLSS 4, 8960 Cores, 2452 MHz Boost",
+            "price": 85799,
             "availability": "In Stock"
         },
         "LN156114": {
@@ -3350,13 +3343,6 @@
             "manufacturer": "Palit",
             "description": "PALIT NVIDIA GeForce RTX 5070 GamingPro 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2512 MHz Boost",
             "price": 56879,
-            "availability": "In Stock"
-        },
-        "LN157147": {
-            "ln_number": "LN157147",
-            "manufacturer": "Palit",
-            "description": "PALIT NVIDIA GeForce RTX 5070 GamingPro OC 12GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 6144 Core, 2572 MHz Boost",
-            "price": 58799,
             "availability": "In Stock"
         },
         "LN157007": {
@@ -3567,13 +3553,6 @@
             "manufacturer": "MSI",
             "description": "MSI NVIDIA GeForce RTX 5060 Ti GAMING TRIO OC 16GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Core, 2647 MHz Boost",
             "price": 54799,
-            "availability": "In Stock"
-        },
-        "LN158080": {
-            "ln_number": "LN158080",
-            "manufacturer": "Palit",
-            "description": "Palit NVIDIA GeForce RTX 5060 Ti DUAL 8GB GDDR7 Ray-Tracing Graphics Card, DLSS 4, 4608 Cores, 2572 MHz Boost",
-            "price": 36299,
             "availability": "In Stock"
         },
         "LN158382": {
@@ -3967,7 +3946,7 @@
             "ln_number": "LN129372",
             "manufacturer": "ASUS",
             "description": "ASUS ROG Herculx Graphics Card Holder, Aura Sync ARGB, 72-128mm Adjustment, Magnetic Spirit Level, Toolless",
-            "price": 3499,
+            "price": 2999,
             "availability": "In Stock"
         },
         "LN167583": {
@@ -4346,7 +4325,7 @@
             "ln_number": "LN166150",
             "manufacturer": "Kioxia",
             "description": "1TB KIOXIA EXCERIA 7400 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1000k  1150k IOPS",
-            "price": 11999,
+            "price": 12499,
             "availability": "In Stock"
         },
         "LN154942": {
@@ -4580,11 +4559,25 @@
             "price": 49999,
             "availability": "In Stock"
         },
+        "LN128194": {
+            "ln_number": "LN128194",
+            "manufacturer": "WD",
+            "description": "4TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
+            "price": 59999,
+            "availability": "In Stock"
+        },
         "LN162886": {
             "ln_number": "LN162886",
             "manufacturer": "WD",
             "description": "4TB WD Black SN7100 M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6700MBs Write, 900k1350k IOPS",
             "price": 76799,
+            "availability": "In Stock"
+        },
+        "LN130062": {
+            "ln_number": "LN130062",
+            "manufacturer": "Corsair",
+            "description": "8TB Corsair MP600 PRO NH, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6100MBs Write, 950k1200k, PS5 Compatible",
+            "price": 96649,
             "availability": "In Stock"
         },
         "LN145272": {
@@ -4594,25 +4587,11 @@
             "price": 97999,
             "availability": "In Stock"
         },
-        "LN128194": {
-            "ln_number": "LN128194",
-            "manufacturer": "WD",
-            "description": "4TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7300MBs Read, 6600MBs Write, PCPS5",
-            "price": 99998,
-            "availability": "In Stock"
-        },
         "LN150212": {
             "ln_number": "LN150212",
             "manufacturer": "WD",
             "description": "8TB WD Black SN850X, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7200MBs Read, 6600MBs Write, 1200K IOPS",
             "price": 105998,
-            "availability": "In Stock"
-        },
-        "LN130062": {
-            "ln_number": "LN130062",
-            "manufacturer": "Corsair",
-            "description": "8TB Corsair MP600 PRO NH, M.2 (2280) PCIe 4.0 (x4) NVMe SSD, 7000MBs Read, 6100MBs Write, 950k1200k, PS5 Compatible",
-            "price": 106999,
             "availability": "In Stock"
         },
         "LN150211": {
@@ -4635,14 +4614,14 @@
             "ln_number": "LN164634",
             "manufacturer": "Corsair",
             "description": "1TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14200MBs Write, 1500k  3300k IOPS",
-            "price": 30248,
+            "price": 31349,
             "availability": "In Stock"
         },
         "LN164635": {
             "ln_number": "LN164635",
             "manufacturer": "Corsair",
             "description": "2TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14500MBs Write, 2700k  3300k IOPS",
-            "price": 35999,
+            "price": 45899,
             "availability": "In Stock"
         },
         "LN157771": {
@@ -4736,18 +4715,18 @@
             "price": 32899,
             "availability": "In Stock"
         },
-        "LN153036": {
-            "ln_number": "LN153036",
-            "manufacturer": "Corsair",
-            "description": "2TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 10000MBs Read, 8500MBs Write, 1300k1400k IOPS",
-            "price": 34549,
-            "availability": "In Stock"
-        },
         "LN166347": {
             "ln_number": "LN166347",
             "manufacturer": "Kingston",
             "description": "2TB Kingston FURY Renegade G5, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14700MBs Read, 14000MBs Write, 2200k  2200k IOPS",
             "price": 37998,
+            "availability": "In Stock"
+        },
+        "LN153036": {
+            "ln_number": "LN153036",
+            "manufacturer": "Corsair",
+            "description": "2TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 10000MBs Read, 8500MBs Write, 1300k1400k IOPS",
+            "price": 43199,
             "availability": "In Stock"
         },
         "LN146000": {
@@ -4806,32 +4785,11 @@
             "price": 53999,
             "availability": "In Stock"
         },
-        "LN165654": {
-            "ln_number": "LN165654",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14400MBs Write, 1500k  3300k IOPS",
-            "price": 54599,
-            "availability": "In Stock"
-        },
         "LN159495": {
             "ln_number": "LN159495",
             "manufacturer": "WD",
             "description": "4TB WD Black SN8100 M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14,900MBs Read, 14,000MBs Write, 2.3M  2.4M IOPS",
             "price": 55998,
-            "availability": "In Stock"
-        },
-        "LN164360": {
-            "ln_number": "LN164360",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
-            "price": 56149,
-            "availability": "In Stock"
-        },
-        "LN164346": {
-            "ln_number": "LN164346",
-            "manufacturer": "Corsair",
-            "description": "4TB Corsair MP700 ELITE w Heatsink, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200K1400K IOPS",
-            "price": 56899,
             "availability": "In Stock"
         },
         "LN166348": {
@@ -4848,11 +4806,32 @@
             "price": 59999,
             "availability": "In Stock"
         },
+        "LN164360": {
+            "ln_number": "LN164360",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 ELITE, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
+            "price": 70199,
+            "availability": "In Stock"
+        },
+        "LN164346": {
+            "ln_number": "LN164346",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 ELITE w Heatsink, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200K1400K IOPS",
+            "price": 70748,
+            "availability": "In Stock"
+        },
+        "LN165654": {
+            "ln_number": "LN165654",
+            "manufacturer": "Corsair",
+            "description": "4TB Corsair MP700 PRO XT, M.2 (2280) PCIe 5.0 (x4) NVMe SSD, 14900MBs Read, 14400MBs Write, 1500k  3300k IOPS",
+            "price": 72899,
+            "availability": "In Stock"
+        },
         "LN164636": {
             "ln_number": "LN164636",
             "manufacturer": "Corsair",
             "description": "4TB Corsair MP700 MICRO, M.2 (2242) PCIe 5.0 (x4) NVMe SSD, 9400MBs Read, 8100MBs Write, 1200k1400k IOPS",
-            "price": 80999,
+            "price": 97199,
             "availability": "In Stock"
         },
         "LN161534": {
