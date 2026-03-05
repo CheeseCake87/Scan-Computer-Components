@@ -1,32 +1,39 @@
 import logging
 from pathlib import Path
 
+import nodriver as uc
 from bs4 import BeautifulSoup
-import requests
 
 l = logging.getLogger('daily-runner')
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/91.0.4472.124 Safari/537.36"
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/91.0.4472.124 Safari/537.36"
 }
 
 
-def fetch_html(url: str, html_file: Path) -> str:
+async def fetcher(url: str) -> str:
+    browser = await uc.start()
+    page = await browser.get(url)
+
+    await page.sleep(10)
+
+    html_doc = await page.get_content()
+
+    browser.stop()
+
+    return html_doc
+
+
+async def fetch_html(url: str, html_file: Path) -> str:
     l.info(f"Fetching HTML from {url}")
 
-    html_doc = requests.get(
-        url,
-        headers=HEADERS,
-    )
+    result = await fetcher(url)
 
-    if html_doc.status_code != 200:
-        raise Exception("Failed to fetch HTML content")
+    html_file.write_text(result, encoding="utf-8")
 
-    html_file.write_text(html_doc.text)
-
-    return html_doc.text
+    return result
 
 
 def mix_soup(html: str):

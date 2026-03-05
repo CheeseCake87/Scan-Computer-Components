@@ -1,13 +1,15 @@
+import asyncio
 import json
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
+
 from .data import *
 from .utils import mix_soup, process_products, apply_filter, fetch_html
 
 CWD = Path.cwd()
 
 
-def process_urls():
+async def async_process_urls():
     pricing_folder = CWD / "pricing"
     html_path = pricing_folder / "html"
     pricing_data_file = pricing_folder / "pricing_data.json"
@@ -45,7 +47,7 @@ def process_urls():
             if file.exists():
                 file_data = file.read_text()
             else:
-                file_data = fetch_html(v, file)
+                file_data = await fetch_html(v, file)
 
             soup = mix_soup(file_data)
             products = process_products(soup)
@@ -53,3 +55,7 @@ def process_urls():
             pricing_data[k] = apply_filter(k, products)
 
     pricing_data_file.write_text(json.dumps(pricing_data, indent=4))
+
+
+def process_urls():
+    asyncio.run(async_process_urls())
