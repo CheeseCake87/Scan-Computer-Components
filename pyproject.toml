@@ -5,13 +5,15 @@ description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.14.2",
+    "nodriver>=0.48.1",
     "pyqwe>=3.1.1",
     "requests>=2.32.5",
     "ruff>=0.13.3",
+    "selenium>=4.41.0",
 ]
 
 [tool.pyqwe]
-run = "*:python3 -m fetcher"
+run = "fetcher:process_urls"
 daily = [
     "@sync",
     "*:python3 -m fetcher",
