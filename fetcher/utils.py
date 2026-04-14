@@ -14,7 +14,7 @@ HEADERS = {
 
 
 async def fetcher(url: str) -> str:
-    browser = await uc.start()
+    browser = await uc.start(sandbox=False)
     page = await browser.get(url)
 
     await page.sleep(10)
